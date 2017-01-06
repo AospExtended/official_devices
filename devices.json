@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Moto G 2015",
+    "brand": "Motorola",
+    "codename": "osprey",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=122729",
+    "maintainer_name": "ishubhamsingh",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5566914"
+  },
+  {
+    "name": "Moto X 2014",
+    "brand": "Motorola",
+    "codename": "victara",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=138237",
+    "maintainer_name": "Anderson Mendes",
+    "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=5696327"
+  }
+]
