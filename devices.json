@@ -14,5 +14,21 @@
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=138237",
     "maintainer_name": "Anderson Mendes",
     "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=5696327"
+  },
+  {
+    "name": "Moto E",
+    "brand": "Motorola",
+    "codename": "condor",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=139146",
+    "maintainer_name": "Anderson Mendes",
+    "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=5696327"
+  },
+  {
+    "name": "LG G2",
+    "brand": "LG",
+    "codename": "D802",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=138201",
+    "maintainer_name": "Valeriano",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5964093"
   }
 ]
