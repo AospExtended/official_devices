@@ -30,5 +30,13 @@
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=138201",
     "maintainer_name": "Valeriano",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5964093"
+  },
+  {
+    "name": "Moto G TE",
+    "brand": "Motorola",
+    "codename": "merlin",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=131885",
+    "maintainer_name": "ishubhamsingh",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5566914"
   }
 ]
