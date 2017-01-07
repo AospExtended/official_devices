@@ -1,4 +1,4 @@
-[
+ [
   {
     "name": "Moto G 2015",
     "brand": "Motorola",
@@ -34,7 +34,7 @@
     "maintainer_name": "Valeriano (jneto3000)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5964093",
     "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-v2-0-t3527025"
-  },
+   },
   {
     "name": "Moto G TE",
     "brand": "Motorola",
@@ -43,5 +43,23 @@
     "maintainer_name": "ishubhamsingh",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5566914",
     "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v1-2-t3507990"
+  },
+   {
+    "name": "Moto E 2015",
+    "brand": "Motorola",
+    "codename": "otus",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=139895",
+    "maintainer_name": "Hamza Badar",
+    "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=6797815",
+    "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
+  },
+ {
+    "name": "Moto E 2015 Lte",
+    "brand": "Motorola",
+    "codename": "surnia",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=142697",
+    "maintainer_name": "Hamza Badar",
+    "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=6797815",
+    "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
   }
 ]
