@@ -43,5 +43,14 @@
     "maintainer_name": "ishubhamsingh",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5566914",
     "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v1-2-t3507990"
+  },
+  {
+    "name": "Redmi Note 3",
+    "brand": "Xiaomi",
+    "codename": "kenzo",
+    "afh_folder": "https://www.androidfilehost.com/?fid=385035244224408124",
+    "maintainer_name": "Amol Amrit",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5615686",
+    "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v1-2-t3506955"
   }
 ]
