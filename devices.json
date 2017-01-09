@@ -80,4 +80,13 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4665275",
     "xda_thread": "https://forum.xda-developers.com/redmi-2/development/rom-aospextended-rom-v1-1-t3486744"
    }
+   {
+    "name": "Moto X Play",
+    "brand": "Motorola",
+    "codename": "lux",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=124456",
+    "maintainer_name": "Nick van Bokhorst (GtrCraft)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5293805",
+    "xda_thread": "https://forum.xda-developers.com/moto-x-play/development/rom-aospextended-rom-v1-1-t3486674"
+   }
  ] 
