@@ -88,5 +88,14 @@
     "maintainer_name": "Nick van Bokhorst (GtrCraft)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5293805",
     "xda_thread": "https://forum.xda-developers.com/moto-x-play/development/rom-aospextended-rom-v1-1-t3486674"
+   },
+   {
+    "name": "Nexus 6P",
+    "brand": "Google",
+    "codename": "angler",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=141131",
+    "maintainer_name": "FireLord",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6257538",
+    "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-v2-t3530382"
    }
- ] 
+ ]
