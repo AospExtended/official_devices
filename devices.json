@@ -106,5 +106,14 @@
     "maintainer_name": "FireLord",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6257538",
     "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-v2-t3530382"
-   }
+   },
+  {
+    "name": "LG G3",
+    "brand": "LGE",
+    "codename": "d855",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=144052",
+    "maintainer_name": "Rafael Marchetto (Marchetto96)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7366109",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/orig-development/aosp-extended-v3-0-t3536354"
+  }
  ]
