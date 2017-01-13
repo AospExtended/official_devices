@@ -125,4 +125,13 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7366109",
     "xda_thread": "https://forum.xda-developers.com/moto-g/development/aosp-extended-t3536430"
   }
+    {
+    "name": "Moto G 2014",
+    "brand": "Motorola",
+    "codename": "titan",
+    "afh_folder": "https://www.androidfilehost.com/?fid=457095661767129455",
+    "maintainer_name": "Kranoner",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7790189",
+    "xda_thread": "https://forum.xda-developers.com/moto-g-2014/development/rom-aospextended-rom-v3-0-t3537304"
+  }
  ]
