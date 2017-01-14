@@ -34,8 +34,8 @@
     "maintainer_name": "Valeriano (jneto3000)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5964093",
     "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-v2-0-t3527025"
-   },
-   {
+  },
+  {
     "name": "Vibe K5",
     "brand": "Lenovo",
     "codename": "A6020",
@@ -43,7 +43,7 @@
     "maintainer_name": "Valeriano (jneto3000)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5964093",
     "xda_thread": "https://forum.xda-developers.com/k5-plus/development/rom-aospextended-v3-0-t3536421"
-   },
+  },
   {
     "name": "Moto G TE",
     "brand": "Motorola",
@@ -62,7 +62,7 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5615686",
     "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v1-2-t3506955"
   },
-   {
+  {
     "name": "Moto E 2015",
     "brand": "Motorola",
     "codename": "otus",
@@ -71,7 +71,7 @@
     "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=6797815",
     "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
   },
- {
+  {
     "name": "Moto E 2015 LTE",
     "brand": "Motorola",
     "codename": "surnia",
@@ -80,7 +80,7 @@
     "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=6797815",
     "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
   },
-   {
+  {
     "name": "Redmi 2",
     "brand": "Xiaomi",
     "codename": "wt88047",
@@ -88,8 +88,8 @@
     "maintainer_name": "Saket Sawrav",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4665275",
     "xda_thread": "https://forum.xda-developers.com/redmi-2/development/rom-aospextended-rom-v1-1-t3486744"
-   },
-   {
+  },
+  {
     "name": "Moto X Play",
     "brand": "Motorola",
     "codename": "lux",
@@ -97,8 +97,8 @@
     "maintainer_name": "Nick van Bokhorst (GtrCraft)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5293805",
     "xda_thread": "https://forum.xda-developers.com/moto-x-play/development/rom-aospextended-rom-v1-1-t3486674"
-   },
-   {
+  },
+  {
     "name": "Nexus 6P",
     "brand": "Google",
     "codename": "angler",
@@ -106,7 +106,7 @@
     "maintainer_name": "FireLord",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6257538",
     "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-v2-t3530382"
-   },
+  },
   {
     "name": "G3",
     "brand": "LG",
@@ -115,7 +115,7 @@
     "maintainer_name": "Rafael Marchetto (Marchetto96)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7366109",
     "xda_thread": "https://forum.xda-developers.com/lg-g3/orig-development/aosp-extended-v3-0-t3536354"
-    },
+  },
   {
     "name": "Moto G",
     "brand": "Motorola",
@@ -125,7 +125,7 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7366109",
     "xda_thread": "https://forum.xda-developers.com/moto-g/development/aosp-extended-t3536430"
   },
-    {
+  {
     "name": "Moto G 2014",
     "brand": "Motorola",
     "codename": "titan",
@@ -133,5 +133,14 @@
     "maintainer_name": "Kranoner",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7790189",
     "xda_thread": "https://forum.xda-developers.com/moto-g-2014/development/rom-aospextended-rom-v3-0-t3537304"
-  }
+  },
+  {
+    "name": "Moto G4/G4 Plus",
+    "brand": "Motorola",
+    "codename": "athene",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=144783",
+    "maintainer_name": "rahulsnair",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5253673",
+    "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v3-0-t3537792"
+   }
  ]
