@@ -142,5 +142,14 @@
     "maintainer_name": "rahulsnair",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5253673",
     "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v3-0-t3537792"
+   },
+   {
+    "name": "OnePlus X",
+    "brand": "OnePlus",
+    "codename": "onyx",
+    "afh_folder": "https://www.androidfilehost.com/user/?w=settings-dev-files&flid=124348",
+    "maintainer_name": "Sanjay Varun",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5898022",
+    "xda_thread": "https://forum.xda-developers.com/oneplus-x/development/rom-aospextended-rom-v1-1-t3486261"
    }
  ]
