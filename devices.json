@@ -152,4 +152,14 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5898022",
     "xda_thread": "https://forum.xda-developers.com/oneplus-x/development/rom-aospextended-rom-v1-1-t3486261"
    }
+  
+   {
+    "name": "Moto G4 Play",
+    "brand": "Motorola",
+    "codename": "harpia",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=145983",
+    "maintainer_name": "Subhrajyoti Sen",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6623671",
+    "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-aospextended-rom-v3-0-t3540584"
+   }
  ]
