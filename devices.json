@@ -108,24 +108,6 @@
     "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-v2-t3530382"
   },
   {
-    "name": "G3",
-    "brand": "LG",
-    "codename": "D855",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=144052",
-    "maintainer_name": "Rafael Marchetto (Marchetto96)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7366109",
-    "xda_thread": "https://forum.xda-developers.com/lg-g3/orig-development/aosp-extended-v3-0-t3536354"
-  },
-  {
-    "name": "Moto G",
-    "brand": "Motorola",
-    "codename": "falcon",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=144093",
-    "maintainer_name": "Rafael Marchetto (Marchetto96)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7366109",
-    "xda_thread": "https://forum.xda-developers.com/moto-g/development/aosp-extended-t3536430"
-  },
-  {
     "name": "Moto G 2014",
     "brand": "Motorola",
     "codename": "titan",
