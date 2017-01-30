@@ -169,5 +169,13 @@
     "maintainer_name": "shrukul",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5753279",
     "xda_thread": "https://forum.xda-developers.com/yureka/development/rom-aospextended-rom-v3-1-t3547351"
+   },
+    "name": "OnePlus Two",
+    "brand": "OnePlus",
+    "codename": "op2",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=149505",
+    "maintainer_name": "Subham",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5753279",
+    "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-title-aospextended-rom-v3-1-t3547713"
    }
  ]
