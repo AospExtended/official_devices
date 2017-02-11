@@ -196,5 +196,15 @@
     "maintainer_name": "Prateek Chaubey",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5713232",
     "xda_thread": "https://forum.xda-developers.com/yu-yunique/development/rom-aospextended-rom-v3-1-t3554078"
-   }  
+    },
+   {
+    "name": "MI 4I",
+    "brand": "XIAOMI",
+    "codename": "ferrari",
+    "afh_folder": "https://www.androidfilehost.com/user/?w=settings-dev-files&flid=150728",
+    "maintainer_name": "Anand Roy",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5362095",
+    "xda_thread": "https://forum.xda-developers.com/mi-4i/development/rom-aospextended-rom-v3-1-t3550990"
+   }
+  
  ]
