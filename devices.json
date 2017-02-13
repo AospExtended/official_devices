@@ -36,6 +36,15 @@
     "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-v2-0-t3527025"
   },
   {
+    "name": "Lenovo A6000",
+    "brand": "Lenovo",
+    "codename": "a6000",
+    "afh_folder": "https://www.androidfilehost.com/user/?w=settings-dev-files&flid=153620",
+    "maintainer_name": "Harshit Jain (dev_harsh1998)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5835908",
+    "xda_thread": "https://forum.xda-developers.com/lenovo-a6000/development/rom-aosp-extended-t3555831"
+  },
+  {
     "name": "Vibe K5",
     "brand": "Lenovo",
     "codename": "A6020",
