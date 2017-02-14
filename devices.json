@@ -214,6 +214,15 @@
     "maintainer_name": "Anand Roy",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5362095",
     "xda_thread": "https://forum.xda-developers.com/mi-4i/development/rom-aospextended-rom-v3-1-t3550990"
+   },
+  {
+    "name": "Redmi 1S",
+    "brand": "Xiaomi",
+    "codename": "armani",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=153694",
+    "maintainer_name": "Vedant Kamlaskar",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4333151",
+    "xda_thread": "https://forum.xda-developers.com/redmi-1s/development/rom-aospextended-rom-v3-1-t3556147"
    }
   
  ]
