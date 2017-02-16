@@ -189,6 +189,15 @@
     "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-title-aospextended-rom-v3-1-t3547713"
    },
    {
+    "name": "OnePlus 3/3T",
+    "brand": "OnePlus",
+    "codename": "oneplus3",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=153042",
+    "maintainer_name": "Prasoon Mehra (phantom-1402)",
+    "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=5947980",
+    "xda_thread": "https://forum.xda-developers.com/oneplus-3/development/rom-aospextended-rom-v3-1-t3557363"
+   },
+   {
     "name": "YUPHORIA",
     "brand": "YU",
     "codename": "lettuce",
