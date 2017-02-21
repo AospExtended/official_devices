@@ -241,6 +241,14 @@
     "maintainer_name": "jsbeyond (KAOKAO)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6674731",
     "xda_thread": "https://forum.xda-developers.com/honor-5x/development/rom-huawei-honor-5x-kiwi-t3556281"
+   },
+   {
+    "name": "Lenovo Vibe P1",
+    "brand": "Lenovo",
+    "codename": "p1a42",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=155563",
+    "maintainer_name": "Devansh Bajaj",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7119290",
+    "xda_thread": "https://forum.xda-developers.com/vibe-p1/development/rom-aospextended-rom-v3-2-t3560474"
    }
-  
  ]
