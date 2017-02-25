@@ -250,5 +250,23 @@
     "maintainer_name": "Mahmod Ayyash (PS-DEV)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6277086",
     "xda_thread": "https://forum.xda-developers.com/wileyfox-storm/development/rom-aospextended-rom-v3-2-t3562753"
+   },
+   {
+    "name": "Samsung Galaxy S7",
+    "brand": "Samsung",
+    "codename": "herolte",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156935",
+    "maintainer_name": "Alexander Gemsa",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-aospextended-rom-v3-1-t3559687"
+   },
+   {
+    "name": "Samsung Galaxy S7 Edge",
+    "brand": "Samsung",
+    "codename": "hero2lte",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156945",
+    "maintainer_name": "Alexander Gemsa",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
+    "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-aospextended-rom-v3-1-t3559696"
    }
  ]
