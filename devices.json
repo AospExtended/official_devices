@@ -268,5 +268,23 @@
     "maintainer_name": "Alexander Gemsa",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
     "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-aospextended-rom-v3-1-t3559696"
+   },
+   {
+    "name": "Samsung Galaxy TabS2 9.7 Wifi",
+    "brand": "Samsung",
+    "codename": "gts210wifi",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156942",
+    "maintainer_name": "Alexander Gemsa",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
+    "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v3-2-t3560873"
+   },
+   {
+    "name": "Samsung Galaxy TabS2 9.7 Lte",
+    "brand": "Samsung",
+    "codename": "gts210ltexx",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156937",
+    "maintainer_name": "Alexander Gemsa",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
+    "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v3-2-t3560873"
    }
  ]
