@@ -286,5 +286,23 @@
     "maintainer_name": "Alexander Gemsa",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
     "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v3-2-t3560873"
+   },
+   {
+    "name": "Samsung Galaxy J5",
+    "brand": "Samsung",
+    "codename": "j5ltexx",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=159848",
+    "maintainer_name": "EsromG5",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4730968",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-aospextended-rom-v3-2-galaxy-j5-t3569913"
+   },
+   {
+    "name": "Samsung Galaxy J5",
+    "brand": "Samsung",
+    "codename": "j5nltexx",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=160346",
+    "maintainer_name": "EsromG5",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4730968",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-aospextended-rom-v3-2-galaxy-j5-t3569913"
    }
  ]
