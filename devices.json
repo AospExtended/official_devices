@@ -27,7 +27,7 @@
     "xda_thread": "https://forum.xda-developers.com/moto-e/development/rom-aospextended-rom-v2-0-t3526897"
   },
   {
-    "name": "Lenovo A6000",
+    "name": "A6000",
     "brand": "Lenovo",
     "codename": "a6000",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=153620",
@@ -234,7 +234,7 @@
     "xda_thread": "https://forum.xda-developers.com/honor-5x/development/rom-huawei-honor-5x-kiwi-t3556281"
    },
    {
-    "name": "Lenovo Vibe P1",
+    "name": "Vibe P1",
     "brand": "Lenovo",
     "codename": "p1a42",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=155563",
@@ -243,7 +243,7 @@
     "xda_thread": "https://forum.xda-developers.com/vibe-p1/development/rom-aospextended-rom-v3-2-t3560474"
    },
    {
-    "name": "Wileyfox Storm",
+    "name": "Storm",
     "brand": "Wileyfox",
     "codename": "kipper",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156544",
@@ -252,7 +252,7 @@
     "xda_thread": "https://forum.xda-developers.com/wileyfox-storm/development/rom-aospextended-rom-v3-2-t3562753"
    },
    {
-    "name": "Samsung Galaxy S7",
+    "name": "Galaxy S7",
     "brand": "Samsung",
     "codename": "herolte",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156935",
@@ -261,7 +261,7 @@
     "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-aospextended-rom-v3-1-t3559687"
    },
    {
-    "name": "Samsung Galaxy S7 Edge",
+    "name": "Galaxy S7 Edge",
     "brand": "Samsung",
     "codename": "hero2lte",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156945",
@@ -270,7 +270,7 @@
     "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-aospextended-rom-v3-1-t3559696"
    },
    {
-    "name": "Samsung Galaxy TabS2 9.7 Wifi",
+    "name": "Galaxy Tab S2 9.7 Wifi",
     "brand": "Samsung",
     "codename": "gts210wifi",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156942",
@@ -279,7 +279,7 @@
     "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v3-2-t3560873"
    },
    {
-    "name": "Samsung Galaxy TabS2 9.7 Lte",
+    "name": "Galaxy Tab S2 9.7 Lte",
     "brand": "Samsung",
     "codename": "gts210ltexx",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=156937",
@@ -288,7 +288,7 @@
     "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v3-2-t3560873"
    },
    {
-    "name": "Samsung Galaxy J5 (J500F/M/G)",
+    "name": "Galaxy J5 (J500F/M/G)",
     "brand": "Samsung",
     "codename": "j5ltexx",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=159848",
@@ -297,7 +297,7 @@
     "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-aospextended-rom-v3-2-galaxy-j5-t3569913"
    },
    {
-    "name": "Samsung Galaxy J5 (J500FN)",
+    "name": "Galaxy J5 (J500FN)",
     "brand": "Samsung",
     "codename": "j5nltexx",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=160346",
