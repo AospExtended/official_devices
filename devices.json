@@ -313,5 +313,14 @@
     "maintainer_name": "EsromG5",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4730968",
     "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-aospextended-rom-v3-2-galaxy-j5-t3569913"
+   },
+   {
+    "name": "LG G2 (D802)",
+    "brand": "LG",
+    "codename": "d802",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=161972",
+    "maintainer_name": "YoDevil",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4742143",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v3-3-t3573700"
    }
  ]
