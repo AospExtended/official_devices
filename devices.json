@@ -322,5 +322,14 @@
     "maintainer_name": "YoDevil",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4742143",
     "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v3-3-t3573700"
+   },
+   {
+    "name": "LG G2",
+    "brand": "LG",
+    "codename": "D801",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=162388",
+    "maintainer_name": "YoDevil",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4742143",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v3-3-t3573700"
    }
  ]
