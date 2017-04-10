@@ -332,6 +332,24 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4742143",
     "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v3-3-t3573700"
    },
+   {
+    "name": "LG G2",
+    "brand": "LG",
+    "codename": "D800",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=170654",
+    "maintainer_name": "YoDevil",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4742143",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v3-3-t3573700"
+   },
+   {
+    "name": "LG G2",
+    "brand": "LG",
+    "codename": "D803",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=170656",
+    "maintainer_name": "YoDevil",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4742143",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v3-3-t3573700"
+   },
   {
     "name": "Redmi Note 4",
     "brand": "Xiaomi",
