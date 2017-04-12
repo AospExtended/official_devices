@@ -376,5 +376,14 @@
     "maintainer_name": "Tirth Patel (thp@1997)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7354828",
     "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-aospextended-rom-v3-3-t3578477"
+   },
+  {
+    "name": "Moto Z Play",
+    "brand": "Motorola",
+    "codename": "addison",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=170546",
+    "maintainer_name": "Mihir Kalra",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7318228",
+    "xda_thread": "#"
    }
  ]
