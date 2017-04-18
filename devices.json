@@ -45,6 +45,14 @@
     "xda_thread": "https://forum.xda-developers.com/lenovo-a6000/development/rom-aosp-extended-t3555831"
   },
   {
+    "name": "Lenovo Vibe K4 Note",
+    "brand": "Lenovo",
+    "codename": "A7010a48",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=172713",
+    "maintainer_name": "Mohan Cm",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7471004",
+    "xda_thread": "#"
+  {
     "name": "Vibe K5",
     "brand": "Lenovo",
     "codename": "A6020",
