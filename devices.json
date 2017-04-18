@@ -315,6 +315,33 @@
     "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-aospextended-rom-v3-2-galaxy-j5-t3569913"
    },
    {
+    "name": "Galaxy Grand Prime (G530H)",
+    "brand": "Samsung",
+    "codename": "fortuna3g",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=167738",
+    "maintainer_name": "Hassan Sardar (Has.007)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6940293",
+    "xda_thread": "https://forum.xda-developers.com/grand-prime/development/rom-aospextended-rom-v4-0-grand-prime-t3587087"
+   },
+   {
+    "name": "Galaxy Grand Prime (G530H)",
+    "brand": "Samsung",
+    "codename": "fortunave3g",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=167738",
+    "maintainer_name": "Hassan Sardar (Has.007)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6940293",
+    "xda_thread": "https://forum.xda-developers.com/grand-prime/development/rom-aospextended-rom-v4-0-grand-prime-t3587087"
+   },
+   {
+    "name": "Galaxy Grand Prime (G530FZ)",
+    "brand": "Samsung",
+    "codename": "fortunafz",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=167738",
+    "maintainer_name": "Hassan Sardar (Has.007)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6940293",
+    "xda_thread": "https://forum.xda-developers.com/grand-prime/development/rom-aospextended-rom-v4-0-grand-prime-t3587087"
+   },
+   {
     "name": "G2",
     "brand": "LG",
     "codename": "D802",
