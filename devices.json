@@ -439,5 +439,14 @@
    "maintainer_name": "Rygebin",
    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6922118",
    "xda_thread": "https://forum.xda-developers.com/gm-5-plus/development/rom-gm-5-plus-shamrock-t3592088"
-   }
+   },
+  {
+    "name": "Redmi 3",
+    "brand": "Xiaomi",
+    "codename": "ido",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=169455",
+    "maintainer_name": "EsromG5",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4730968",
+    "xda_thread": "https://forum.xda-developers.com/redmi-3/development/rom-aospextended-rom-v4-1-redmi-3-t3592207"
+   },
  ]
