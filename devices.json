@@ -429,5 +429,14 @@
     "maintainer_name": "Prakharluv",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5783424",
     "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v3-1-t3563579"
-  }
+   },
+  {
+   "name": "Android One 3rd Device",
+   "brand": "Google",
+   "codename": "shamrock",
+   "afh_folder": "https://www.androidfilehost.com/?w=files&flid=172918",
+   "maintainer_name": "Rygebin",
+   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6922118",
+   "xda_thread": "https://forum.xda-developers.com/gm-5-plus/development/rom-gm-5-plus-shamrock-t3592088"
+   }
  ]
