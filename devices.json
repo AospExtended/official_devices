@@ -18,6 +18,15 @@
     "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v1-0-t3482475"
   },
   {
+  "name": "LG G3",
+   "brand" : "LGE",
+   "codename" : "d855",
+   "afh_folder" : "https://www.androidfilehost.com/?fid=673368273298922981",
+   "maintainer_name" : "Marchetto96",
+   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?s=bafd4290fc6eda069beed8f768f7c502&u=7366109",
+   "xda_thread": "https://forum.xda-developers.com/lg-g3/orig-development/aosp-extended-v3-0-t3536354"
+  },
+  {
     "name": "Moto X 2014",
     "brand": "Motorola",
     "codename": "victara",
