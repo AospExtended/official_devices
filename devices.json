@@ -45,7 +45,7 @@
     "xda_thread": "https://forum.xda-developers.com/lenovo-a6000/development/rom-aosp-extended-t3555831"
   },
   {
-    "name": "Lenovo Vibe K4 Note",
+    "name": "Vibe K4 Note",
     "brand": "Lenovo",
     "codename": "A7010a48",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=172713",
@@ -144,7 +144,7 @@
     "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v3-0-t3537792"
    },
    {
-    "name": "OnePlus X",
+    "name": "X",
     "brand": "OnePlus",
     "codename": "onyx",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=124348",
@@ -171,7 +171,7 @@
     "xda_thread": "https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v3-1-t3546039"
    },
    {
-    "name": "OnePlus One",
+    "name": "1",
     "brand": "OnePlus",
     "codename": "bacon",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=149467",
@@ -189,7 +189,7 @@
     "xda_thread": "https://forum.xda-developers.com/yureka/development/rom-aospextended-rom-v3-1-t3547351"
    },
    {
-    "name": "OnePlus Two",
+    "name": "2",
     "brand": "OnePlus",
     "codename": "oneplus2",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=149505",
@@ -198,7 +198,7 @@
     "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-title-aospextended-rom-v3-1-t3547713"
    },
    {
-    "name": "OnePlus 3/3T",
+    "name": "3/3T",
     "brand": "OnePlus",
     "codename": "oneplus3",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=153042",
@@ -423,7 +423,7 @@
     "xda_thread": "#"
    },
   {
-    "name": "Asus ZenFone 2 Laser",
+    "name": "ZenFone 2 Laser",
     "brand": "Asus",
     "codename": "Z00L",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=157095",
@@ -441,7 +441,7 @@
    "xda_thread": "https://forum.xda-developers.com/gm-5-plus/development/rom-gm-5-plus-shamrock-t3592088"
    },
   {
-    "name": "Lenovo P2",
+    "name": "Vibe P2",
     "brand": "Lenovo",
     "codename": "p2a42",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=172156",
@@ -459,7 +459,7 @@
     "xda_thread": "https://forum.xda-developers.com/redmi-3/development/rom-aospextended-rom-v4-1-redmi-3-t3592207"
    },
    {
-    "name": "Huawei GX8",
+    "name": "GX8",
     "brand": "Huawei",
     "codename": "rio",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=164984",
