@@ -467,4 +467,13 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4387106",
     "xda_thread": "https://forum.xda-developers.com/gx8/development/7-1-1-t3578566"
    }
+     {
+    "name": "Lenovo A7000-a",
+    "brand": "Lenovo",
+    "codename": "aio_row",
+    "gdrive_folder": "https://drive.google.com/open?id=0B__FXU5sYM3QMEExWEJrOC1TZGM",
+    "maintainer_name": "Rohan Taneja",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5138268",
+    "xda_thread": "https://forum.xda-developers.com/lenovo-a7000/development/rom-aospextended-rom-v4-1-t3593299"
+   }
  ]
