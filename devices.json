@@ -450,6 +450,15 @@
     "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/rom-lenovo-p2-t3592706"
   },
   {
+   "name": "Android One 2rd Device",
+   "brand": "Google",
+   "codename": "seed",
+   "afh_folder": "https://www.androidfilehost.com/?w=files&flid=176219",
+   "maintainer_name": "EypCnn, Kerem Erkaplan",
+   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7046303",
+   "xda_thread": "https://forum.xda-developers.com/crossdevice-dev/android-one-secondgeneration-crossdevice-original-android-development/rom-android-one-2nd-gen-t3599327"
+   },
+  {
     "name": "Redmi 3",
     "brand": "Xiaomi",
     "codename": "ido",
