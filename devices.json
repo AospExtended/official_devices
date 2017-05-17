@@ -513,6 +513,15 @@
     "maintainer_name": "Ajdin Kuduzovic (AjdinK)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7345383",
     "xda_thread": "https://forum.xda-developers.com/nexus-6/development/rom-aospextended-rom-v4-2-t3607464"
+  },
+  {
+    "name": "Moto G5 Plus",
+    "brand": "Motorola",
+    "codename": "potter",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=181252",
+    "maintainer_name": "Nick van Bokhorst (GtrCraft)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5293805",
+    "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-aospextended-rom-v4-2-t3608056"
   }
 
 
