@@ -504,5 +504,16 @@
     "maintainer_name": "jsbeyond (KAOKAO)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6674731",
     "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-aospextended-rom-v4-1-xiaomi-t3603826"
+  },
+ { 
+    "name": "Nexus 6",
+    "brand": "Google",
+    "codename": "shamu",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=180368",
+    "maintainer_name": "Ajdin Kuduzovic (AjdinK)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7345383",
+    "xda_thread": "https://forum.xda-developers.com/nexus-6/development/rom-aospextended-rom-v4-2-t3607464"
   }
+
+
  ]
