@@ -483,7 +483,7 @@
     "brand": "Huawei",
     "codename": "rio",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=164984",
-    "maintainer_name": "Allurba",
+    "maintainer_name": "Albert Llurba (allurba)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4387106",
     "xda_thread": "https://forum.xda-developers.com/gx8/development/7-1-1-t3578566"
    },
@@ -540,7 +540,16 @@
     "maintainer_name": "Prasoon Mehra (phantom-1402)",
     "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=5947980",
     "xda_thread": "https://forum.xda-developers.com/le-pro3/development/rom-aospextended-rom-v4-2-t3609490"
-  }
+  },
+  {
+    "name": "Aquaris X5 Plus",
+    "brand": "Bq",
+    "codename": "gohan",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=183602",
+    "maintainer_name": "Albert Llurba (allurba)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4387106",
+    "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-2-bq-aquaris-x5-t3611654"
+   }
 
 
  ]
