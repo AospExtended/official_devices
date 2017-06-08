@@ -569,13 +569,22 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-2-bq-aquaris-x5-t3611654"
   },
   {
-    "name": "LeEco Le 2",
+    "name": "Le 2",
     "brand": "LeEco",
     "codename": "s2",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=188213",
     "maintainer_name": "Rohit Jaiswal (rohitjaiswal)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5173116",
     "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v4-3-t3618710"
+  },
+  {
+    "name": "Le Max 2",
+    "brand": "LeEco",
+    "codename": "x2",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=188419",
+    "maintainer_name": "Rohit Jaiswal, Shiva Teja",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5173116",
+    "xda_thread": "https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v4-3-progress-t3619109"
   }
 
  ]
