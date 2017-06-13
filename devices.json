@@ -370,6 +370,33 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6940293",
     "xda_thread": "https://forum.xda-developers.com/grand-prime/development/rom-aospextended-rom-v4-0-grand-prime-t3587087"
    },
+  {
+    "name": "Galaxy S4 Mini (GT-I9190)",
+    "brand": "Samsung",
+    "codename":"serrano3gxx",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=189003",
+    "maintainer_name": "PRAViN PRAJAPATI (Harvey_Spectar)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7722532",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-s4-mini/development/rom-aospextended-rom-v4-3-t3620094"
+   },
+   {
+    "name": "Galaxy S4 Mini (GT-I9192)",
+    "brand": "Samsung",
+    "codename":"serranodsdd",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=189001",
+    "maintainer_name": "PRAViN PRAJAPATI (Harvey_Spectar)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7722532",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-s4-mini/development/rom-aospextended-rom-v4-3-t3620094"
+   },
+   {
+    "name": "Galaxy S4 Mini (GT-I9195)",
+    "brand": "Samsung",
+    "codename":"serranoltexx",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=189007",
+    "maintainer_name": "PRAViN PRAJAPATI (Harvey_Spectar)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7722532",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-s4-mini/development/rom-aospextended-rom-v4-3-t3620094"
+   },
    {
     "name": "G2",
     "brand": "LG",
