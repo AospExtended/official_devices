@@ -335,6 +335,15 @@
     "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v3-2-t3560873"
    },
    {
+    "name": "Galaxy Tab S2 9.7 Wifi (2016)",
+    "brand": "Samsung",
+    "codename": "gts210vewifi",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=191221",
+    "maintainer_name": "Giuseppe Barillari (joe2k01)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7137962",
+    "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v4-3-t3622742"
+   },
+   {
     "name": "Galaxy J5 (J500F/M/G)",
     "brand": "Samsung",
     "codename": "j5ltexx",
