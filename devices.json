@@ -163,15 +163,6 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6881528",
     "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/rom-aospextended-rom-v4-3-t3622339"
   },
-  {
-    "name": "Moto G4/G4 Plus",
-    "brand": "Motorola",
-    "codename": "athene",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=144783",
-    "maintainer_name": "rahulsnair",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5253673",
-    "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v3-0-t3537792"
-   },
    {
     "name": "X",
     "brand": "OnePlus",
@@ -189,6 +180,15 @@
     "maintainer_name": "Subhrajyoti Sen",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6623671",
     "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-aospextended-rom-v3-0-t3540584"
+   },
+   {
+    "name": "Moto G4/G4 Plus",
+    "brand": "Motorola",
+    "codename": "athene",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=179087",
+    "maintainer_name": "SlimShadys",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5618023",
+    "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v4-4-moto-g4-g4-t3633344"
    },
    {
     "name": "Moto G 2013",
