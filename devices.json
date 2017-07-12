@@ -648,5 +648,15 @@
     "maintainer_name": "Davide Della Maddalena (davidevinavil)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=2823824",
     "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-aex-4-3-t3622909"   
+  },
+   {
+    "name": "Moto E3 Power",
+    "brand": "Motorola",
+    "codename": "taido_row",
+    "afh_folder": "https://www.androidfilehost.com/?fid=889764386195915324",
+    "maintainer_name": "Samar Vispute (SamarV-121)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6868004",
+    "xda_thread": "https://forum.xda-developers.com/moto-e3/development/rom-aospextended-rom-v4-4-moto-e3-power-t3635702/post73003923"   
   }
+  
  ]
