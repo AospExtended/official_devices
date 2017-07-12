@@ -649,6 +649,15 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=2823824",
     "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-aex-4-3-t3622909"   
   },
+  {
+    "name": "Z2 Pro",
+    "brand": "Zuk",
+    "codename": "z2_row",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=198218",
+    "maintainer_name": "Davide Della Maddalena (davidevinavil)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=2823824",
+    "xda_thread": "https://forum.xda-developers.com/zuk-z2-pro/development/rom-aex-4-3-t3635849"   
+  },
    {
     "name": "Moto E3 Power",
     "brand": "Motorola",
