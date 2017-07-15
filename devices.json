@@ -316,6 +316,24 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
     "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-aospextended-rom-v3-1-t3559696"
    },
+  {
+    "name": "Galaxy Tab S2 8.0 Wifi",
+    "brand": "Samsung",
+    "codename": "gts28wifi",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=193412",
+    "maintainer_name": "Alexander Gemsa",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
+    "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v3-2-t3560873"
+   },
+   {
+    "name": "Galaxy Tab S2 8.0 Lte",
+    "brand": "Samsung",
+    "codename": "gts28ltexx",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=193414",
+    "maintainer_name": "Alexander Gemsa",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4873016",
+    "xda_thread": "https://forum.xda-developers.com/tab-s2/development/rom-aospextended-rom-v3-2-t3560873"
+   },
    {
     "name": "Galaxy Tab S2 9.7 Wifi",
     "brand": "Samsung",
