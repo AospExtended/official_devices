@@ -560,6 +560,15 @@
     "xda_thread": "https://forum.xda-developers.com/lenovo-a7000/development/rom-aospextended-rom-v4-1-t3593299"
    },
    {
+    "name": "Lenovo K6/Power",
+    "brand": "Lenovo",
+    "codename": "karate",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=198946",
+    "maintainer_name": "Karthick Mostwanted (karthick111)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5786839",
+    "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-4-lenovo-k6-t3637158",
+   },
+   {
     "name": "Mi 5",
     "brand": "Xiaomi",
     "codename": "gemini",
