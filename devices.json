@@ -720,5 +720,14 @@
     "maintainer_name": "Darshan M. (darshan1205)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6620830",
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-redmi-4-t3654453"   
+  },
+  {
+    "name": "Sony Xperia SP",
+    "brand": "Sony",
+    "codename": "huashan",
+    "afh_folder": "https://androidfilehost.com/?w=files&flid=206336",
+    "maintainer_name": "Aditya Vipin (AdiV1899)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5824779",
+    "xda_thread": "https://forum.xda-developers.com/xperia-sp/development/rom-aospextended-rom-v4-3-t3627470"
   }
  ]
