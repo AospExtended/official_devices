@@ -689,7 +689,7 @@
     "name": "Android One 1st Gen (4GB Varient)",
     "brand": "Google",
     "codename": "sprout4",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=206632",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=206342",
     "maintainer_name": "Samar Vispute (SamarV-121)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6868004",
     "xda_thread": "https://forum.xda-developers.com/crossdevice-dev/android-one-crossdevice-development-original-android-development/rom-title-aospextended-rom-v4-4-t3652000"   
@@ -697,8 +697,8 @@
     {
     "name": "Android One 1st Gen (8GB Varient)",
     "brand": "Google",
-    "codename": "sprout8",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=206636",
+    "codename": "sprout4",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=206342",
     "maintainer_name": "Samar Vispute (SamarV-121)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6868004",
     "xda_thread": "https://forum.xda-developers.com/crossdevice-dev/android-one-crossdevice-development-original-android-development/rom-title-aospextended-rom-v4-4-t3652000"   
@@ -729,5 +729,14 @@
     "maintainer_name": "Aditya Vipin (AdiV1899)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5824779",
     "xda_thread": "https://forum.xda-developers.com/xperia-sp/development/rom-aospextended-rom-v4-3-t3627470"
+  },
+  {
+    "name": "Samsung Galaxy S5 (k3gxx)",
+    "brand": "Samsung",
+    "codename": "k3gxx",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=171064",
+    "maintainer_name": "Som Adsul (somadsul)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5693847",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-s5/galaxy-s-5-android-development-exynos/rom-aospextended-rom-v4-1-t3594859"
   }
  ]
