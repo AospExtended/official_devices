@@ -738,5 +738,14 @@
     "maintainer_name": "Som Adsul (somadsul)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5693847",
     "xda_thread": "https://forum.xda-developers.com/galaxy-s5/galaxy-s-5-android-development-exynos/rom-aospextended-rom-v4-1-t3594859"
-  }
+  },
+   {
+    "name": "5",
+    "brand": "OnePlus",
+    "codename": "cheeseburger",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=207020",
+    "maintainer_name": "Devansh Bajaj",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7119290",
+    "xda_thread": "#"
+   }
  ]
