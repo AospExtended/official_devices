@@ -747,5 +747,14 @@
     "maintainer_name": "Devansh Bajaj",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7119290",
     "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-rom-v4-5-t3657703"
+   },
+   {
+    "name": "Xiaomi Mi 3/4",
+    "brand": "Xiaomi",
+    "codename": "cancro",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=208154",
+    "maintainer_name": "Rizky Benggolo",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6331651",
+    "xda_thread": "#"
    }
  ]
