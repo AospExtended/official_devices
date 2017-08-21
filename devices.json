@@ -756,5 +756,23 @@
     "maintainer_name": "Rizky Benggolo",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6331651",
     "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-3/development/rom-aospextended-rom-v4-5-t3658884"
+   },
+   {
+    "name": "LG-D851",
+    "brand": "LGE",
+    "codename": "d851",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=208760",
+    "maintainer_name": "Jesus Acosta",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7713645",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-aospextended-rom-v4-5-t3659981"
+   },
+   {
+    "name": "LG-D855",
+    "brand": "LGE",
+    "codename": "d855",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=208757",
+    "maintainer_name": "Traian Simedru",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8076012",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-aospextended-rom-v4-5-t3659981"
    }
  ]
