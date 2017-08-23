@@ -536,9 +536,9 @@
    "name": "Android One 2nd Device",
    "brand": "Google",
    "codename": "seed",
-   "afh_folder": "https://www.androidfilehost.com/?w=files&flid=176219",
-   "maintainer_name": "EypCnn, Kerem Erkaplan",
-   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7046303",
+   "afh_folder": "https://www.androidfilehost.com/?w=files&flid=209230",
+   "maintainer_name": "Berkehan Kenan Sekban (Quicksilver)",
+   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7466529",
    "xda_thread": "https://forum.xda-developers.com/crossdevice-dev/android-one-secondgeneration-crossdevice-original-android-development/rom-android-one-2nd-gen-t3599327"
    },
   {
@@ -777,7 +777,7 @@
    },
    {
     "name": "Asus Zenfone 2 Laser/Selfie",
-    "brand": "ASUS",
+    "brand": "Asus",
     "codename": "Z00T",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=209154",
     "maintainer_name": "Impulse",
