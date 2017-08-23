@@ -775,4 +775,12 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8076012",
     "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-aospextended-rom-v4-5-t3659981"
    }
- ]
+    {
+    "name": "Asus Zenfone 2 Laser/Selfie",
+    "brand": "ASUS",
+    "codename": "Z00T/Z00UD",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=209154",
+    "maintainer_name": "Impulse",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6042178",
+    "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v4-5-t3659324"
+   },
