@@ -299,6 +299,15 @@
     "xda_thread": "https://forum.xda-developers.com/vibe-p1/development/rom-aospextended-rom-v3-2-t3560474"
    },
    {
+    "name": "P2",
+    "brand": "Lenovo",
+    "codename": "p2",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=210755",
+    "maintainer_name": "Subham Padhi",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7681940",
+    "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v4-5-t3664496"
+   },
+   {
     "name": "Storm",
     "brand": "Wileyfox",
     "codename": "kipper",
