@@ -569,7 +569,7 @@
     "xda_thread": "https://forum.xda-developers.com/gx8/development/7-1-1-t3578566"
    },
    {
-    "name": "Lenovo A7000-a",
+    "name": "A7000-a",
     "brand": "Lenovo",
     "codename": "aio_row",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=176590",
@@ -578,7 +578,7 @@
     "xda_thread": "https://forum.xda-developers.com/lenovo-a7000/development/rom-aospextended-rom-v4-1-t3593299"
    },
    {
-    "name": "Lenovo K6/Power",
+    "name": "K6/Power",
     "brand": "Lenovo",
     "codename": "karate",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=198946",
@@ -713,7 +713,7 @@
     "xda_thread": "https://forum.xda-developers.com/crossdevice-dev/android-one-crossdevice-development-original-android-development/rom-title-aospextended-rom-v4-4-t3652000"   
   },
   {
-    "name": "Xiaomi Redmi 3S/Prime/3X",
+    "name": "Redmi 3S/Prime/3X",
     "brand": "Xiaomi",
     "codename": "land",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=205124",
@@ -722,7 +722,7 @@
     "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v4-4-t3653525"
   },
   {
-    "name": "Xiaomi Redmi 4[4X]",
+    "name": "Redmi 4[4X]",
     "brand": "Xiaomi",
     "codename": "santoni",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=207500",
@@ -731,7 +731,7 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"   
   },
   {
-    "name": "Sony Xperia SP",
+    "name": "Xperia SP",
     "brand": "Sony",
     "codename": "huashan",
     "afh_folder": "https://androidfilehost.com/?w=files&flid=206336",
@@ -740,7 +740,7 @@
     "xda_thread": "https://forum.xda-developers.com/xperia-sp/development/rom-aospextended-rom-v4-3-t3627470"
   },
   {
-    "name": "Samsung Galaxy S5 (k3gxx)",
+    "name": "Galaxy S5 (k3gxx)",
     "brand": "Samsung",
     "codename": "k3gxx",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=171064",
@@ -758,7 +758,7 @@
     "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-rom-v4-5-t3657703"
    },
    {
-    "name": "Xiaomi Mi 3/4",
+    "name": "Mi 3/4",
     "brand": "Xiaomi",
     "codename": "cancro",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=208154",
@@ -767,8 +767,8 @@
     "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-3/development/rom-aospextended-rom-v4-5-t3658884"
    },
    {
-    "name": "LG-D851",
-    "brand": "LGE",
+    "name": "G3",
+    "brand": "LG",
     "codename": "d851",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=208760",
     "maintainer_name": "Jesus Acosta",
@@ -776,8 +776,8 @@
     "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-aospextended-rom-v4-5-t3659981"
    },
    {
-    "name": "LG-D855",
-    "brand": "LGE",
+    "name": "G3",
+    "brand": "LG",
     "codename": "d855",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=208757",
     "maintainer_name": "Traian Simedru",
@@ -785,12 +785,21 @@
     "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-aospextended-rom-v4-5-t3659981"
    },
    {
-    "name": "Asus Zenfone 2 Laser/Selfie",
+    "name": "Zenfone 2 Laser/Selfie",
     "brand": "Asus",
     "codename": "Z00T",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=209154",
     "maintainer_name": "Impulse",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6042178",
     "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/orig-development/rom-aospextended-rom-v4-5-t3659324"
+   },
+   {
+    "name": "Aquaris E5 4G",
+    "brand": "Bq",
+    "codename": "vegetalte",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=210059",
+    "maintainer_name": "Lordinal82",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6849806",
+    "xda_thread": "https://forum.xda-developers.com/android/development/7-1-2-aospextended-v4-5-bq-aquaris-e5-4g-t3663588"
    }
   ]
