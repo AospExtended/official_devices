@@ -1,5 +1,23 @@
  [
- {
+   {
+    "name": "Mi Max",
+    "brand": "Xiaomi",
+    "codename": "hydrogen",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=211626",
+    "maintainer_name": "Davehimself",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8001680",
+    "xda_thread": "https://forum.xda-developers.com/mi-max/development/aosp-extended-4-5-t3666547"
+  },
+  {
+    "name": "Mi Max",
+    "brand": "Xiaomi",
+    "codename": "helium",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=211630",
+    "maintainer_name": "Davehimself",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8001680",
+    "xda_thread": "https://forum.xda-developers.com/mi-max/development/aosp-extended-4-5-t3666547"
+  },
+  {
     "name": "Moto G 2014",
     "brand": "Motorola",
     "codename": "titan",
@@ -595,16 +613,7 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7526018",
     "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v4-2-t3606085"
    },
-   {
-    "name": "Mi Max",
-    "brand": "Xiaomi",
-    "codename": "hydrogen",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=178759",
-    "maintainer_name": "jsbeyond (KAOKAO)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6674731",
-    "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-aospextended-rom-v4-1-xiaomi-t3603826"
-  },
- { 
+   { 
     "name": "Nexus 6",
     "brand": "Google",
     "codename": "shamu",
