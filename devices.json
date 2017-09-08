@@ -1,5 +1,14 @@
  [
-   {
+  {
+   "name": "Nexus 5",
+   "brand": "Google",
+   "codename": "hammerhead",
+   "afh_folder": "?",
+   "maintainer_name": "Huzaifa Dhapai (Xaif)",
+   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5689782",
+   "xda_thread": "?"
+  },
+  {
     "name": "Mi Max",
     "brand": "Xiaomi",
     "codename": "hydrogen",
