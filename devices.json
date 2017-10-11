@@ -109,6 +109,17 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6998569",
     "xda_thread": "https://forum.xda-developers.com/k5-plus/development/aospextended-rom-v4-1a6020-aosp7-2-1r4-t3591522"
   },
+
+{
+    "name": "LG K10",
+    "brand": "LG",
+    "codename": "m216",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=223724",
+    "maintainer_name": "Vineeth Penugonda",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7045959",
+    "xda_thread": "https://forum.xda-developers.com/lg-k10/development/rom-aospextended-v4-5-t3656879"
+  },
+
   {
     "name": "Moto G TE",
     "brand": "Motorola",
