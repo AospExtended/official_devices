@@ -1,5 +1,14 @@
  [
   {
+   "name": "K6 Note/Plus",
+   "brand": "Lenovo",
+   "codename": "karatep",
+   "afh_folder": "https://www.androidfilehost.com/?w=files&flid=225236",
+   "maintainer_name": "Karthick Mostwanted (karthick111)",
+   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5786839",
+   "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-4-lenovo-k6-t3637158"
+  }
+  {
    "name": "Nexus 5",
    "brand": "Google",
    "codename": "hammerhead",
