@@ -1,4 +1,13 @@
- [
+[
+  {
+   "name": "Redmi 4A",
+   "brand": "Xiaomi",
+   "codename": "rolex",
+   "afh_folder": "https://www.androidfilehost.com/?w=files&flid=228423",
+   "maintainer_name": "Carlos Arriaga",
+   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6331811",
+   "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-6-redmi-4a-t3701115"
+  },
   {
    "name": "K6 Note/Plus",
    "brand": "Lenovo",
@@ -839,14 +848,5 @@
     "maintainer_name": "Impulse",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6042178",
     "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/orig-development/rom-aospextended-rom-v4-5-t3659324"
-   },
-   {
-    "name": "Aquaris E5 4G",
-    "brand": "Bq",
-    "codename": "vegetalte",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=210059",
-    "maintainer_name": "Lordinal82",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6849806",
-    "xda_thread": "https://forum.xda-developers.com/android/development/7-1-2-aospextended-v4-5-bq-aquaris-e5-4g-t3663588"
    }
-  ]
+]
