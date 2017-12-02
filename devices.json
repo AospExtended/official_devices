@@ -1,6 +1,15 @@
  [
   {
-   "name": "Redmi 4A",
+  "name": "Moto G5S Plus",
+   "brand": "Motorola",
+   "codename": "sanders",
+   "afh_folder": "https://androidfilehost.com/?w=files&flid=228538",
+   "maintainer_name": "Keertesh",
+   "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7686545",
+   "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-aospextended-rom-v5-0-t3695419"
+  },
+  {
+  "name": "Redmi 4A",
    "brand": "Xiaomi",
    "codename": "rolex",
    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=228423",
