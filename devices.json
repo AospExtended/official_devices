@@ -724,6 +724,15 @@
     "xda_thread": "https://forum.xda-developers.com/mi-4c/development/rom-aospextended-rom-v4-3-t3623442"
   },
   {
+    "name": "Z1",
+    "brand": "Zuk",
+    "codename": "ham",
+    "afh_folder": "https://androidfilehost.com/user/?w=settings-dev-files&flid=235786",
+    "maintainer_name": "Shubham Bhise (ShubhamB, shubhambhise)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7666467",
+    "xda_thread": "https://forum.xda-developers.com/zuk-z1/orig-development/rom-aospextended-rom-v5-0-t3720542"   
+  },
+  {
     "name": "Z2 Plus",
     "brand": "Zuk",
     "codename": "z2_plus",
