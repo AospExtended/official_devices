@@ -72,24 +72,6 @@
     "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v1-0-t3482475"
   },
   {
-    "name": "Moto X 2014",
-    "brand": "Motorola",
-    "codename": "victara",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=138237",
-    "maintainer_name": "Anderson Mendes",
-    "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=5696327",
-    "xda_thread": "https://forum.xda-developers.com/moto-x-2014/development/rom-aospextended-rom-v2-0-t3524721"
-  },
-  {
-    "name": "Moto E",
-    "brand": "Motorola",
-    "codename": "condor",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=139146",
-    "maintainer_name": "Anderson Mendes",
-    "maintainer_xda_profile": "http://forum.xda-developers.com/member.php?u=5696327",
-    "xda_thread": "https://forum.xda-developers.com/moto-e/development/rom-aospextended-rom-v2-0-t3526897"
-  },
-  {
     "name": "A6000",
     "brand": "Lenovo",
     "codename": "a6000",
