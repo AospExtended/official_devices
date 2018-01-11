@@ -1,2 +1,11 @@
  [
+  {
+    "name": "Moto G 2015",
+    "brand": "Motorola",
+    "codename": "osprey",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=240377",
+    "maintainer_name": "ishubhamsingh",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5566914",
+    "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
+  }
  ]
