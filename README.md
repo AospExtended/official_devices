@@ -27,7 +27,7 @@ Our system is automatic, you should not worry about updating some script, just u
 | codename | Device codename, eg: falcon | Yes |
 | afh_folder | URL of your hidden AFH folder, eg: https://www.androidfilehost.com/?w=files&flid=240377 | Yes |
 | maintainer_name | Your name | Yes |
-| maintainer_xda_profile | Your XDA profile URL, eg: https://forum.xda-developers.com/member.php?u=5566914 | No  |
+| maintainer_url | Your personal URL, eg: https://github.com/ishubhamsingh/ or https://forum.xda-developers.com/member.php?u=5566914 | No  |
 | xda_thread | XDA thread URL, eg: https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v1-0-t3482475 | No |
 
 **Please format your JSON code properly, [here](https://jsonformatter.curiousconcept.com/).**
