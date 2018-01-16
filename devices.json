@@ -5,7 +5,7 @@
     "codename": "osprey",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=240377",
     "maintainer_name": "ishubhamsingh",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5566914",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=5566914",
     "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
   },
   {
@@ -14,7 +14,7 @@
     "codename": "falcon",
     "afh_folder": "https://androidfilehost.com/?w=files&flid=225258",
     "maintainer_name": "Gaurav Singh (Allstargaurav)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7751333",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=7751333",
     "xda_thread": "https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v5-0-t3692684"
    },
   {
@@ -23,7 +23,7 @@
     "codename": "Z00T",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=240516",
     "maintainer_name": "Aayush Gupta (theimpulson)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6042178",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
     "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
   }
  ]
