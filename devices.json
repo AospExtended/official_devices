@@ -1,29 +1,38 @@
- [
-  {
-    "name": "Moto G 2015",
-    "brand": "Motorola",
-    "codename": "osprey",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=240377",
-    "maintainer_name": "ishubhamsingh",
-    "maintainer_url": "https://forum.xda-developers.com/member.php?u=5566914",
-    "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
-  },
-  {
-    "name": "Moto G 2013",
-    "brand": "Motorola",
-    "codename": "falcon",
-    "afh_folder": "https://androidfilehost.com/?w=files&flid=225258",
-    "maintainer_name": "Gaurav Singh (Allstargaurav)",
-    "maintainer_url": "https://forum.xda-developers.com/member.php?u=7751333",
-    "xda_thread": "https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v5-0-t3692684"
+[
+   {
+      "name":"Moto G 2015",
+      "brand":"Motorola",
+      "codename":"osprey",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=240377",
+      "maintainer_name":"ishubhamsingh",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5566914",
+      "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
    },
-  {
-    "name": "Zenfone 2 Laser/Selfie",
-    "brand": "Asus",
-    "codename": "Z00T",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=240516",
-    "maintainer_name": "Aayush Gupta (theimpulson)",
-    "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
-    "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
-  }
- ]
+   {
+      "name":"Moto G 2013",
+      "brand":"Motorola",
+      "codename":"falcon",
+      "afh_folder":"https://androidfilehost.com/?w=files&flid=225258",
+      "maintainer_name":"Gaurav Singh (Allstargaurav)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7751333",
+      "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v5-0-t3692684"
+   },
+   {
+      "name":"Zenfone 2 Laser/Selfie",
+      "brand":"Asus",
+      "codename":"Z00T",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=240516",
+      "maintainer_name":"Aayush Gupta (theimpulson)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6042178",
+      "xda_thread":"https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
+   },
+   {
+      "name":"One",
+      "brand":"OnePlus",
+      "codename":"bacon",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=226427",
+      "maintainer_name":"Kishan",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6859839",
+      "xda_thread":"https://forum.xda-developers.com/oneplus-one/development/rom-aospextended-rom-t3732194"
+   }
+]
