@@ -25,5 +25,14 @@
     "maintainer_name": "Aayush Gupta (theimpulson)",
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
     "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
+  },
+ {
+    "name": "One",
+    "brand": "OnePlus",
+    "codename": "bacon",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=226427",
+    "maintainer_name": "Kishan",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=6859839",
+    "xda_thread": "https://forum.xda-developers.com/oneplus-one/development/rom-aospextended-rom-t3732194"
   }
  ]
