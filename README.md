@@ -31,3 +31,6 @@ Our system is automatic, you should not worry about updating some script, just u
 | xda_thread | XDA thread URL, eg: https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v1-0-t3482475 | No |
 
 **Please format your JSON code properly, [here](https://jsonformatter.curiousconcept.com/).**
+
+### 5. Build type
+You need to add 'export EXTENDED_BUILD_TYPE=OFFICIAL' in your build environment so OTA app will be included.
