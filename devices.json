@@ -45,6 +45,15 @@
       "xda_thread":"https://forum.xda-developers.com/oneplus-one/development/rom-aospextended-rom-t3732194"
    },
    {
+      "name":"Z1",
+      "brand":"Zuk",
+      "codename":"ham",
+      "afh_folder":"https://androidfilehost.com/?w=files&flid=239777",
+      "maintainer_name":"Shubham Bhise (shubhambhise)",
+      "maintainer_xda_profile":"https://forum.xda-developers.com/member.php?u=7666467",
+      "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-aospextended-rom-v5-0-t3720542"
+   },
+   {
       "name":"Z2 Plus",
       "brand":"Zuk",
       "codename":"z2_plus",
