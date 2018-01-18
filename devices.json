@@ -9,6 +9,15 @@
       "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
    },
    {
+      "name":"Moto G5S Plus",
+      "brand":"Motorola",
+      "codename":"sanders",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=228538",
+      "maintainer_name":"Keertesh",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
+      "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-aospextended-rom-v5-1-t3737099"
+   },
+   {
       "name":"Moto G 2013",
       "brand":"Motorola",
       "codename":"falcon",
