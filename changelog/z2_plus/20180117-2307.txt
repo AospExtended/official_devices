@@ -1,0 +1,8 @@
+* Initial changelog
+Switched to @DD3Boh kernel
+Enforced selinux
+Updated blobs and device tree quite entierely to caf source LA.UM.6.5.r1-04300-8x96.0
+OSS camera hal
+No more camera FC or hang at opening
+No more lag on games
+OTA updates
