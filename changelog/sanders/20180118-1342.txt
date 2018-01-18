@@ -1,0 +1,6 @@
+* Initial Changelog
+-> Night Light fixed.
+-> Added DTV Support for Brazilian Friends.
+-> Updated Display flags.
+* Many Improvements.
+Enjoy ;)
