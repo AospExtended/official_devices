@@ -1,5 +1,14 @@
 [
    {
+    "name": "Vibe K5/K5 Plus",
+    "brand": "Lenovo",
+    "codename": "A6020",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=242331",
+    "maintainer_name": "Mohammed Haris T",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6998569",
+    "xda_thread": "https://forum.xda-developers.com/k5-plus/development/rom-aospextended-v5-0-t3688595"
+   },
+   {
       "name":"Moto G 2015",
       "brand":"Motorola",
       "codename":"osprey",
