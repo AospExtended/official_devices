@@ -1,0 +1,18 @@
+# AOSP EXTENDED 21st Jan Update Changelog!
+
+- New OTA App
+- Flashlight Toggle API Improvements
+- Power Menu Scrollview Improvements
+- Battery Saver QS tile Improvements
+- Update Translations
+- Update Hals
+- Fix Bugs
+
+# Device Specific Changelog:
+
+- Enforce HWC
+- Introduce 'SafailNet'
+- Add KCAL Color Control and Wireguard VPN Support.
+- Enforce Camera2 API Support
+- Update Proximity Capabilities
+- Update Hardware Keys Capabilities
