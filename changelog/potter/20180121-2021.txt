@@ -1,0 +1,5 @@
+* Initial Changelog
+Switched to OSS Sensor HAL
+IMS updates
+More 64 bit changes
+Kernel updated to 3.18.92

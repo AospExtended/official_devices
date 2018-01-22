@@ -27,6 +27,15 @@
       "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-aospextended-rom-v5-1-t3737099"
    },
    {
+      "name":"Moto G5 Plus",
+      "brand":"Motorola",
+      "codename":"potter",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=222528",
+      "maintainer_name":"GtrCraft",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5293805",
+      "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-aospextended-rom-v5-0-t3687007"
+   },
+   {
       "name":"Moto G 2013",
       "brand":"Motorola",
       "codename":"falcon",
