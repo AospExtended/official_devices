@@ -1,0 +1,7 @@
+# AOSP EXTENDED 22nd Jan Update Changelog!
+
+# Device Specific
+
+-Fixed minor camera issues
+-Fixed DRM issues that caused Netflix, Amazon Prime, etc. non-functionable
+-Other bug fixes
