@@ -1,0 +1,77 @@
+====================
+     01-25-2018
+====================
+
+   * device/motorola/harpia/
+93318b9  Revert "crDroid bringup"  [Subhrajyoti Sen]
+   * frameworks/base/
+dcf3489f  Automatic translation import  [Shubham Singh]
+   * packages/apps/Extensions/
+c7f21d8  Automatic translation import  [Shubham Singh]
+   * packages/apps/FMRadio/
+2da6885  Automatic translation import  [Shubham Singh]
+   * packages/apps/Messaging/
+e4626f1  Automatic translation import  [Shubham Singh]
+   * packages/apps/PackageInstaller/
+eafa4a1  Automatic translation import  [Shubham Singh]
+   * packages/apps/Settings/
+32ac82e  Automatic translation import  [Shubham Singh]
+   * packages/apps/Updates/
+2abec39  Automatic translation import  [Shubham Singh]
+   * packages/providers/DownloadProvider/
+4c6de78  Automatic translation import  [Shubham Singh]
+   * vendor/aosp/
+c58f0e4  Merge "vendor: Build telephony-ext, fix soft reboot when calling" into 8.1.x  [Gerrit Code Review]
+
+====================
+     01-24-2018
+====================
+
+   * frameworks/av/
+c1eaccd  Multi screenrecord tile, blinking stop button, screenrecord service impr[2/2]  [Shubham Singh]
+   * packages/apps/DUI/
+5f4c849  Option to use accent color for pulse [1/3]  [Shubham Singh]
+
+====================
+     01-23-2018
+====================
+
+
+====================
+     01-22-2018
+====================
+
+   * device/aosp/sepolicy/
+6474a95  sepolicy: qcom: add persist_block_device type  [davidevinavil]
+   * manifest/
+6bf9eb9  manifest: Update Readme  [AmolAmrit]
+
+====================
+     01-21-2018
+====================
+
+   * build/make/
+5732fe9  Merge "Build Extended theme [3/3]" into 8.1.x  [Gerrit Code Review]
+   * device/motorola/harpia/
+d76042b  Osprey: Dex-preopt boot and system server  [Subhrajyoti Sen]
+5e326bc  Create media_profiles_V1_0.xml  [Subhrajyoti Sen]
+02b5114  Move permissions and media configs to vendor  [Subhrajyoti Sen]
+b52b916  Enable Dexpreopt  [Subhrajyoti Sen]
+dd7c0f6  crDroid bringup  [Subhrajyoti Sen]
+   * device/motorola/msm8916-common/
+f1cc8fc  Revert "Enable treble OMX"  [Subhrajyoti Sen]
+   * device/qcom/sepolicy/
+a934bc5  Fix path  [Shubham Singh]
+   * hardware/qcom/audio-caf/msm8916/
+367c0b5  policy_hal: add missing libbase include  [Shubham Singh]
+   * hardware/qcom/audio-caf/msm8996/
+7683ec3  hal: Support the audio amplifier hook  [davidevinavil]
+   * hardware/qcom/display-caf/msm8916/
+fd7a381  hwc: Set ioprio for vsync thread  [Shubham Singh]
+   * hardware/qcom/power/
+c9b1096  power: Update perf hint ID's for display on off  [Shubham Singh]
+   * kernel/motorola/msm8916/
+cfdf0324  harpia: build wlan inline  [Subhrajyoti Sen]
+   * vendor/motorola/
+3c3e68a  msm8916-common: Bluetooth update for Oreo  [Subhrajyoti Sen]
+
