@@ -124,5 +124,16 @@
       "maintainer_name":"Prakhar Srivastava (prakharluv)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5783424",
       "xda_thread":"https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3683497"
-   }
+   },
+   {
+      "name":"Yureka",
+      "brand":"YU",
+      "codename":"tomato",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=243686",
+      "maintainer_name":"Sanchit Rohilla",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8832639",
+      "xda_thread":""
+  }
 ]
+
+
