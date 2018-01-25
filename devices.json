@@ -54,6 +54,15 @@
       "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v5-0-t3692684"
    },
    {
+      "name":"Moto G (4G)",
+      "brand":"Motorola",
+      "codename":"peregrine",
+      "afh_folder":"https://androidfilehost.com/?w=files&flid=225460",
+      "maintainer_name":"Gaurav Singh (Allstargaurav)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7751333",
+      "xda_thread":"https://forum.xda-developers.com/moto-g/4g-development/rom-aospextended-rom-v5-0-t3693390"
+   },
+   {
       "name":"Zenfone 2 Laser/Selfie",
       "brand":"Asus",
       "codename":"Z00T",
