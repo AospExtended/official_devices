@@ -1,0 +1,8 @@
+#Initial Changelog
+
+> SnapdragonCamera added. 
+> RIL tweaks. 
+> Rootless substratum support added.
+> Few Optimizations.
+> 60 fps bug fixed.
+> other bug fixes.
