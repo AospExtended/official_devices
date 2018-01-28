@@ -72,6 +72,15 @@
       "xda_thread":"https://forum.xda-developers.com/moto-g/4g-development/rom-aospextended-rom-v5-0-t3693390"
    },
    {
+      "name":"Moto Z Play",
+      "brand":"Motorola",
+      "codename":"addison",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=244391",
+      "maintainer_name":"Amulya Bhardwaj (AmulyaX)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6409818",
+      "xda_thread":"https://forum.xda-developers.com/moto-z-play/development/rom-t3741407"
+   },
+   {
       "name":"Zenfone 2 Laser/Selfie",
       "brand":"Asus",
       "codename":"Z00T",
