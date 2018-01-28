@@ -1,0 +1,76 @@
+====================
+     01-28-2018
+====================
+
+   * device/motorola/harpia/
+a0cfb82  Revert "crDroid bringup"  [Subhrajyoti Sen]
+   * device/motorola/msm8916-common/
+6600ffa  Revert "BC: disable custom audio policy"  [Subhrajyoti Sen]
+8fae1df  msm8916-common: overlay: Disable SystemUI anti-falsing on lockscreen  [Subhrajyoti Sen]
+8512028  msm8916-common: Mount 32 bit libfacenet.so on faulty 64 bit lib  [Subhrajyoti Sen]
+ed6a347  msm8916-common: Include 32 bit libfacenet.so  [Subhrajyoti Sen]
+70d1966  msm8916-common: Haxx for faceunlock  [Subhrajyoti Sen]
+   * frameworks/base/
+3e3e8f4c   Theme DUI dialogs & things [1/2]  [Shubham Singh]
+   * kernel/motorola/msm8916/
+db897cdba67  defconfig: enable state config notifier  [Subhrajyoti Sen]
+c9aae79234f  state_notifier: Check delayed work status before cancel  [Subhrajyoti Sen]
+34ea64e78fb  state_notifier: Make workqueues unbound  [Subhrajyoti Sen]
+762c983c194  state_notifier: enable by default  [Subhrajyoti Sen]
+3cc9aa14bb9  state_notifier: Reduce defer on suspend call to 1 second  [Subhrajyoti Sen]
+625bcb6351a  Add state notifier driver  [Subhrajyoti Sen]
+0b75a71ba69  dt2w: implement call_activity and fixe's screen freeze's  [Subhrajyoti Sen]
+84b5aa19fce  enable dt2w halfscreen  [Subhrajyoti Sen]
+7668c089589  harpia: squashed addition of DT2W  [Subhrajyoti Sen]
+251c98d00a7  defconfig: enable usb fast charge  [Subhrajyoti Sen]
+5d214dd97a2  usb: add usb fast charge  [Subhrajyoti Sen]
+   * vendor/motorola/
+58058582  msm8916-common: Include 32 bit libfacenet.so  [Subhrajyoti Sen]
+68fa0737  msm8916-common: Add prebuilt pre-O protobuf  [Subhrajyoti Sen]
+
+====================
+     01-27-2018
+====================
+
+
+====================
+     01-26-2018
+====================
+
+   * build/make/
+7cedd9b  Theme DUI dialogs & things [1/2]  [Shubham Singh]
+   * device/motorola/msm8916-common/
+de2ce10  msm8916-common: BC: use GCC toolchain  [Subhrajyoti Sen]
+   * manifest/
+efc3117  Fix typo (#26)  [Shubham Singh]
+   * packages/apps/Extensions/
+e027ef8  Revert "Revert "Toast icon switch [2/2]""  [Shubham Singh]
+
+====================
+     01-25-2018
+====================
+
+   * packages/apps/FMRadio/
+2da6885  Automatic translation import  [Shubham Singh]
+   * packages/apps/Messaging/
+e4626f1  Automatic translation import  [Shubham Singh]
+   * packages/apps/PackageInstaller/
+eafa4a1  Automatic translation import  [Shubham Singh]
+   * packages/apps/Settings/
+32ac82e  Automatic translation import  [Shubham Singh]
+   * packages/apps/Updates/
+2abec39  Automatic translation import  [Shubham Singh]
+   * packages/providers/DownloadProvider/
+4c6de78  Automatic translation import  [Shubham Singh]
+   * vendor/aosp/
+c58f0e4  Merge "vendor: Build telephony-ext, fix soft reboot when calling" into 8.1.x  [Gerrit Code Review]
+
+====================
+     01-24-2018
+====================
+
+   * frameworks/av/
+c1eaccd  Multi screenrecord tile, blinking stop button, screenrecord service impr[2/2]  [Shubham Singh]
+   * packages/apps/DUI/
+5f4c849  Option to use accent color for pulse [1/3]  [Shubham Singh]
+
