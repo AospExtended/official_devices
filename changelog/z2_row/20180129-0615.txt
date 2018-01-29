@@ -1,0 +1,7 @@
+Fixed VoLTE
+Fixed OTG
+Fixed notification light
+
+Update graphic stack
+Update GPS stack
+
