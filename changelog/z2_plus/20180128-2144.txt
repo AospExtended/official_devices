@@ -1,0 +1,7 @@
+Fixed VoLTE
+Fixed OTG
+Fixed notification light (use only withe color, other color may not work)
+
+Update graphic stack
+Update GPS stack
+
