@@ -1,0 +1,229 @@
+====================
+     01-29-2018
+====================
+
+   * device/motorola/merlin/
+610f608  merlin: Set proper product model.  [innfinite4evr]
+   * device/motorola/msm8916-common/
+63851a0  Merge pull request #1 from innfinite4evr/patch-1  [GitHub]
+b5b9394  Chmod 644 /system/build.prop  [GitHub]
+   * frameworks/base/
+8721565   Theme suggestions card summary text  [Shubham Singh]
+2024b09  MiniThumbFile: Fix image/bitmap retrieval  [Shubham Singh]
+ab22446  Rework thumbnail handling  [Shubham Singh]
+3a7fb23  Always keep clock/date & alarm visible while dozing  [Shubham Singh]
+c596935  Allow to suppress notifications sound/vibration if screen is on [1/2]  [Shubham Singh]
+8f285be  Make carrier label's visibility gone  [Shubham Singh]
+a78275c  Disable DoubletapPowerForCamera by default [1/2]  [Shubham Singh]
+63955edf  Screen off animations [1/2]  [Shubham Singh]
+884870e  Work smarter not harder  [Shubham Singh]
+4f6f9a9  Change QS customizer 'drag to add tile' string  [Shubham Singh]
+326e0ac  Keyguard/Statusbar Carrier label options  [Shubham Singh]
+e537b73  Adapt carrier label to DarkController  [Shubham Singh]
+8499624  Show carrier label / custom label [1/2]  [Shubham Singh]
+211ece0  Hide lockscreen items [1/2]  [Shubham Singh]
+   * kernel/motorola/msm8916/
+9da5cfe  lux/merlin:Defconfig: Enable USB Fast Charge and State Notifier.  [innfinite4evr]
+71a71e3  state_notifier: Check delayed work status before cancel  [innfinite4evr]
+5e9dec1  state_notifier: Make workqueues unbound  [innfinite4evr]
+ff65394  state_notifier: enable by default  [innfinite4evr]
+185108a  state_notifier: Reduce defer on suspend call to 1 second  [innfinite4evr]
+1d6422f  Add state notifier driver  [innfinite4evr]
+77eac14  dt2w: implement call_activity and fixe's screen freeze's  [innfinite4evr]
+6eb6f53  enable dt2w halfscreen  [innfinite4evr]
+4ca572e  luc/merlin: squashed addition of DT2W  [innfinite4evr]
+da5613a  usb: add usb fast charge  [innfinite4evr]
+0fa02cf  Lux/merlin: Build inline wlan module  [innfinite4evr]
+41d8f0f  compiler-gcc: integrate the various compiler-gcc[345].h files  [innfinite4evr]
+06812f7  kernel: use the gnu89 standard explicitly  [innfinite4evr]
+bb12ed4  Makefile: Kill use of GCC wrapper  [innfinite4evr]
+482981e  Makefile: Fix device not booting with GCC 7.x and above  [innfinite4evr]
+8bb513f  lux/merlin: Add localversion && Build inline wlan module  [innfinite4evr]
+2ce77e4  Fix include paths  [innfinite4evr]
+ae1c902  Update .gitignore  [RahifM]
+   * packages/apps/Extensions/
+5f2e3b8   Allow to suppress notifications sound/vibration if screen is on [2/2]  [Shubham Singh]
+dc2e687  Screen off animations [2/2]  [Shubham Singh]
+0934fa3  Add a footer warning for the carrier label  [Shubham Singh]
+22a09d5   Show carrier label / custom label [2/2]  [Shubham Singh]
+0c60078  Hide lockscreen items [2/2]  [Shubham Singh]
+   * packages/apps/Launcher3/
+2003a5d  Launcher3: Use system's accent  [Shubham Singh]
+88097bd  Fix sync system theme for our setup  [Shubham Singh]
+   * packages/apps/Settings/
+0d6c262  SimSettings: Handle NoClassDefFoundError on devices without telephony-ext  [Shubham Singh]
+aa305cd  Expose suggestion card summary text  [Shubham Singh]
+ed9cb95  Disable DoubletapPowerForCamera by default [2/2]  [Shubham Singh]
+5c555f1  Kill the logspam due to BackupSettingsActivity  [Shubham Singh]
+60ff649  Vectorize ic_live_help icon and fix theming for SimDialogActivity  [Shubham Singh]
+9c6b615  Fix MultiSim hardcoded text color  [Shubham Singh]
+8f20f3e  IMS: Do not disable WiFi Calling for "registration error"  [Shubham Singh]
+2a582e0  Make sure inactive sim switch is disabled  [Shubham Singh]
+a70069a  Clean up SIM enable toggle implementation  [Shubham Singh]
+725f824  Utilize handler and PreferenceViewHolder  [Shubham Singh]
+b2bde89  Make provisioning optional even if qti-telephony is present  [Shubham Singh]
+3846fe5  Disable sim switch if subscription isn't valid  [Shubham Singh]
+6d8aa60  Don't set the icon for sim activation / deactivation dialog  [Shubham Singh]
+a003d92  Fix ANR on SIM deactivation  [Shubham Singh]
+5a0a249  Hide manual provisioning switch when extphone framework is not present  [Shubham Singh]
+145c6a2  Break MSIM dependency on qci-telephony-framework  [Shubham Singh]
+d9b5c19  Select preferred primary sub  [Shubham Singh]
+40b5fa0  Fix to do not allow both SIM deactivation  [Shubham Singh]
+53bf18c  Manual provision related fixes  [Shubham Singh]
+14f60d4  Fix possible NPE on SIM settings shutdown.  [Shubham Singh]
+3b6d58e  Add Manual provisioning support  [Shubham Singh]
+4a633bf  Fixes f/c in sim status on caf devices  [Shubham Singh]
+9958102  Remove extra cell broadcast settings  [Shubham Singh]
+4e22b56  Comment out Legal/Regulatory info  [Shubham Singh]
+a082eac  Fix refreshing storage summary after force stop  [Shubham Singh]
+0dde9ed  Settings: Add package name to installed app details  [Shubham Singh]
+51cb53a  Kill log spam in InstalledAppDetails  [Shubham Singh]
+   * packages/services/Telephony/
+f5fdbb3  Quick solution for preferred_network_mode array  [Shubham Singh]
+   * vendor/aosp/
+5fa262c  Update prebuilt apks  [Shubham Singh]
+
+====================
+     01-28-2018
+====================
+
+   * device/aosp/sepolicy/
+f9fd5d1  sepolicy: adapt sudaemon policy for O  [Shubham Singh]
+55fc661  sepolicy: Clean up su policy for N  [Shubham Singh]
+67e9ae2  sepolicy: allow kernel to read storage  [Shubham Singh]
+3e02184  sepolicy: fix denial for sudaemon  [Shubham Singh]
+7a65ef7  sepolicy: Make superuser_device and sudaemon mlstrustedobjects  [Shubham Singh]
+aae108b  sepolicy: remove sudaemon type declaration  [Shubham Singh]
+e497fd0  sepolicy: Add policies for the new superuser sockets.  [Shubham Singh]
+91843cc  selinux: Workaround for devices with PR_SET_NO_NEW_PRIVS enforcement  [Shubham Singh]
+e943d84  SELinux: su: Remove extra quote in a comment  [Shubham Singh]
+ee283a6  Add selinux policies for superuser  [Shubham Singh]
+dd15eea  sepolicy: Move exfat, ntfs and fuseblk types to system/sepolicy  [Shubham Singh]
+63be13e  qcom: Allow fsck to check /persist  [Shubham Singh]
+fdbef1f  sepolicy: allow vold to mount fuse-based sdcard  [Shubham Singh]
+054a357  sepolicy: Allow vold to `getattr` on mkfs_exec  [Shubham Singh]
+ed5e2ac  sepolicy: fix denials for external storage  [Shubham Singh]
+7ae86de  sepolicy: treat fuseblk as sdcard_external  [Shubham Singh]
+1875f44  sepolicy: label exfat and ntfs mkfs executables  [Shubham Singh]
+e652c56  sepolicy: Add domain for mkfs binaries  [Shubham Singh]
+0d29443  sepolicy: Set the context for fsck.exfat/ntfs to fsck_exec  [Shubham Singh]
+e3cf602  sepolicy: Fix sysinit denials  [Shubham Singh]
+34d6228  sepolicy: Permissions for userinit  [Shubham Singh]
+07d6751  sepolicy: allow userinit to set its property  [Shubham Singh]
+7f3642b  sepolicy: Add policy for sysinit  [Shubham Singh]
+2d63abd  sepolicy: Move fingerprint 2.0 service out of private sepolicy  [Shubham Singh]
+9dc11af  sepolicy: common: add rules for aosp vibrator hal  [Shubham Singh]
+ba7521b  sepolicy: Move aosp policy to platform  [Shubham Singh]
+b168a68  sepolicy: Allow apps to read battery status  [Shubham Singh]
+   * device/qcom/sepolicy/
+f3fdcf1  Merge branch 'staging/lineage-15.1' of https://github.com/LineageOS/android_device_qcom_sepolicy into HEAD  [Shubham Singh]
+   * frameworks/base/
+3e3e8f4   Theme DUI dialogs & things [1/2]  [Shubham Singh]
+5280242  Fix brightness slider under Settings/Display  [Shubham Singh]
+2761cff  Update toast icon to properly work with 8.1  [Shubham Singh]
+4171cfd  Revert "Fix toast layout"  [Shubham Singh]
+4c5b9f6  Fix NPE  [Shubham Singh]
+   * packages/apps/Launcher3/
+bb6c96e  Use materialized icon from b19ef49 as adaptive icon foreground  [Shubham Singh]
+da8029e  Materialize Launcher3 icon  [Shubham Singh]
+b941497  WallpaperPicker: Materialize icon  [Shubham Singh]
+42b1174  Materialize app drawer icon  [Shubham Singh]
+fddfe35  Revert "Replace application icon with Pixel Launcher icon"  [Shubham Singh]
+a4810b5  Sync launcher theme with system dark/light theme  [Shubham Singh]
+3a6c181  Change the Settings theme to match System Settings' theme  [Shubham Singh]
+687e84c  Add 'app drawer' category, fix 'At the glance' preference  [Shubham Singh]
+10056f8  Organize Settings / redesign credits  [Shubham Singh]
+a1b84d4  Launcher3: disable DOTS_ONLY for badge renderer  [Shubham Singh]
+a646f6a  Update version name to 3.1  [Shubham Singh]
+2a6ce6b  Use darker navigation bar for older Android versions  [Shubham Singh]
+1579732  Align all apps search bar by rounding translationY to the nearest pixel  [Shubham Singh]
+2383309  Update each calendar once on date change, use the correct package name  [Shubham Singh]
+067e74a  Fix Hide Apps activity FC  [Shubham Singh]
+27a2621  Hide apps menu: save on app check/uncheck  [Shubham Singh]
+9b1b6f3  Launcher3: Integrate Hidden apps option into Settings  [Shubham Singh]
+5bbc90d  Launcher3: implement hidden app feature  [Shubham Singh]
+67c3540  Launcher3: use simple set wallapper chooser  [Shubham Singh]
+5dec007  Go straight to home when exiting from launcher settings  [Shubham Singh]
+029c12c  Disable listeners when not needed  [Shubham Singh]
+1717e19  Gestures: fix double-tap power  [Shubham Singh]
+d7b8426  Gesures: add dt2sleep  [Shubham Singh]
+5d5d4dc  Make AmirZ's Pixel Launcher source buildable within rom somehow  [Shubham Singh]
+   * packages/apps/Messaging/
+7c3715d  My bad  [Shubham Singh]
+   * system/sepolicy/
+0a2d832  Revert "system: sepolicy: Import fuseblk from vendor/cm"  [Shubham Singh]
+ed50409  sepolicy: add sudaemon to ignore list  [Shubham Singh]
+83a1a8e  sepolicy: update policies for sudaemon on O  [Shubham Singh]
+4b791af  sepolicy: Allow su by apps on userdebug_or_eng  [Shubham Singh]
+7a48eb8  sepolicy: We need to declare before referencing  [Shubham Singh]
+71eae57  treble sepolicy tests: Workaround /sbin services labels  [Shubham Singh]
+bdcf4a6  sepolicy: Add missing exfat and fuseblk types  [Shubham Singh]
+9f2b485  sepolicy: Fix up exfat and ntfs support  [Shubham Singh]
+
+====================
+     01-27-2018
+====================
+
+   * packages/apps/Extensions/
+e027ef8  Revert "Revert "Toast icon switch [2/2]""  [Shubham Singh]
+
+====================
+     01-26-2018
+====================
+
+   * build/make/
+7cedd9b  Theme DUI dialogs & things [1/2]  [Shubham Singh]
+   * device/qcom/sepolicy/
+f4dad13  sepolicy: add missing sysfs_uio rules  [Demon Singur]
+   * frameworks/base/
+b58f894  Don't show confirm dialog on disable Cellular QS tile  [Shubham Singh]
+   * manifest/
+efc3117  Fix typo (#26)  [Shubham Singh]
+   * packages/apps/Launcher3/
+9f3c3d6  Use a bottom margin when a software navigation bar is not in use  [Amir Zaidi]
+
+====================
+     01-25-2018
+====================
+
+   * device/motorola/merlin/
+d2a0aa3  Deps: Track Alberto's kernel  [innfinite4evr]
+   * frameworks/base/
+dcf3489  Automatic translation import  [Shubham Singh]
+1304b9f  Ambient ticker: make it work if secure lockscreen notifs are blocked  [Shubham Singh]
+872f0b2  Allow Ambient music ticker for devices with custom doze manager  [Shubham Singh]
+db2bd65  Ambient music ticker: add a full disable mode [1/2]  [Shubham Singh]
+795bcfb  Ambient music: let hide clock and show track info in center screen [1/2]  [Shubham Singh]
+e3c1bd8  Ambient display music ticker [1/2]  [Shubham Singh]
+   * packages/apps/Extensions/
+c7f21d8  Automatic translation import  [Shubham Singh]
+   * packages/apps/FMRadio/
+2da6885  Automatic translation import  [Shubham Singh]
+   * packages/apps/Launcher3/
+2bfd198  Hardcode Oreo settings style on older Android versions  [Amir Zaidi]
+0a3d646  Add quick search box to hotseat and app drawer  [Amir Zaidi]
+749c76f  Add NexusLauncher overlay, callbacks and activity code  [Amir Zaidi]
+4b7966a  Backport Pixel's Oreo colours to older Android versions  [Amir Zaidi]
+fbf00b7  Switch to NexusLauncherActivity for main activity  [Amir Zaidi]
+2a73735  Add search callback for Pixel's exclusive new search layout  [Amir Zaidi]
+a535f29  Add custom icon pack support  [Amir Zaidi]
+4f748b2  Add custom app predictions  [Amir Zaidi]
+362ea0f  Switch to custom Pixel Launcher SettingsActivity  [Amir Zaidi]
+2851af6  Replace old search box with Smartspace  [Amir Zaidi]
+8b2da47  Filter Google Wallpapers, Voice Search and Now Launcher from apps list  [Amir Zaidi]
+dba9cad  Use Google Wallpapers to select a wallpaper when available  [Amir Zaidi]
+0a71733  Change Launcher3 application name to Pixel Launcher  [Amir Zaidi]
+1f5794f  Add DoubleShadowTextView and IcuDateTextView for Smartspace  [Amir Zaidi]
+4e7a516  Implement dynamic clock and calendar icons  [Amir Zaidi]
+   * packages/apps/Messaging/
+e4626f1  Automatic translation import  [Shubham Singh]
+   * packages/apps/PackageInstaller/
+eafa4a1  Automatic translation import  [Shubham Singh]
+   * packages/apps/Settings/
+32ac82e  Automatic translation import  [Shubham Singh]
+   * packages/apps/Updates/
+2abec39  Automatic translation import  [Shubham Singh]
+   * packages/providers/DownloadProvider/
+4c6de78  Automatic translation import  [Shubham Singh]
+   * vendor/aosp/
+c58f0e4  Merge "vendor: Build telephony-ext, fix soft reboot when calling" into 8.1.x  [Gerrit Code Review]
