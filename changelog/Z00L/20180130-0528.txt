@@ -1,0 +1,8 @@
+* New OTA App
+* Extended UI added
+* Launcher3 updated
+* Flashlight Toggle API Improvements
+* Power Menu Scrollview Improvements
+* Battery Saver QS tile Improvements
+* Translations updated
+* much more....
