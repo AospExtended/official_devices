@@ -1,0 +1,6 @@
+#Changelog
+
+> Overnight charging bug fixed
+> Pixel Launcher 3 added
+> Launcher now followes system accent
+> Footej camera as default camera
