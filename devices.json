@@ -108,6 +108,15 @@
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-aospextended-rom-v5-0-t3679746"
    },
    {
+      "name":"MI 3/4",
+      "brand":"Xiaomi",
+      "codename":"cancro",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=243564",
+      "maintainer_name":"Rizky Benggolo",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6331651",
+      "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-3/development/rom-aospextended-rom-v4-5-t3658884"
+   },
+   {
       "name":"Z1",
       "brand":"ZUK",
       "codename":"ham",
