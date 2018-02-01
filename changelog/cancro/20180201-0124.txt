@@ -1,0 +1,188 @@
+====================
+     02-01-2018
+====================
+
+   * device/xiaomi/cancro/
+164e0f9  update seclabels  [Rizky Benggolo]
+ca245f9  cancro: sepolicy: cleanup  [Rizky Benggolo]
+6ba9cb4  cancro: Include legacy SELinux policies after the standard ones  [Rizky Benggolo]
+   * packages/services/Telephony/
+ac43034  add LTE only option  [Rizky Benggolo]
+   * system/vold/
+6fe6e32  Revert "Add secdiscard command for secure deletion of files"  [Rizky Benggolo]
+
+====================
+     01-31-2018
+====================
+
+   * device/xiaomi/cancro/
+780fed4  cancro: Add Lineage power hal to manifest  [Rizky Benggolo]
+f40735e  cancro: drop audiod  [Rizky Benggolo]
+8adbdd1  cancro: add manifest hack for cancro  [Rizky Benggolo]
+4165bda  cancro: add aptX support  [Rizky Benggolo]
+e07a5f9  msm8974: Default apn ip type to ipv4  [Rizky Benggolo]
+bb4db15  cancro: update diracmobile & nfc from V9.2.2.0.MXDMIEK  [Rizky Benggolo]
+f055580  adjust for LTE only addition  [Rizky Benggolo]
+c6ac620  fix enabled_networks_values / enabled_networks_except_gsm_values  [Rizky Benggolo]
+   * kernel/xiaomi/cancro/
+3b1b07d  binder: use group leader instead of open thread  [Rizky Benggolo]
+cc3df3a  binder: don't allow mmap() by process other than proc->tsk  [Rizky Benggolo]
+40da066  msm: camera: isp: fix for out of bound access array  [Rizky Benggolo]
+2f03bcc  soc: qcom: msm_bus: add mutex lock for cllist data  [Rizky Benggolo]
+666cde8  ext4: fix data exposure after a crash  [Rizky Benggolo]
+0954b46  msm: camera: Allow driver file to be opend only once.  [Rizky Benggolo]
+22d7efc  Prevent potential double frees in sg driver  [Rizky Benggolo]
+ef12919  msm: camera: isp: Fix warning and errors based on static analysis  [Rizky Benggolo]
+f4596f9  nohz: Reduce overhead under high-freq idling patterns  [Rizky Benggolo]
+3547b4c  cpufreq: Avoid calling cpufreq driver's target() routine if target_freq == policy->cur  [Rizky Benggolo]
+9e615c6  cpufreq: Return early from __cpufreq_driver_getavg()  [Rizky Benggolo]
+ff97ed5  cpufreq: interactive: Remove unnecessary cpu_online() check  [Rizky Benggolo]
+ff9cbf1  ANDROID: xattr: Pass EOPNOTSUPP to permission2  [Rizky Benggolo]
+4f19c56  ANDROID: sdcardfs: Move default_normal to superblock  [Rizky Benggolo]
+
+====================
+     01-30-2018
+====================
+
+   * frameworks/base/
+8721565   Theme suggestions card summary text  [Shubham Singh]
+2024b09  MiniThumbFile: Fix image/bitmap retrieval  [Shubham Singh]
+ab22446  Rework thumbnail handling  [Shubham Singh]
+3a7fb23  Always keep clock/date & alarm visible while dozing  [Shubham Singh]
+c596935  Allow to suppress notifications sound/vibration if screen is on [1/2]  [Shubham Singh]
+8f285be  Make carrier label's visibility gone  [Shubham Singh]
+a78275c  Disable DoubletapPowerForCamera by default [1/2]  [Shubham Singh]
+63955edf  Screen off animations [1/2]  [Shubham Singh]
+884870e  Work smarter not harder  [Shubham Singh]
+4f6f9a9  Change QS customizer 'drag to add tile' string  [Shubham Singh]
+326e0ac  Keyguard/Statusbar Carrier label options  [Shubham Singh]
+e537b73  Adapt carrier label to DarkController  [Shubham Singh]
+8499624  Show carrier label / custom label [1/2]  [Shubham Singh]
+   * packages/apps/Extensions/
+5f2e3b8   Allow to suppress notifications sound/vibration if screen is on [2/2]  [Shubham Singh]
+dc2e687  Screen off animations [2/2]  [Shubham Singh]
+0934fa3  Add a footer warning for the carrier label  [Shubham Singh]
+22a09d5   Show carrier label / custom label [2/2]  [Shubham Singh]
+0c60078  Hide lockscreen items [2/2]  [Shubham Singh]
+   * packages/apps/Settings/
+0d6c262  SimSettings: Handle NoClassDefFoundError on devices without telephony-ext  [Shubham Singh]
+aa305cd  Expose suggestion card summary text  [Shubham Singh]
+ed9cb95  Disable DoubletapPowerForCamera by default [2/2]  [Shubham Singh]
+5c555f1  Kill the logspam due to BackupSettingsActivity  [Shubham Singh]
+60ff649  Vectorize ic_live_help icon and fix theming for SimDialogActivity  [Shubham Singh]
+9c6b615  Fix MultiSim hardcoded text color  [Shubham Singh]
+8f20f3e  IMS: Do not disable WiFi Calling for "registration error"  [Shubham Singh]
+2a582e0  Make sure inactive sim switch is disabled  [Shubham Singh]
+a70069a  Clean up SIM enable toggle implementation  [Shubham Singh]
+725f824  Utilize handler and PreferenceViewHolder  [Shubham Singh]
+b2bde89  Make provisioning optional even if qti-telephony is present  [Shubham Singh]
+3846fe5  Disable sim switch if subscription isn't valid  [Shubham Singh]
+6d8aa60  Don't set the icon for sim activation / deactivation dialog  [Shubham Singh]
+a003d92  Fix ANR on SIM deactivation  [Shubham Singh]
+5a0a249  Hide manual provisioning switch when extphone framework is not present  [Shubham Singh]
+145c6a2  Break MSIM dependency on qci-telephony-framework  [Shubham Singh]
+d9b5c19  Select preferred primary sub  [Shubham Singh]
+40b5fa0  Fix to do not allow both SIM deactivation  [Shubham Singh]
+53bf18c  Manual provision related fixes  [Shubham Singh]
+14f60d4  Fix possible NPE on SIM settings shutdown.  [Shubham Singh]
+3b6d58e  Add Manual provisioning support  [Shubham Singh]
+4a633bf  Fixes f/c in sim status on caf devices  [Shubham Singh]
+9958102  Remove extra cell broadcast settings  [Shubham Singh]
+4e22b56  Comment out Legal/Regulatory info  [Shubham Singh]
+a082eac  Fix refreshing storage summary after force stop  [Shubham Singh]
+0dde9ed  Settings: Add package name to installed app details  [Shubham Singh]
+51cb53a  Kill log spam in InstalledAppDetails  [Shubham Singh]
+   * packages/services/Telephony/
+f5fdbb3  Quick solution for preferred_network_mode array  [Shubham Singh]
+
+====================
+     01-29-2018
+====================
+
+   * device/aosp/sepolicy/
+f9fd5d1  sepolicy: adapt sudaemon policy for O  [Shubham Singh]
+55fc661  sepolicy: Clean up su policy for N  [Shubham Singh]
+67e9ae2  sepolicy: allow kernel to read storage  [Shubham Singh]
+3e02184  sepolicy: fix denial for sudaemon  [Shubham Singh]
+7a65ef7  sepolicy: Make superuser_device and sudaemon mlstrustedobjects  [Shubham Singh]
+aae108b  sepolicy: remove sudaemon type declaration  [Shubham Singh]
+e497fd0  sepolicy: Add policies for the new superuser sockets.  [Shubham Singh]
+91843cc  selinux: Workaround for devices with PR_SET_NO_NEW_PRIVS enforcement  [Shubham Singh]
+e943d84  SELinux: su: Remove extra quote in a comment  [Shubham Singh]
+ee283a6  Add selinux policies for superuser  [Shubham Singh]
+dd15eea  sepolicy: Move exfat, ntfs and fuseblk types to system/sepolicy  [Shubham Singh]
+63be13e  qcom: Allow fsck to check /persist  [Shubham Singh]
+fdbef1f  sepolicy: allow vold to mount fuse-based sdcard  [Shubham Singh]
+054a357  sepolicy: Allow vold to `getattr` on mkfs_exec  [Shubham Singh]
+ed5e2ac  sepolicy: fix denials for external storage  [Shubham Singh]
+7ae86de  sepolicy: treat fuseblk as sdcard_external  [Shubham Singh]
+1875f44  sepolicy: label exfat and ntfs mkfs executables  [Shubham Singh]
+e652c56  sepolicy: Add domain for mkfs binaries  [Shubham Singh]
+0d29443  sepolicy: Set the context for fsck.exfat/ntfs to fsck_exec  [Shubham Singh]
+e3cf602  sepolicy: Fix sysinit denials  [Shubham Singh]
+34d6228  sepolicy: Permissions for userinit  [Shubham Singh]
+07d6751  sepolicy: allow userinit to set its property  [Shubham Singh]
+7f3642b  sepolicy: Add policy for sysinit  [Shubham Singh]
+2d63abd  sepolicy: Move fingerprint 2.0 service out of private sepolicy  [Shubham Singh]
+9dc11af  sepolicy: common: add rules for aosp vibrator hal  [Shubham Singh]
+ba7521b  sepolicy: Move aosp policy to platform  [Shubham Singh]
+b168a68  sepolicy: Allow apps to read battery status  [Shubham Singh]
+   * device/qcom/sepolicy/
+f3fdcf1  Merge branch 'staging/lineage-15.1' of https://github.com/LineageOS/android_device_qcom_sepolicy into HEAD  [Shubham Singh]
+   * frameworks/base/
+211ece0  Hide lockscreen items [1/2]  [Shubham Singh]
+   * kernel/xiaomi/cancro/
+7f6009e  cleanup defconfig  [Rizky Benggolo]
+   * packages/apps/Launcher3/
+2003a5d  Launcher3: Use system's accent  [Shubham Singh]
+88097bd  Fix sync system theme for our setup  [Shubham Singh]
+bb6c96e  Use materialized icon from b19ef49 as adaptive icon foreground  [Shubham Singh]
+da8029e  Materialize Launcher3 icon  [Shubham Singh]
+b941497  WallpaperPicker: Materialize icon  [Shubham Singh]
+42b1174  Materialize app drawer icon  [Shubham Singh]
+fddfe35  Revert "Replace application icon with Pixel Launcher icon"  [Shubham Singh]
+a4810b5  Sync launcher theme with system dark/light theme  [Shubham Singh]
+3a6c181  Change the Settings theme to match System Settings' theme  [Shubham Singh]
+687e84c  Add 'app drawer' category, fix 'At the glance' preference  [Shubham Singh]
+10056f8  Organize Settings / redesign credits  [Shubham Singh]
+a1b84d4  Launcher3: disable DOTS_ONLY for badge renderer  [Shubham Singh]
+a646f6a  Update version name to 3.1  [Shubham Singh]
+2a6ce6b  Use darker navigation bar for older Android versions  [Shubham Singh]
+1579732  Align all apps search bar by rounding translationY to the nearest pixel  [Shubham Singh]
+2383309  Update each calendar once on date change, use the correct package name  [Shubham Singh]
+067e74a  Fix Hide Apps activity FC  [Shubham Singh]
+27a2621  Hide apps menu: save on app check/uncheck  [Shubham Singh]
+9b1b6f3  Launcher3: Integrate Hidden apps option into Settings  [Shubham Singh]
+5bbc90d  Launcher3: implement hidden app feature  [Shubham Singh]
+67c3540  Launcher3: use simple set wallapper chooser  [Shubham Singh]
+5dec007  Go straight to home when exiting from launcher settings  [Shubham Singh]
+029c12c  Disable listeners when not needed  [Shubham Singh]
+1717e19  Gestures: fix double-tap power  [Shubham Singh]
+d7b8426  Gesures: add dt2sleep  [Shubham Singh]
+5d5d4dc  Make AmirZ's Pixel Launcher source buildable within rom somehow  [Shubham Singh]
+   * packages/apps/Messaging/
+7c3715d  My bad  [Shubham Singh]
+   * system/sepolicy/
+0a2d832  Revert "system: sepolicy: Import fuseblk from vendor/cm"  [Shubham Singh]
+ed50409  sepolicy: add sudaemon to ignore list  [Shubham Singh]
+83a1a8e  sepolicy: update policies for sudaemon on O  [Shubham Singh]
+4b791af  sepolicy: Allow su by apps on userdebug_or_eng  [Shubham Singh]
+7a48eb8  sepolicy: We need to declare before referencing  [Shubham Singh]
+71eae57  treble sepolicy tests: Workaround /sbin services labels  [Shubham Singh]
+bdcf4a6  sepolicy: Add missing exfat and fuseblk types  [Shubham Singh]
+9f2b485  sepolicy: Fix up exfat and ntfs support  [Shubham Singh]
+   * vendor/aosp/
+5fa262c  Update prebuilt apks  [Shubham Singh]
+
+====================
+     01-28-2018
+====================
+
+   * frameworks/base/
+3e3e8f4   Theme DUI dialogs & things [1/2]  [Shubham Singh]
+5280242  Fix brightness slider under Settings/Display  [Shubham Singh]
+2761cff  Update toast icon to properly work with 8.1  [Shubham Singh]
+4171cfd  Revert "Fix toast layout"  [Shubham Singh]
+4c5b9f6  Fix NPE  [Shubham Singh]
+   * kernel/xiaomi/cancro/
+7b9109d  Merge tag 'v3.4.113' into HEAD  [Rizky Benggolo]
