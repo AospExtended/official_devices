@@ -1,0 +1,6 @@
+Fixed encryption
+
+Notification light now turn on during setting
+Upstream kernel to last caf tag
+Ability to shutdown one sim card
+
