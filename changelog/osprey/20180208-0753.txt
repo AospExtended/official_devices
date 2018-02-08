@@ -1,0 +1,164 @@
+====================
+     02-08-2018
+====================
+
+   * build/make/
+a60aea281  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+07444cea1  Enable ADB by default when ro.adb.secure is not 1  [Shubham Singh]
+1b793c298  Don't enable ADB by default on userdebug builds  [Shubham Singh]
+514c4dd64  dexopt: Only dexopt boot and system server for non-user builds  [Shubham Singh]
+6be659475  Revert "build: don't dex preopt by default on linux"  [Shubham Singh]
+   * device/aosp/sepolicy/
+db92608  Add sepolicy for OTA app  [Shubham Singh]
+   * frameworks/av/
+3b8f56159  Merge tag 'android-8.1.0_r11' into 8.1.x  [Shubham Singh]
+   * frameworks/base/
+07324bb9a5f  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+bbae06e0bc2  Disable few features by default [2/2]  [Shubham Singh]
+7b347572e8e  Add DarkIconDispatcher to aex logo  [Shubham Singh]
+c42de59f3b8  AEX logo in the statusbar  [Shubham Singh]
+d8d0644852f  [1/2] SystemUI: Force inflate on theme change  [Shubham Singh]
+a28714e766f  Add toggle for face auto unlock (1/2)  [Shubham Singh]
+d70ac0c79d3  Make status bar ticker play nice with center clock  [Shubham Singh]
+169f5bd72a6  fwb: Statusbar clock customizations (1/2)  [Shubham Singh]
+4ae60d33cfb  Cleanup unused tiles drawables  [Shubham Singh]
+bf19fac95da  SystemUI: use slashify for more qs tile  [Shubham Singh]
+80516f94914  Extend dynamic notification bool for ambient notifications  [Shubham Singh]
+8d11e5c642d  Notification dynamic colors bool  [Shubham Singh]
+8bdd929dc28  Expose a bool to disable dynamic colors  [Shubham Singh]
+8700abb8d0c  Ticker: Clear ticker regardless of setting  [Shubham Singh]
+91393341672  App screenshot filename: remove also spaces  [Shubham Singh]
+c5560b250a1  Disable power button haptic feedback conditionally  [Shubham Singh]
+   * hardware/interfaces/
+48733857  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+   * manifest/
+f2981e3  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+   * packages/apps/Bluetooth/
+15eb5037  consider the situations where the device has only one volume level set.  [Shubham Singh]
+d317304f  Revert "HeadsetClientStateMachine: Add divide-by-zero checks for bluetooth"  [Shubham Singh]
+d568a31f  Avrcp: disable debugging  [Shubham Singh]
+e4d0a16a  Remove duplicate permission  [Shubham Singh]
+12cb4b95  Bluetooth: Remove unnecessary dependency  [Shubham Singh]
+   * packages/apps/Camera2/
+a6855c1fa  Fix picture orientation on op5/5t  [Shubham Singh]
+   * packages/apps/DUI/
+3972897   Pulse fading blocks render: use more visible colors  [Shubham Singh]
+   * packages/apps/Extensions/
+32341ed4  Disable few features by default [1/2]  [Shubham Singh]
+9bd214b4   DUI Pulse: add Automatic albumart base color mode [3/3]  [Shubham Singh]
+ca742ea1  Add toggle for face auto unlock (2/2)  [Shubham Singh]
+15f08113   ae: Statusbar clock customization (2/2)  [Shubham Singh]
+   * packages/apps/Settings/
+b907f37e4f  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+29c4669c76  [2/2] Themes: Force inflate on theme change  [Shubham Singh]
+fc530993f8  Jump to homescreen and back on theme change  [Shubham Singh]
+cd636c4ba3  Revert "DarkUIPreferenceController: Toast and jump to home on UI style change"  [Shubham Singh]
+fc56b809b7  Wifi: Restore hidden flag for hidden networks on update network  [Shubham Singh]
+7e72237b0c  StorageSummaryPreference: Nuke hardcoded color  [Shubham Singh]
+755b248c07  Settings: Use accent color on storage bar  [Shubham Singh]
+093cacd907  Settings: Fix empty summary for VPN and SIM Card  [Henrique Silva]
+3defcee517  Fix BT pairing dialog DarkUI theme issue  [Shubham Singh]
+7081bd8a51  Notification log improvements  [Shubham Singh]
+b106d400d3  Expose the notification log  [Shubham Singh]
+8427d83164  Prevent users from sharing sensitive information  [Shubham Singh]
+   * packages/apps/Updates/
+a158174  Change notification channels priority  [Shubham Singh]
+a1ce029  Change last checked logic  [Shubham Singh]
+   * packages/providers/DownloadProvider/
+7e6e282  Fix download icon sometimes not appearing  [Shubham Singh]
+   * system/core/
+bfcc0d653  init: Remove unnecessary undefine  [Shubham Singh]
+a47560c16  utils: Threads: Handle empty thread names  [Shubham Singh]
+2d4dce261  Fix wrong value in lockscreen charging  [Shubham Singh]
+   * system/qcom/
+026985d  Merge tag 'LA.UM.6.4.r1-05900-8x98.0' into HEAD  [Shubham Singh]
+a51ed2a  softap: sdk: Declare VNDK usage  [Shubham Singh]
+   * vendor/aosp/
+9742afa2d  Use adaptive icon for Snap  [Shubham Singh]
+c028c33cf  Time for 5.2  [Shubham Singh]
+f3a252ba0  lineage: Allow IPv6 on roaming for T-Mobile US APNs  [Shubham Singh]
+6d4d7d9c1  lineage: Consolidate T-Mobile US APNs  [Shubham Singh]
+b2d723932  vendor: update vzw apns  [Shubham Singh]
+cee85bb2b  Always add manufacturer and model to MP4 files  [Shubham Singh]
+a8583f1db  bfqio: Add missing include header  [Shubham Singh]
+7724d676c  Add APN for iD Mobile UK MVNO  [Shubham Singh]
+abff478ef  Added Cape Verde carrier CVMóvel default APN as configured by sales agents  [Shubham Singh]
+529167e37  Updated Syma APN  [Shubham Singh]
+444982d7a  Remove telephony-ext from here  [Shubham Singh]
+
+====================
+     02-07-2018
+====================
+
+   * frameworks/base/
+0486ad2cdfa  Remove call to expand QS panel while pressing the Airplane QS tile  [Shubham Singh]
+8ed09ff9442  Simplify successful screenrecord notification strings  [Shubham Singh]
+0ebf7eb5eca  Bring back less notification sounds [1/2]  [Shubham Singh]
+5a3003f00ac  base: SystemUI: add drawable tint in tuner lockscreen picker  [Shubham Singh]
+44347e57df3  Screenrecord tile: save quality level  [Shubham Singh]
+8e46ba2eca7  DUI Pulse: add Automatic albumart base color mode [1/3]  [Shubham Singh]
+9176c67423a  DUI Smartbar double tap to sleep [1/3]  [Shubham Singh]
+14a21450f1b  Overlays: Update black and extended theme  [Shubham Singh]
+3369d24782e   Theme Moar dialogs  [Shubham Singh]
+bfc03c322a6  SystemUI: fix ambient display when HeadsUp disabled  [Shubham Singh]
+f9766906a09  Revert "Keyguard: Don't show keyguard if CryptKeeper enabled"  [Shubham Singh]
+4525e1843b5  Merge "Led light: don't show color picker if no multicolor led available [1/2]" into 8.1.x  
+[Gerrit Code Review]
+5c07b575b51  Merge "Add api to force show led lights" into 8.1.x  [Gerrit Code Review]
+d2a2363033b  Led light: don't show color picker if no multicolor led available [1/2]  [davidevinavil]
+27752bee50b  Add api to force show led lights  [davidevinavil]
+   * packages/apps/DUI/
+014e29a  DUI Pulse: add Automatic albumart base color mode [2/3]  [Shubham Singh]
+69f8eb3  DUI Smartbar double tap to sleep [2/3]  [Shubham Singh]
+38e5213  Smartbar: skip empty fake buttons animations and allow dt2s on them  [Shubham Singh]
+   * packages/apps/Extensions/
+38bac9f7  Bring back less notification sounds [2/2]  [Shubham Singh]
+56297afc  DUI Smartbar double tap to sleep [3/3]  [Shubham Singh]
+96414c19  Merge changes Ib48d8515,Ibf2f1e7f into 8.1.x  [Gerrit Code Review]
+827346fe  Automatic translation import  [Shubham Singh]
+   * packages/apps/Launcher3/
+41ecd586d  Better string for 'At the glance' widget preference  [Shubham Singh]
+87d20b530  Fix Hide Apps preference FC after packagename change  [Shubham Singh]
+16938b512  Fix not working weather and Google now feed automatic theme  [Shubham Singh]
+99066ad91  Apps drawer search bar: make search text color dynamic  [Shubham Singh]
+510fe672e  Adjust Credits dialog layout  [Shubham Singh]
+4149b1808  Fix reset apps strings  [Shubham Singh]
+f2fb919dd  Build pixel proto inline and cleanup  [Shubham Singh]
+e8c577e97  Disable Google now related options if Google now is not installed  [Shubham Singh]
+4fe549b82  Hide only default hidden apps in the widget panel, not user ones  [Shubham Singh]
+85849e75a  Fix more broadcast logspam  [Shubham Singh]
+1f29f8aad  Hide some apps by default and fix FC when hiding all most used apps  [Shubham Singh]
+0c9f523bb  Make hide apps recyclerview smooth  [Shubham Singh]
+34d94e62f  Added reset option to 'hide app' feature  [Shubham Singh]
+475926742  Hide Apps option: show hidden apps at top of the list  [Shubham Singh]
+9ebe49c8c  Fix service binding logspam  [Shubham Singh]
+6ea5981bc  Switch from prebuilt java to clean aidl  [Shubham Singh]
+633aeb2b1  Use dark search bar in home screen for dark theme  [Shubham Singh]
+7af31b901  Use dark search bar in app drawer for dark theme  [Shubham Singh]
+   * packages/apps/Settings/
+7058aeeec8  Merge "Led light: don't show color picker if no multicolor led available [2/2]" into 8.1.x  [Gerrit 
+Code Review]
+72ae1288d5  Merge changes I0186698d,I32850aab into 8.1.x  [Gerrit Code Review]
+c6ea58fa93  Led light: don't show color picker if no multicolor led available [2/2]  [davidevinavil]
+   * system/vold/
+6305b51  Revert "Add secdiscard command for secure deletion of files"  [Gaurav]
+
+====================
+     02-06-2018
+====================
+
+   * manifest/
+fc69882  Manifest for Android 8.1.0 Release 11  [The Android Open Source Project]
+2de6c9e  Manifest for Android 8.1.0 Release 10  [The Android Open Source Project]
+
+====================
+     02-05-2018
+====================
+
+   * packages/apps/Extensions/
+b79bb4ca  Disable useless alphaslider for battery led customization  [davidevinavil]
+c70007c5  Battery led customization: activate led light preview  [davidevinavil]
+   * packages/apps/Settings/
+398b14311f  Disable useless alpha slider for notification lights color picker  [davidevinavil]
+fbbe52b773  App notification led customization: activate led preview  [davidevinavil]
+
