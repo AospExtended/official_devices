@@ -1,0 +1,21 @@
+# AOSP EXTENDED 5.2 February Update Changelog!
+
+# Device Specific
+-Fixed Lockscreen bug
+-Fixed System resize error while flashing
+-Switched to HWC2
+-Few more things that I can't remember
+
+# ROM Specific
+-Merge February security patch
+-Merge latest AOSP Tag
+-Added toggle for face auto unlock
+-Updated DUI Pulse
+-Added DT2S on NavBar
+-Added Statusbar clock customization
+-Added AEX logo in the statusbar
+-Disabled few features by default
+-Update all translations
+-Update AEX Papers
+-Update all pre-built packages
+-Performance enhancements and bug fixes
