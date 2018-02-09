@@ -1,0 +1,5 @@
+Offline charger (work only with zui Oreo baseband)
+Led preview in battery settings
+Kernel built with GCC GNU 6.3
+DT2S in lockscreen work on top and bottom screen now
+Move to Snap
