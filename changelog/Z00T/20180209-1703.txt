@@ -1,0 +1,9 @@
+AOSP EXTENDED 9th Feb Update!
+
+- Android 8.1_r11
+- Merged Feb Security Patch
+- Updated All Apps
+- Face Unlock, Center Clock, Ambient Music Ticker and More New Extensions
+- Fixed Bugs
+- Fixed Night Light
+- Updated Kernel
