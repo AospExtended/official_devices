@@ -1,0 +1,202 @@
+====================
+     02-10-2018
+====================
+
+   * device/qcom/sepolicy/
+45f7c22  Merge branch 'staging/lineage-15.1' of https://github.com/LineageOS/android_device_qcom_sepolicy into HEAD  [Shubham Singh]
+   * device/xiaomi/cancro/
+73ab4d8  cancro: add some overlays  [Rizky Benggolo]
+   * kernel/xiaomi/cancro/
+1a27c23  msm8974: added input mediator  [Rizky Benggolo]
+49ba41f  msm8974: dts: cpufreq: added 268 MHz clockspeed  [Rizky Benggolo]
+   * packages/apps/Extensions/
+fdd4ec8  Merge "Color picker: allow to activate ongoing led light as color preview" into 8.1.x  [Gerrit Code Review]
+   * packages/apps/Updates/
+ac00ca2  Automatic translation import  [Shubham Singh]
+
+====================
+     02-09-2018
+====================
+
+   * device/qcom/sepolicy/
+856dcf4  legacy: Allow qcom power HAL to interact with perfd  [Bruno Martins]
+   * device/xiaomi/cancro/
+8849b93  update sepolicy  [Rizky Benggolo]
+58aacb5  cancro: nfc  [Rizky Benggolo]
+2503c22  cancro: camera: hardcode some stuff  [Rizky Benggolo]
+6ba8d13  cancro: releasetools: fix device_check.sh not executing * Remove conditional checks & warning for unsupported device * Update RAW_ID path  [Rizky Benggolo]
+29255d3  cancro: value refactor  [Rizky Benggolo]
+   * packages/apps/Extensions/
+8b48e29  Automatic translation import  [Shubham Singh]
+   * packages/apps/FMRadio/
+bbf897c  Automatic translation import  [Shubham Singh]
+   * packages/apps/Messaging/
+e9f1ef6  Automatic translation import  [Shubham Singh]
+   * packages/apps/PackageInstaller/
+51d9ee8  Automatic translation import  [Shubham Singh]
+   * packages/providers/DownloadProvider/
+58e434c  Automatic translation import  [Shubham Singh]
+
+====================
+     02-08-2018
+====================
+
+   * build/make/
+a60aea2  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+07444ce  Enable ADB by default when ro.adb.secure is not 1  [Shubham Singh]
+1b793c2  Don't enable ADB by default on userdebug builds  [Shubham Singh]
+514c4dd  dexopt: Only dexopt boot and system server for non-user builds  [Shubham Singh]
+6be6594  Revert "build: don't dex preopt by default on linux"  [Shubham Singh]
+   * device/aosp/sepolicy/
+db92608  Add sepolicy for OTA app  [Shubham Singh]
+   * device/xiaomi/cancro/
+271bc9e  cancro: change i/o scheduler configuration  [Rizky Benggolo]
+f3b172a  cancro: strip out mpdecision  [Rizky Benggolo]
+bb95c26  cancro: Kang overlay from xiaomi-dev  [Rizky Benggolo]
+   * frameworks/av/
+3b8f561  Merge tag 'android-8.1.0_r11' into 8.1.x  [Shubham Singh]
+   * frameworks/base/
+07324bb  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+bbae06e  Disable few features by default [2/2]  [Shubham Singh]
+7b34757  Add DarkIconDispatcher to aex logo  [Shubham Singh]
+c42de59  AEX logo in the statusbar  [Shubham Singh]
+d8d0644  [1/2] SystemUI: Force inflate on theme change  [Shubham Singh]
+a28714e  Add toggle for face auto unlock (1/2)  [Shubham Singh]
+d70ac0c  Make status bar ticker play nice with center clock  [Shubham Singh]
+169f5bd  fwb: Statusbar clock customizations (1/2)  [Shubham Singh]
+4ae60d3  Cleanup unused tiles drawables  [Shubham Singh]
+bf19fac  SystemUI: use slashify for more qs tile  [Shubham Singh]
+80516f9  Extend dynamic notification bool for ambient notifications  [Shubham Singh]
+8d11e5c  Notification dynamic colors bool  [Shubham Singh]
+8bdd929  Expose a bool to disable dynamic colors  [Shubham Singh]
+8700abb  Ticker: Clear ticker regardless of setting  [Shubham Singh]
+9139334  App screenshot filename: remove also spaces  [Shubham Singh]
+c5560b2  Disable power button haptic feedback conditionally  [Shubham Singh]
+   * hardware/interfaces/
+4873385  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+   * kernel/xiaomi/cancro/
+d3ee2d1c  ANDROID: sdcardfs: Protect set_top  [Rizky Benggolo]
+55b264e  ANDROID: fsnotify: Notify lower fs of open  [Rizky Benggolo]
+7b59973  Revert "ANDROID: sdcardfs: notify lower file of opens"  [Rizky Benggolo]
+85c8db9  ANDROID: sdcardfs: Use lower getattr times/size  [Rizky Benggolo]
+fdb9b6c  autosmp cleanup  [Rizky Benggolo]
+a8e7fde  cancro: Set autosmp as default  [Rizky Benggolo]
+e282b62  defconfig: Enable autosmp & alucard hotplug  [Rizky Benggolo]
+   * manifest/
+f2981e3  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+   * packages/apps/Bluetooth/
+15eb503  consider the situations where the device has only one volume level set.  [Shubham Singh]
+d317304  Revert "HeadsetClientStateMachine: Add divide-by-zero checks for bluetooth"  [Shubham Singh]
+d568a31  Avrcp: disable debugging  [Shubham Singh]
+e4d0a16  Remove duplicate permission  [Shubham Singh]
+12cb4b9  Bluetooth: Remove unnecessary dependency  [Shubham Singh]
+   * packages/apps/Camera2/
+a6855c1  Fix picture orientation on op5/5t  [Shubham Singh]
+   * packages/apps/DUI/
+3972897   Pulse fading blocks render: use more visible colors  [Shubham Singh]
+   * packages/apps/Extensions/
+d58bc4f  Color picker: allow to activate ongoing led light as color preview  [davidevinavil]
+32341ed  Disable few features by default [1/2]  [Shubham Singh]
+9bd214b   DUI Pulse: add Automatic albumart base color mode [3/3]  [Shubham Singh]
+ca742ea  Add toggle for face auto unlock (2/2)  [Shubham Singh]
+15f0811   ae: Statusbar clock customization (2/2)  [Shubham Singh]
+   * packages/apps/Settings/
+b907f37  Merge tag 'android-8.1.0_r11' into HEAD  [Shubham Singh]
+29c4669  [2/2] Themes: Force inflate on theme change  [Shubham Singh]
+fc53099  Jump to homescreen and back on theme change  [Shubham Singh]
+cd636c4  Revert "DarkUIPreferenceController: Toast and jump to home on UI style change"  [Shubham Singh]
+fc56b80  Wifi: Restore hidden flag for hidden networks on update network  [Shubham Singh]
+7e72237  StorageSummaryPreference: Nuke hardcoded color  [Shubham Singh]
+755b248  Settings: Use accent color on storage bar  [Shubham Singh]
+093cacd  Settings: Fix empty summary for VPN and SIM Card  [Henrique Silva]
+3defcee  Fix BT pairing dialog DarkUI theme issue  [Shubham Singh]
+7081bd8  Notification log improvements  [Shubham Singh]
+b106d40  Expose the notification log  [Shubham Singh]
+8427d83  Prevent users from sharing sensitive information  [Shubham Singh]
+   * packages/apps/Updates/
+a158174  Change notification channels priority  [Shubham Singh]
+a1ce029  Change last checked logic  [Shubham Singh]
+   * packages/providers/DownloadProvider/
+7e6e282  Fix download icon sometimes not appearing  [Shubham Singh]
+   * system/core/
+bfcc0d6  init: Remove unnecessary undefine  [Shubham Singh]
+a47560c  utils: Threads: Handle empty thread names  [Shubham Singh]
+2d4dce2  Fix wrong value in lockscreen charging  [Shubham Singh]
+   * system/qcom/
+026985d  Merge tag 'LA.UM.6.4.r1-05900-8x98.0' into HEAD  [Shubham Singh]
+a51ed2a  softap: sdk: Declare VNDK usage  [Shubham Singh]
+   * vendor/aosp/
+9742afa  Use adaptive icon for Snap  [Shubham Singh]
+c028c33  Time for 5.2  [Shubham Singh]
+f3a252b  lineage: Allow IPv6 on roaming for T-Mobile US APNs  [Shubham Singh]
+6d4d7d9  lineage: Consolidate T-Mobile US APNs  [Shubham Singh]
+b2d7239  vendor: update vzw apns  [Shubham Singh]
+cee85bb  Always add manufacturer and model to MP4 files  [Shubham Singh]
+a8583f1  bfqio: Add missing include header  [Shubham Singh]
+7724d67  Add APN for iD Mobile UK MVNO  [Shubham Singh]
+abff478  Added Cape Verde carrier CVMóvel default APN as configured by sales agents  [Shubham Singh]
+529167e  Updated Syma APN  [Shubham Singh]
+444982d  Remove telephony-ext from here  [Shubham Singh]
+
+====================
+     02-07-2018
+====================
+
+   * frameworks/base/
+0486ad2  Remove call to expand QS panel while pressing the Airplane QS tile  [Shubham Singh]
+8ed09ff  Simplify successful screenrecord notification strings  [Shubham Singh]
+0ebf7eb  Bring back less notification sounds [1/2]  [Shubham Singh]
+5a3003f  base: SystemUI: add drawable tint in tuner lockscreen picker  [Shubham Singh]
+44347e5  Screenrecord tile: save quality level  [Shubham Singh]
+8e46ba2  DUI Pulse: add Automatic albumart base color mode [1/3]  [Shubham Singh]
+9176c67  DUI Smartbar double tap to sleep [1/3]  [Shubham Singh]
+14a2145  Overlays: Update black and extended theme  [Shubham Singh]
+3369d24   Theme Moar dialogs  [Shubham Singh]
+bfc03c3  SystemUI: fix ambient display when HeadsUp disabled  [Shubham Singh]
+f976690  Revert "Keyguard: Don't show keyguard if CryptKeeper enabled"  [Shubham Singh]
+4525e18  Merge "Led light: don't show color picker if no multicolor led available [1/2]" into 8.1.x  [Gerrit Code Review]
+5c07b57  Merge "Add api to force show led lights" into 8.1.x  [Gerrit Code Review]
+d2a2363  Led light: don't show color picker if no multicolor led available [1/2]  [davidevinavil]
+27752be  Add api to force show led lights  [davidevinavil]
+   * packages/apps/DUI/
+014e29a  DUI Pulse: add Automatic albumart base color mode [2/3]  [Shubham Singh]
+69f8eb3  DUI Smartbar double tap to sleep [2/3]  [Shubham Singh]
+38e5213  Smartbar: skip empty fake buttons animations and allow dt2s on them  [Shubham Singh]
+   * packages/apps/Extensions/
+38bac9f  Bring back less notification sounds [2/2]  [Shubham Singh]
+56297af  DUI Smartbar double tap to sleep [3/3]  [Shubham Singh]
+96414c1  Merge changes Ib48d8515,Ibf2f1e7f into 8.1.x  [Gerrit Code Review]
+827346f  Automatic translation import  [Shubham Singh]
+   * packages/apps/Launcher3/
+41ecd58  Better string for 'At the glance' widget preference  [Shubham Singh]
+87d20b5  Fix Hide Apps preference FC after packagename change  [Shubham Singh]
+16938b5  Fix not working weather and Google now feed automatic theme  [Shubham Singh]
+99066ad  Apps drawer search bar: make search text color dynamic  [Shubham Singh]
+510fe67  Adjust Credits dialog layout  [Shubham Singh]
+4149b18  Fix reset apps strings  [Shubham Singh]
+f2fb919  Build pixel proto inline and cleanup  [Shubham Singh]
+e8c577e  Disable Google now related options if Google now is not installed  [Shubham Singh]
+4fe549b  Hide only default hidden apps in the widget panel, not user ones  [Shubham Singh]
+85849e7  Fix more broadcast logspam  [Shubham Singh]
+1f29f8a  Hide some apps by default and fix FC when hiding all most used apps  [Shubham Singh]
+0c9f523  Make hide apps recyclerview smooth  [Shubham Singh]
+34d94e6  Added reset option to 'hide app' feature  [Shubham Singh]
+4759267  Hide Apps option: show hidden apps at top of the list  [Shubham Singh]
+9ebe49c  Fix service binding logspam  [Shubham Singh]
+6ea5981  Switch from prebuilt java to clean aidl  [Shubham Singh]
+633aeb2  Use dark search bar in home screen for dark theme  [Shubham Singh]
+7af31b9  Use dark search bar in app drawer for dark theme  [Shubham Singh]
+   * packages/apps/Settings/
+7058aee  Merge "Led light: don't show color picker if no multicolor led available [2/2]" into 8.1.x  [Gerrit Code Review]
+72ae128  Merge changes I0186698d,I32850aab into 8.1.x  [Gerrit Code Review]
+c6ea58f  Led light: don't show color picker if no multicolor led available [2/2]  [davidevinavil]
+   * system/vold/
+6305b51  Revert "Add secdiscard command for secure deletion of files"  [Gaurav]
+
+====================
+     02-06-2018
+====================
+
+   * manifest/
+fc69882  Manifest for Android 8.1.0 Release 11  [The Android Open Source Project]
+2de6c9e  Manifest for Android 8.1.0 Release 10  [The Android Open Source Project]
