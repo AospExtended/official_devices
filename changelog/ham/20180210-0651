@@ -1,0 +1,9 @@
+# AospExtened-v-5.2 Changelog 2018-02-10 for ham (ZUK Z1) 
+
+* Fix audio issues where loudspeaker won't give o/p on apps like WhatsApp, Jio4GVoice, etc.
+* Fix OK Google Detection
+* Added Ambient Music Ticker
+* Added adjustable clock options
+* Added Face auto unlock toggle 
+* Added screen off animation
+* Use of Snap and replacing it with Camera2 
