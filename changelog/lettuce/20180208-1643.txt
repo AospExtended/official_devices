@@ -1,0 +1,8 @@
+- Merged Feb security patch
+- Custom carrier label
+- Screen off animations
+- Smartbar Double tap to sleep
+- Less notifications sound
+- Pulse: Automatic albumart base color
+- Toggle for face auto unlock
+- Kernel compiled with Linaro
