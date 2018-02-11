@@ -1,0 +1,11 @@
+AospExtended 11th Feb Update!
+
+* Version updated to 5.2
+* Android 8.1_r11
+* Merged Feb Security Patch
+* Updated All Apps
+* Added New Extensions for Status-bar Clock customisation, AEX logo and more 
+* DUI Smartbar updated - Double tap to sleep
+* Added Ambient Music Ticker
+* Translations updated
+* much more....
