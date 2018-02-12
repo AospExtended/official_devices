@@ -1,0 +1,12 @@
+---CHANGELOG---
+> AospExtended 5.2
+> Ambient Music Ticker added
+> Always on Ambient Display added
+> FootejCamera Package updated
+> Native Hardware Keys Remapping added
+> Audio Crackling reduced
+> Core Control removed
+> Cores are not locked anymore
+> Sdcardfs improved
+> Merged latest CAF Tags in kernel
+> Some more changes here and there...
