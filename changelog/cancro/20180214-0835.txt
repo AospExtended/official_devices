@@ -1,0 +1,79 @@
+Cancro: 
+- Fix proximity sensor
+- Fix random bluetooth & mac address
+- Switch to franco's thermal
+- Revert to old audio configuration
+
+====================
+     02-14-2018
+====================
+
+   * device/xiaomi/cancro/
+6af54b3  cancro: Enable some overlays  [Rizky Benggolo]
+   * kernel/xiaomi/cancro/
+ee1dd0b  compiler-gcc: integrate various compiler-gcc files  [Rizky Benggolo]
+871609d  defconfig: Switch to franco's thermal  [Rizky Benggolo]
+ab90d9c  ARM: configs: cancro: Enable F2FS support  [Rizky Benggolo]
+a530124  Revert "f2fs: Squash commits from f2fs-stable"  [Rizky Benggolo]
+6e28871  fs: f2fs: Fix build - redefinition  [Rizky Benggolo]
+
+====================
+     02-13-2018
+====================
+
+   * device/xiaomi/cancro/
+5232bee  cancro: Fix random bluetooth address  [Rizky Benggolo]
+3a9a49e  cancro: sepolicy: update  [Rizky Benggolo]
+51761ad  cancro: proprietary: Remove prebuilt wcnss_service  [Rizky Benggolo]
+8af9f4b  Revert "cancro: Move wcnss_service to vendor"  [Rizky Benggolo]
+f9a59a5  cancro: Regenerate HIDL manifest  [Rizky Benggolo]
+5c7864b  cancro: wifi: Split libwcnss_qmi  [Rizky Benggolo]
+a41a6a2  cancro: sensor: Fix proximity sensor  [Rizky Benggolo]
+   * frameworks/base/
+92fa7dc  Ambient music ticker improvements  [Shubham Singh]
+78809f4  Fix notification sound for some apps if Smart notification sound enabled  [Shubham Singh]
+4f5a0f9  Clock customization: more improvements  [Shubham Singh]
+280041a  Clock code performance improvements  [Shubham Singh]
+9d824c6  Status bar left/right clock customizations [1/2]  [Shubham Singh]
+12ac14d  Revert "fwb: Statusbar clock customizations (1/2)"  [Shubham Singh]
+3df527f  Revert "Make status bar ticker play nice with center clock"  [Shubham Singh]
+   * packages/apps/Extensions/
+46f84a4  Fix Clock date format listpreference  [Shubham Singh]
+40ff5b3  Status bar clock and date customizations [2/2]  [Shubham Singh]
+2d46fb9  Revert " ae: Statusbar clock customization (2/2)"  [Shubham Singh]
+   * packages/apps/Launcher3/
+5485599  Allow to hide or show date and weather  [Shubham Singh]
+3eb8106  Allow to hide the swipe up arrow indicator  [Shubham Singh]
+80fb7fa  Whitelist Google widgets  [Shubham Singh]
+
+====================
+     02-12-2018
+====================
+
+   * vendor/xiaomi/
+f21da92  cancro: Clean up unused bluetooth blobs  [GuaiYiHu]
+1bbae3f  cancro: Remove prebuilt wcnss_service  [GuaiYiHu]
+6c0ac86  cancro: Update vendor tree  [GuaiYiHu]
+
+====================
+     02-11-2018
+====================
+
+
+====================
+     02-10-2018
+====================
+
+   * device/qcom/sepolicy/
+45f7c22  Merge branch 'staging/lineage-15.1' of https://github.com/LineageOS/android_device_qcom_sepolicy into HEAD  [Shubham Singh]
+   * frameworks/base/
+94c1d63  dt2s: Add an overlay to control dt2s on lockscreen  [davidevinavil]
+   * kernel/xiaomi/cancro/
+638c2eb  defconfig: Disable zram  [Rizky Benggolo]
+1a27c23  msm8974: added input mediator  [Rizky Benggolo]
+49ba41f  msm8974: dts: cpufreq: added 268 MHz clockspeed  [Rizky Benggolo]
+   * packages/apps/Extensions/
+fdd4ec8  Merge "Color picker: allow to activate ongoing led light as color preview" into 8.1.x  [Gerrit Code Review]
+   * packages/apps/Updates/
+ac00ca2  Automatic translation import  [Shubham Singh]
+
