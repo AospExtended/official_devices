@@ -205,5 +205,14 @@
       "maintainer_name":"Shaik Jaleel (iamsj7)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
       "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-aospextended-rom-v5-2-t3749897"
-  }
+  },
+  {
+      "name":"Galaxy S6",
+      "brand":"Samsung",
+      "codename":"zerofltexx",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=244204",
+      "maintainer_name":"Vidhanth",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5514501",
+      "xda_thread":"https://forum.xda-developers.com/galaxy-s6/orig-development/rom-aospextended-rom-v5-1-t3741378"
+   }
 ]
