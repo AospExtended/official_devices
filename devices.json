@@ -778,13 +778,12 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"
   },
   {
-    "name": "Mi 6",
+    "name": "Redmi 5 Plus/Redmi Note 5",
     "brand": "Xiaomi",
-    "codename": "sagit",
+    "codename": "vince",
     "afh_folder": "https://www.androidfilehost.com/?w=files&flid=220435",
     "maintainer_name": "Isaac Chen (TingyiChen)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7500669",
-    "xda_thread": "https://forum.xda-developers.com/mi-6/development/rom-aospextended-rom-v4-6-t3682452"
   },
   {
     "name": "Xperia SP",
