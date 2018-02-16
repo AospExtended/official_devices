@@ -1,0 +1,7 @@
+Offline charger with battery percentage (work only with zui Oreo baseband)
+Increase audio bith depth and sample rate in videocamera
+Update TimeService blobs
+Increase recent max thumbnail to 60
+Address some sepolicy denials
+Enable interaction boost
+
