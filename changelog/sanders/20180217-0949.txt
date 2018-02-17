@@ -1,0 +1,6 @@
+*Upstreamed to .94.
+*Bring back Frequencies.
+*Fixed Camera Button.
+*MotoActions Improvements
+*Imported OSS HALs.
+*Source Improvements included.
