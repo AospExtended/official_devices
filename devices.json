@@ -18,6 +18,15 @@
       "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-aospextended-v5-0-t3688595"
    },
    {
+      "name":"A6000 & A6000 Plus",
+      "brand":"Lenovo",
+      "codename":"a6000",
+      "afh_folder":"https://androidfilehost.com/user/?w=settings-dev-files&flid=250540",
+      "maintainer_name":"Harshit Jain",
+      "maintainer_xda_profile":"https://forum.xda-developers.com/member.php?u=5835908",
+      "xda_thread":"-"
+   },
+   {
       "name":"Leeco Max2",
       "brand":"Leeco",
       "codename":"x2",
