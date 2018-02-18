@@ -1,0 +1,91 @@
+====================
+     02-18-2018
+====================
+-fixed Facelock FCs
+-Intail oreo sepolicy
+-and changes in tree.
+
+====================
+     02-17-2018
+====================
+
+   * build/make/
+d85d3f8  Switch to Pixel2XL 8.1 sounds [2/2]  [Shubham Singh]
+   * frameworks/base/
+d865f61  Lockscreen weather: move into keyguard_clock_container  [Shubham Singh]
+e8530c1  Lockscreen (=keyguard) weather: Use same colors as other elements  [Shubham Singh]
+79982ce  SystemUI: Keyguard weather (1/2)  [Shubham Singh]
+a34ecfe  base: SystemUI: check for installed OmniJaws in qs details  [Shubham Singh]
+16be367  base: SystemUI: filter service disabled broadcast for qs weather tile  [Shubham Singh]
+6f7df1c  FWB: Statusbar weather [1/2]  [Shubham Singh]
+998a4c3  Weather tile longclick: alternative weather apps when google weather not installed  [Shubham Singh]
+9e2f951  WeatherTile: Start Google Weather on LongClick  [Shubham Singh]
+ae0029e  base: SystemUI: no need for extra tint of qs weather tile  [Shubham Singh]
+6c42e18  base: SystemUI: add missing text tint in weather details  [Shubham Singh]
+89b7b29  base: SystemUI: weather: display wind direction as pinWheel and not degrees  [Shubham Singh]
+22e35c0  base: SystemUI: add tinting for OmniJaws provided QS images  [Shubham Singh]
+1ce519d  base: SystemUI: change disabled QS weather tile image  [Shubham Singh]
+ea83af2  base: SystemUI: OmniJaws qs tile integration  [Shubham Singh]
+20a2968  Enable NSRM (Network Socket Request Manager).  [Shubham Singh]
+7994507  Revert "Enable NSRM (Network Socket Request Manager)."  [Shubham Singh]
+8e266c4  Show infinity for large notification counts  [Shubham Singh]
+b9be1d6  Themes: build as apps  [Shubham Singh]
+1dd9c63  NfcTile: Avoid NPE during boot up phase  [Shubham Singh]
+2318a55  SystemUI: Add data saver icon to blacklist  [Shubham Singh]
+f8ba5a1  SystemUI: Add tile for enable/disable HW keys  [Shubham Singh]
+e97efb0  Configurable 0, 90, 180 and 270 degree rotation  [Shubham Singh]
+af1620e  Add back increasing ring feature (3/3)  [Shubham Singh]
+1584805  SystemUI: enable NFC tile  [Shubham Singh]
+2d86cd6  Keyguard: disable menu key on lockscreen  [Shubham Singh]
+4ca97c1  Keyguard: Forward port lockscreen quick unlock (1/2)  [Shubham Singh]
+1011432  Keyguard: Add option to scramble pin layout when unlocking (2/2)  [Shubham Singh]
+eeb95c8  Switch to Pixel2XL 8.1 sounds [1/2]  [Shubham Singh]
+5b0c6b6  Themes: SystemUI: expose screen pinning colors  [Shubham Singh]
+c67cbb9  Themes: Expose power save mode color  [Shubham Singh]
+63ee051  Themes: SystemUI: Expose QS background opacity  [Shubham Singh]
+95179c1  Themes: SystemUI: Expose QS edit item decoration background color  [Shubham Singh]
+c9957ee  Themes: Allow Permission Icons to be fully themed  [Shubham Singh]
+eb66ecd  Themes: Allow Immersive cling colors to be fully themed  [Shubham Singh]
+4738944  Themes: Expose resolver hardcoded colors  [Shubham Singh]
+2cc6e95  Themes: base: expose toast colors for themes  [Shubham Singh]
+d042d17  Themes: Expose Keyguard affordance circle background  [Shubham Singh]
+cef4a40  Themes: Allow volume slider and thumb to work with custom images.  [Shubham Singh]
+e962ab0  Themes: Expose Screenshot flash and background colors  [Shubham Singh]
+3910ace  Themes:  Expose Keyboard Shortcuts Dialog  [Shubham Singh]
+1768e12  Themes: graphics: ADB "N" icon compatible with OMS7  [Shubham Singh]
+2fdedd7  Themes: SystemUI: Expose switch bar title  [Shubham Singh]
+c24f911  Themes: Allow Navbar ripple color to be themed  [Shubham Singh]
+366af32  Themes: SystemUI: Use own drawables for QS expand icon  [Shubham Singh]
+ed2ba93  Locked tasks should have a valid view  [Shubham Singh]
+137b95f  base: touch to add tiles: remove listner checks  [Shubham Singh]
+   * packages/apps/Extensions/
+b08dbac  Extensions:Keyguard weather (2/2)  [Shubham Singh]
+71e759a  Extensions:Statusbar weather [2/2]  [Shubham Singh]
+36bf7c5  Extensions: add OmniJaws config  [Shubham Singh]
+   * packages/apps/Settings/
+0ed04a4  Configurable 0, 90, 180 and 270 degree rotation [2/2]  [Shubham Singh]
+19808e2  Add back increasing ring feature (2/3).  [Shubham Singh]
+f2bf341  Keyguard: Forward port lockscreen quick unlock (2/2)  [Shubham Singh]
+7f64dae  Add option to scramble pin layout when unlocking [2/2]  [Shubham Singh]
+   * packages/services/Telecomm/
+ace9348  Add back increasing ring feature (3/3).  [Shubham Singh]
+9ad85bf  Use double vibration on call hang-up  [Shubham Singh]
+   * vendor/aosp/
+42982b4   Add weather config  [Shubham Singh]
+d66ba87  Give overlays their own priority level  [Shubham Singh]
+
+====================
+     02-16-2018
+====================
+
+
+====================
+     02-15-2018
+====================
+
+
+====================
+     02-14-2018
+====================
+
+
