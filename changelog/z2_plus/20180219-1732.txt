@@ -1,0 +1,3 @@
+Offline charging works with all baseband (no more need to flash baseband)
+Configurable 0, 90, 180 and 270 degree rotation
+Added weather OmniJaws
