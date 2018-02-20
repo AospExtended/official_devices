@@ -223,5 +223,14 @@
       "maintainer_name":"Vidhanth",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5514501",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s6/orig-development/rom-aospextended-rom-v5-1-t3741378"
+   },
+   {
+      "name":"Leeco Le 2",
+      "brand":"LeEco",
+      "codename":"s2",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=250981",
+      "maintainer_name":"Sagar Makhar",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
+      "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v5-1-t3744470"
    }
 ]
