@@ -27,7 +27,7 @@
       "xda_thread":""
    },
    {
-      "name":"Leeco Max2",
+      "name":"Max2",
       "brand":"Leeco",
       "codename":"x2",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=232352",
@@ -225,8 +225,8 @@
       "xda_thread":"https://forum.xda-developers.com/galaxy-s6/orig-development/rom-aospextended-rom-v5-1-t3741378"
    },
    {
-      "name":"Leeco Le 2",
-      "brand":"LeEco",
+      "name":"Le 2",
+      "brand":"Leeco",
       "codename":"s2",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=250981",
       "maintainer_name":"Sagar Makhar",
