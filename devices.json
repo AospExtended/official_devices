@@ -241,5 +241,15 @@
       "maintainer_name":"Sagar Makhar",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
       "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v5-1-t3744470"
+   },
+   {
+      "name": "Moto G4/G4 Plus",
+      "brand": "Motorola",
+      "codename": "athene",
+      "afh_folder": "https://www.androidfilehost.com/?w=files&flid=252153",
+      "maintainer_name": "LuizH_007",
+      "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6918804",
+      "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v5-2-t3752061"
    }
 ]
+ 
