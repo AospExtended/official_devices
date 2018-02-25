@@ -1,0 +1,5 @@
+Different offline charging animation withouth percentage, but with home button wake up (I'm working on offline alarm) and charging animation
+Ability to remove search bar from stock launcher
+New battery style
+Maybe fixed battery percentage around 100% (give feedback)
+Update graphics stack
