@@ -1,0 +1,11 @@
+AospExtended 24th Feb Update!
+
+*Fire-Kernel r2.2 Merged (Thanks to @TheImpulson for his awesome kernel)
+*Fixed LED notification while charging
+*Fixed System Lag during Night Mode
+*Updated home button defaults
+*Added Battery Icon Style
+*Added Weather customisations
+*Added Ambient Display (Separately in Settings)
+*Translations updated
+*much more....
