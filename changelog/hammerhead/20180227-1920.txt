@@ -1,0 +1,3 @@
+- New Battery Style
+- Fix FC for Fling when unpinning an app
+- Fixed Volume issues
