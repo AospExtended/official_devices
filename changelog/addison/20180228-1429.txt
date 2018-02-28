@@ -1,0 +1,6 @@
+#AospExtended v5.2 Changelog
+-Merged with the lastest AEX sources
+-Mobile Data fixed
+-Camera Fixed
+-Switched to Older HAL sources
+-Fixed the brightness slider issue (Caused due to Enforced RRO)
