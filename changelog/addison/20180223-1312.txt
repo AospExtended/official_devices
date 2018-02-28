@@ -1,0 +1,7 @@
+#AospExtended v5.2 Changelog
+-Merged with latest AEX sources
+-Shifted to Official from BETA
+-February Security Patch
+-Wifi bug fixed
+-Fingerprint fixed
+-Camera Fixed
