@@ -1,0 +1,6 @@
+Fixed VoLTE
+Kernel updated to .96
+Kernel built with clang
+Enabled Dexpreopt
+Snap Camera added
+More optimisations
