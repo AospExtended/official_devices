@@ -152,6 +152,15 @@
         "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-3/development/rom-aospextended-rom-v4-5-t3658884"
     },
     {
+        "name": "Mi 5s Plus",
+        "brand": "Xiaomi",
+        "codename": "natrium",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=253415",
+        "maintainer_name": "Henrique Pereira (Hlcpereira)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
+        "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/8-1-0r11-rom-aospextended-v5-2-2018-02-t3746579"
+    },
+    {
         "name": "Z1",
         "brand": "ZUK",
         "codename": "ham",
