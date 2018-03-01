@@ -260,12 +260,12 @@
         "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v5-2-t3752061"
     },
     {
-        "name": "Android One 2rd (Seed)",
+        "name": "Android One 2nd (Seed)",
         "brand": "Google",
         "codename": "seed",
         "afh_folder": "https://androidfilehost.com/?w=files&flid=253373",
         "maintainer_name": "Berkehan Kenan SEKBAN (Quicksilver)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7466529",
-        "xda_thread": "#" 
+        "xda_thread": "" 
     }
 ]        
