@@ -759,6 +759,15 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6868004",
     "xda_thread": "https://forum.xda-developers.com/crossdevice-dev/android-one-crossdevice-development-original-android-development/rom-title-aospextended-rom-v4-4-t3652000"   
   },
+{
+    "name": "Mi A1",
+    "brand": "Xiaomi",
+    "codename": "tissot",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=253513",
+    "maintainer_name": "Prajapati PRAViN (Harvey_Spectar)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7722532",
+    "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v4-6-t3757436"
+  },
   {
     "name": "Redmi 3S/Prime/3X",
     "brand": "Xiaomi",
