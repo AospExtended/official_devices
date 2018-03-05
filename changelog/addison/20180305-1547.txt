@@ -1,0 +1,4 @@
+#AospExtended v5.2 Changelog
+-Merged with latest AEX sources
+-Fixed 'not booting' issue
+-Used msm8996 hals
