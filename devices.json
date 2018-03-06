@@ -200,10 +200,19 @@
         "name": "OnePlus 3/3T",
         "brand": "OnePlus",
         "codename": "oneplus3",
-        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=245743",
-        "maintainer_name": "Prasoon Mehra (phantom-1402)",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5947980",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=254941",
+        "maintainer_name": "Akash (markakash)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5970333",
         "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-aospextended-rom-v3-1-t3557363"
+    },
+    {
+        "name": "OnePlus 2",
+        "brand": "OnePlus",
+        "codename": "oneplus2",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=254939",
+        "maintainer_name": "Jagrav Naik",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5912585",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-title-aospextended-rom-v3-1-t3547713"
     },
     {
         "name": "Yureka",
