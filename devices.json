@@ -287,7 +287,9 @@
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7045959",
        "xda_thread": "https://forum.xda-developers.com/g4/development/rom-aospextended-rom-v4-6-t3753300"
     }
-    "name": "Redmi 3S",
+    
+    {
+       "name": "Redmi 3S",
        "brand": "Xiaomi",
        "codename": "Land",
        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=218198",
