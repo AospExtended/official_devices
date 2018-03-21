@@ -1,0 +1,6 @@
+AospExtended-5.3 20180318 Changelog :
+
+- GPS Fix (Switched to OSS HAL).
+- ‎Added Vibration for Double Tap to Wake event.
+- Added ElementalX, ZZmove, Alucard Governors and Alucard, Asm Hotplugs.
+- Some minor fixes.

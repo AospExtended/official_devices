@@ -1,0 +1,6 @@
+-Fixed GPS
+-UNIFIED all S6 and S6 Edge variants (except Sprint) 
+-Dual Sim completely working
+-Fixed Advanced Restart
+-Snap Cam updates
+-Device tree updates

@@ -1,0 +1,212 @@
+====================
+     03-15-2018
+====================
+
+   * packages/apps/Settings/
+48c9d94  Automatic translation import  [Shubham Singh]
+   * packages/apps/Updates/
+39bdc33  Automatic translation import  [Shubham Singh]
+
+====================
+     03-14-2018
+====================
+
+   * device/xiaomi/cancro/
+c52d690  Camera2: Remove obsoleted files  [Rizky Benggolo]
+eb468ed  BoardConfig: Adapt to redkancut kernel  [Rizky Benggolo]
+f0431dc  cancro: change i/o scheduler configuration  [Rizky Benggolo]
+7c072d5  cancro: Enable more overlays  [Rizky Benggolo]
+56ef8ef  init: adjust value  [Rizky Benggolo]
+3118a40  cancro: add some overlays  [Rizky Benggolo]
+d3d1185  cancro: some value tuning  [Rizky Benggolo]
+57fedeb  adjust for LTE only addition  [Rizky Benggolo]
+2ae9fee  fix enabled_networks_values / enabled_networks_except_gsm_values  [Rizky Benggolo]
+6eff1c1  cancro: Use Camera2  [Rizky Benggolo]
+3d960b8  overlay: Deactivate some unused lines  [Rizky Benggolo]
+99b9fbf  Enable ledCanPulse  [Rizky Benggolo]
+2ea8790  Enable Battery and Notification LED customization  [Rizky Benggolo]
+1bf8a79  cancro: add button brightness support overlay  [Rizky Benggolo]
+4f61955  cancro: Enable HW keys support  [Rizky Benggolo]
+7045434  overlays: Also set useRoundIcon to true  [Rizky Benggolo]
+e941784  cancro: config: Use round icon mask  [Rizky Benggolo]
+bad169d  overlay: Enable Proximity check on wake  [Rizky Benggolo]
+224324b  rootdir: Tuning little bit  [Rizky Benggolo]
+8a307c7  AospExtended bringup  [Rizky Benggolo]
+   * kernel/xiaomi/cancro/
+6dcf734  HID: usbhid: fix out-of-bounds bug  [Rizky Benggolo]
+9ad489c  USB: core: fix out-of-bounds access bug in usb_get_bos_descriptor()  [Rizky Benggolo]
+5ed04e9  USB: serial: console: fix use-after-free after failed setup  [Rizky Benggolo]
+3b5c8eb  ANDROID: usb: gadget: f_mtp: Return error if count is negative  [Rizky Benggolo]
+95cb853  msm: camera: Return -NOTTY on invalid ioctl command.  [Rizky Benggolo]
+3dffab0  diag: dci: Add protection while querying event status  [Rizky Benggolo]
+8a7a2d5  Revert "usb: gadget: Enable HID function for charging mode"  [Rizky Benggolo]
+01fdfab  usb: gadget: FunctionFS and SuperSpeed updates  [Rizky Benggolo]
+bd31f92  USB: android: Fix a NULL pointer dereference  [Rizky Benggolo]
+0c726c9  usb: dwc3: Do not call WARN_ON_ONCE from interrupt context  [Rizky Benggolo]
+a3109e1  f_fs: ffs_func_free: cleanup requests allocated by autoconfig  [Rizky Benggolo]
+1e13679  usb: gadget: f_fs: Fix enumeration in fullspeed mode  [Rizky Benggolo]
+6821f863  usb: gadget: android: Add FunctionFS  [Rizky Benggolo]
+7279bf7  usb: gadget: u_serial: fix typo which cause build warning  [Rizky Benggolo]
+a082019  usb: gadget: add multiple definition guards  [Rizky Benggolo]
+   * vendor/xiaomi/
+35e0ff9  cancro: Move all to vendor  [ShivamKumarJha]
+
+====================
+     03-13-2018
+====================
+
+   * device/xiaomi/cancro/
+8c15090  Revert "cancro: Add Android Go configs"  [ShivamKumarJha]
+20e4936  fix build  [DrRamm]
+e3ec169  cancro: camera: Upgrade library dependencies for AOSP 8.0.0  [DrRamm]
+b0bfb70   Add a typecast to allow comparing a signed and unsigned int  [DrRamm]
+17b55ae  camera: mm-camera-interface: Also retry in EINVAL  [DrRamm]
+6689638  camera: add morpho HDR  [DrRamm]
+967f6f3  BACKPORT: QCamera2: Adding missed media extenisons changes  [DrRamm]
+e7d5774  BACKPORT: QCamera2: Changes to release video duped FD's.  [DrRamm]
+6e7b162  QCamera2: Cap preview frame rate to 30 FPS  [DrRamm]
+d8823d1  QCamera2: Enable histogram support  [DrRamm]
+65c925f  QCamera2: Set JPEG quality to 95%  [DrRamm]
+b00dc40  QCamera2: Fix remaining oversharpening  [DrRamm]
+d93d936  QCamera2: Remove auto-focus zone options for front camera  [DrRamm]
+bd44c84  QCamera2: Force sharpness to level 1  [DrRamm]
+6860276  QCamera2: Remove ISO HJR user setting  [DrRamm]
+1437d27  QCamera2: Fix division by 0 in mm_jpeg_exif  [DrRamm]
+8084e0f  QCamera2: Increase manual focus range  [DrRamm]
+cf3c85c  QCamera2: Disable JPEG compression  [DrRamm]
+a868cff  QCamera2: Enable ZSL, denoise, and disable debug  [DrRamm]
+3d9ae29  QCamera2: Attempt to open camera again if first try fails  [DrRamm]
+
+====================
+     03-12-2018
+====================
+
+   * device/xiaomi/cancro/
+0d0259a  cancro: camera: Move everything to vendor  [DrRamm]
+a018438  cancro: camera: Remove legacy hal1 support  [DrRamm]
+3704000  cancro: propietary: Clean up prebuilt camera blobs  [DrRamm]
+5ceda95  cancro: Camera: fix HAL1 callback cookie  [DrRamm]
+69a8d3a  BACKPORT: QCamera2: Don't close duped native handles.  [DrRamm]
+f0f7469  BACKPORT: QCamera2: HAL1: Flush pending video frames during stopRecording.  [DrRamm]
+f03402c  BACKPORT: QCamera2: HAL1: Close duplicated FD's for media extension.  [DrRamm]
+c89c14c  BACKPORT: QCamera2: HAL1: Update native handle for every timestamp callback  [DrRamm]
+3984476  cancro: camera: Changes for cancro/virgo camera HAL  [DrRamm]
+10b96fd  cancro: camera: Fix build on oreo  [DrRamm]
+5989dba  cancro: CameraWrapper: Include nativebase headers  [DrRamm]
+8ce967e  cancro: camera: Fixes to OSS camera hal to build in LineageOS tree  [DrRamm]
+e60a944  cancro: Import OSS camera hal from LA.BF.1.1.3_rb1.15  [DrRamm]
+15d65f7  cancro: Drop camera wrapper  [DrRamm]
+afcfbbd  cancro: reset audio  [ShivamKumarJha]
+e235f67  cancro: rootdir: Always start hvdcp service  [ShivamKumarJha]
+   * frameworks/base/
+55865d9  Automatic translation import  [Shubham Singh]
+   * packages/apps/Extensions/
+46cd1f5  Automatic translation import  [Shubham Singh]
+   * packages/apps/FMRadio/
+4b34aa8  Automatic translation import  [Shubham Singh]
+   * packages/apps/Messaging/
+cd04451  Automatic translation import  [Shubham Singh]
+   * packages/apps/PackageInstaller/
+e752525  Automatic translation import  [Shubham Singh]
+   * packages/providers/DownloadProvider/
+6d394f4  Automatic translation import  [Shubham Singh]
+   * vendor/xiaomi/
+3978a8c  cancro: Clean up prebuilt camera blobs  [DrRamm]
+
+====================
+     03-11-2018
+====================
+
+   * build/make/
+7c06035  pathmap: Move RIL path mapping to core/config.mk  [Shubham Singh]
+550bb46  config: use AOSP RIL for non-aosp builds  [Shubham Singh]
+f5db9a1  build: unconditionally use pathmap  [Shubham Singh]
+   * device/aosp/sepolicy/
+f1ec832  common: Label sdfat as vfat  [Shubham Singh]
+d3fd04b  sepolicy: Cleanup context labelling for external sdcards  [Shubham Singh]
+23d0ac8  sepolicy: qcom: Fixing camera app not launching  [Shubham Singh]
+dffff9f  sepolicy: suppress denial logspam  [Shubham Singh]
+   * device/xiaomi/cancro/
+7bb97df  cancro: Remove secdiscard command  [ShivamKumarJha]
+a63cf9a  cancro: Move prebuilt binaries to vendor  [ShivamKumarJha]
+6fddf25  cancro: Move wcnss_service to vendor  [ShivamKumarJha]
+1ec6743  cancro: Clean up unused init scripts  [ShivamKumarJha]
+ccad7c7  cancro: Move misc configs to configs  [ShivamKumarJha]
+9abf327  cancro: rootdir: Clean up nfc nodes  [ShivamKumarJha]
+48d3b0b  cancro: rootdir: Clean up unused services  [ShivamKumarJha]
+7ee6cf4  cancro: Add Android Go configs  [ShivamKumarJha]
+40ab6ad  cancro: Rework bdaddr  [ShivamKumarJha]
+f5401f4  cancro: Update mixer_paths.xml from stock  [ShivamKumarJha]
+e926b45  cancro: Move XTRA_SERVER entries to overlays  [ShivamKumarJha]
+d63b694  cancro: kernel exfat flag  [ShivamKumarJha]
+b911927  cancro: move changepowermode.sh to vendor  [ShivamKumarJha]
+e4cea78  cancro: move listen_platform_info.xml to vendor  [ShivamKumarJha]
+b813a69  cancro: Remove wificond from device makefiles  [ShivamKumarJha]
+6ed4a00  cancro: Move fstab to /vendor  [ShivamKumarJha]
+8885c7e  cancro: Move hardware specific .rc files to /vendor/etc/init/hw  [ShivamKumarJha]
+d1e70cd  cancro: Nuke BOARD_USES_QC_TIME_SERVICES flag  [ShivamKumarJha]
+e5f051e  cancro: Move input device config and keylayout files to vendor  [ShivamKumarJha]
+45a92bd  cancro: Move media configs to vendor  [ShivamKumarJha]
+86fdabc  cancro: Move sec_config to vendor  [ShivamKumarJha]
+9253268  cancro: Get rid of recovery-only fstab  [ShivamKumarJha]
+d689a32  cancro: Move permissions to vendor  [ShivamKumarJha]
+057af79  media: Give /dev/msm_vidc_* camera group and video_device label  [ShivamKumarJha]
+e59c0a8  cancro: Move ueventd.qcom.rc to /vendor  [ShivamKumarJha]
+72312eb  cancro: media: Create media_profiles_V1_0.xml  [ShivamKumarJha]
+1a90f88  cancro: rootdir: Always enable USB fast charge  [ShivamKumarJha]
+21870bd  cancro: Use binderized power hal for mi4  [ShivamKumarJha]
+7f20a3a  cancro: power: Update power hal extension for new qti hal  [ShivamKumarJha]
+4e38806  cancro: Use QTI HIDL power HAL  [ShivamKumarJha]
+1bf3170  cancro: Add Lineage power hal to manifest  [ShivamKumarJha]
+04be1e5  cancro: switch to chargeonlymode  [ShivamKumarJha]
+9fc437c  cancro: libshim: Shim libFaceProc.so  [ShivamKumarJha]
+7299ff2  cancro: fix mm-pp-daemon  [ShivamKumarJha]
+5c74ecf  cancro: Compress boot and recovery ram image  [ShivamKumarJha]
+1657d89  cancro: Adapt to new shim BOARD flag  [ShivamKumarJha]
+e357996  cancro: sepolicy: update file_contexts  [ShivamKumarJha]
+f8e2d28  sepolicy: Allow Bluetooth to read firmware files  [ShivamKumarJha]
+62dede8  wifi: Use hardware feature definition to indicate Passpoint support  [ShivamKumarJha]
+08116ae  rootdir: writepid background for rmt_storage  [ShivamKumarJha]
+d870a45  init: Mark rmt_storage as shutdown critical  [ShivamKumarJha]
+70acaa4  cancro: Fix random bluetooth address  [ShivamKumarJha]
+0c8ab71  cancro: proprietary: Remove prebuilt wcnss_service  [ShivamKumarJha]
+62bb0bd  Revert "cancro: Move wcnss_service to vendor"  [ShivamKumarJha]
+eee2092  cancro: wifi: Split libwcnss_qmi  [ShivamKumarJha]
+eee05c2  cancro: Nfc update  [ShivamKumarJha]
+91aaf9c  cancro: fstab: notrim persist  [ShivamKumarJha]
+9b06d39  cancro: sepolicy: update  [ShivamKumarJha]
+8325677  cancro: sensor: Fix "Proximity sensor doesn't work".  [ShivamKumarJha]
+7f37c03  cancro: update sepolicy  [ShivamKumarJha]
+f61064c  cancro: releasetools: fix device_check.sh not executing * Remove conditional checks & warning for unsupported device * Update RAW_ID path  [ShivamKumarJha]
+65452b8  cancro: camera: hardcode some stuff  [ShivamKumarJha]
+9e6eb59  cancro: TWRP support  [ShivamKumarJha]
+5c8ecbf  cancro: Kang overlay from xiaomi-dev  [ShivamKumarJha]
+8cfbbc3  cancro: update seclabels  [ShivamKumarJha]
+d5af66a  cancro: sepolicy: initial bring up  [ShivamKumarJha]
+   * hardware/qcom/display/
+466c608  msm8974: Move QCOM HALs to vendor partition  [razorloves]
+35a7b6a  hwc: msm8084: Set ioprio for vsync thread  [razorloves]
+fe84e7d  display: Don't use gnu-oldstyle field designators  [razorloves]
+a7b6e48  msm8084: include  kernel headers  [razorloves]
+45f6cfe  msm8960: copybit: Fix type conversion error for GCC 4.7  [razorloves]
+96f36a5  display: add TARGET_PROVIDES_LIBLIGHT  [razorloves]
+   * system/core/
+30579ca  Lockscreencharging: Drop condition  [Shubham Singh]
+   * system/extras/
+25c4ad0  extras: remove su  [Shubham Singh]
+   * system/sepolicy/
+ad0cf35  sepolicy: Allow recovery to write to rootfs  [Shubham Singh]
+5b7becf  Revert "sepolicy: Fix up exfat and ntfs support"  [Shubham Singh]
+0a510b0  Revert "sepolicy: Add missing exfat and fuseblk types"  [Shubham Singh]
+e5567d2  add sload_f2fs permission  [Shubham Singh]
+210ca61  make_f2fs: grant rw to vold  [Shubham Singh]
+86a55c9  Allow e2fs to format cache  [Shubham Singh]
+80aabc8  Allow e2fs to rw devpts  [Shubham Singh]
+   * vendor/aosp/
+d1c891f  Is this...? yes  [Shubham Singh]
+7cf2a76  kernel: fix ccache variable sanitation for clang builds  [Shubham Singh]
+c838d6d  qcom_target: Move RIL path mapping to core/config.mk  [Shubham Singh]
+c37f006  pathmap: remove duplicate include-path-for  [Shubham Singh]
+   * vendor/xiaomi/
+e909a64  cancro: nuke shutdownlistener Was giving FC during restart & works fine without it  [ShivamKumarJha]
+5706054  cancro: move some stuff to vendor  [ShivamKumarJha]
