@@ -153,6 +153,15 @@
         "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-3/development/rom-aospextended-rom-v4-5-t3658884"
     },
     {
+        "name": "Mi A1",
+        "brand": "Xiaomi",
+        "codename": "tissot",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=258770",
+        "maintainer_name": "Prajapati PRAViN (Harvey_Spectar), ishubhamsingh",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7722532",
+        "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v4-6-t3757436"
+    },
+    {
         "name": "Mi 5s Plus",
         "brand": "Xiaomi",
         "codename": "natrium",
