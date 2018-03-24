@@ -1,0 +1,11 @@
+Changelogs for 24th March Update
+
+*Fixed Video Recording on default camera (Thanks to @TheImpulson )
+*Shipped with default kernel ( Revert from Fire-Kernel)
+*Enabled Round App Icons
+*Updated Aexpapers
+*Added Animations customisations
+*Fixed some Theme glitches
+*Merged various other patches
+*Some Minor fixes
+*Imported translations from crowdin
