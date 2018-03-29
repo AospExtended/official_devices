@@ -1,0 +1,129 @@
+====================
+     03-29-2018
+====================
+
+   * device/xiaomi/cancro/
+dd63aa4  cancro: Strip out unused overlays  [Rizky Benggolo]
+fd9fb00  rootdir: Enable fast charge from default  [Rizky Benggolo]
+   * hardware/qcom/wlan-caf/
+1321254  Merge tag 'LA.UM.6.4.r1-07600-8x98.0' into lineage-15.1-caf  [Bruno Martins]
+   * kernel/xiaomi/cancro/
+dbcb10d  wcnss: Fix mismatch between format and argument in pr_err()  [Rizky Benggolo]
+e2909ae  msm: mdss: fix race condition in mdp debugfs  [Rizky Benggolo]
+7dd940d  mqueue: fix a use-after-free in sys_mq_notify()  [Rizky Benggolo]
+f647d8e  pids: make task_tgid_nr_ns() safe  [Rizky Benggolo]
+abe4ee0  Sanitize 'move_pages()' permission checks  [Rizky Benggolo]
+a8bb2f9  tcp: initialize rcv_mss to TCP_MIN_MSS instead of 0  [Rizky Benggolo]
+49f4277  KEYS: prevent KEYCTL_READ on negative key  [Rizky Benggolo]
+5d7ca42  KEYS: fix dereferencing NULL payload with nonzero length  [Rizky Benggolo]
+fddc69c  packet: fix tp_reserve race in packet_set_ring  [Rizky Benggolo]
+d689934  packet: hold bind lock when rebinding to fanout hook  [Rizky Benggolo]
+fa3d931  diag: Add mutex protection while reading dci debug statistics  [Rizky Benggolo]
+af74f06  msm: vidc: WARN_ON() reveals fuction addresses  [Rizky Benggolo]
+fc4bd5b  Revert "Revert "vibrator: vibe strength control""  [Rizky Benggolo]
+20053da  Revert "drivers: tspdrv: Create sysfs interface for vibration intensity"  [Rizky Benggolo]
+ada3af7  BACKPORT: crypto: msm: Fix buffer overflow issue  [Rizky Benggolo]
+
+====================
+     03-28-2018
+====================
+
+   * device/qcom/common/
+8dbb469  Remove dtbtool  [Michael Bestas]
+   * hardware/qcom/gps/
+9846829  msm8084: Handle race condition in HAL post SSR  [Nolen Johnson]
+ce8f4a3  msm8084: Memory management fixes  [Nolen Johnson]
+2808a93  msm8084: Add new event mask for timezone  [Nolen Johnson]
+38395e9  msm8084: Remove reporting gps status from loc eng layer  [Nolen Johnson]
+10d1698  msm8084: Remove Redundant Log  [Nolen Johnson]
+2552d38  msm8084: LocTimer repeated expiration  [Nolen Johnson]
+26e1031  msm8084: MsgTask thread must call associator function always  [Nolen Johnson]
+4d26814  msm8084: Adding a number of utilities  [Nolen Johnson]
+de3415d  msm8084: gps.conf parameters are in sap.conf table  [Nolen Johnson]
+081c255  msm8084: Adding Mutex for Creating Context  [Nolen Johnson]
+71adb97  msm8084: Removed unused code and unnecessary notice files  [Nolen Johnson]
+23be84f  msm8084: Avoiding race conditions during the pallellized builds in Android system  [Nolen Johnson]
+   * manifest/
+4372d9f  aex: Track dtbtools from lineage  [sb6596]
+
+====================
+     03-27-2018
+====================
+
+
+====================
+     03-26-2018
+====================
+
+   * device/qcom/common/
+6ec9f73  Revert "Rules to enable LTO for Adreno GFX driver."  [Michael Bestas]
+   * device/xiaomi/cancro/
+27223b4  cancro: system.prop: Reset audio changes  [Rizky Benggolo]
+b0e925d  QCamera2: Use standard syntax to initialize fields.  [Rizky Benggolo]
+f498f46  QCamera2: HDR: Change frames exposures  [Rizky Benggolo]
+45a2210  QCamera2: Fix compile because of Antibanding  [Rizky Benggolo]
+583e63d  QCamera2: Properly inject modified camera capabilities  [Rizky Benggolo]
+fc4b312  QCamera2: Add linked list for API results  [Rizky Benggolo]
+3ad8443  QCamera2: Don't set picture size to video size  [Rizky Benggolo]
+dd49cb2  QCamera2: Work around passive autofocus stalls  [Rizky Benggolo]
+cf2e43b  QCamera2: Simplify preview/picture size hack for video recording  [Rizky Benggolo]
+0eb687a  QCamera2: Fix several memory leaks when hacking camera parameters  [Rizky Benggolo]
+c0cbd9c  QCamera2: Fix compile error  [Rizky Benggolo]
+0828b27  QCamera2: Use macro to calculate array sizes  [Rizky Benggolo]
+0ce02b6  QCamera2: Silently force BAYER_QCOM_RAW_10BPP_RGGB for raw snapshots  [Rizky Benggolo]
+1fa6a54  QCamera2: Properly hide nv12-venus from userspace  [Rizky Benggolo]
+0746331  QCamera2: Re-order HDR exposure sequence  [Rizky Benggolo]
+7a4e66c  QCamera2: Properly inject modified camera capabilities  [Rizky Benggolo]
+ebe386f  QCamera2: Enable Tintless by default  [Rizky Benggolo]
+db8197c  QCamera2: Add CTS fixes from CM  [Rizky Benggolo]
+6cafefa  QCamera2: Hard-code default video and preview sizes  [Rizky Benggolo]
+f17d39a  QCamera2: Set sane default video sizes  [Rizky Benggolo]
+e7fb03c  QCamera2: Force larger preview size (640x480) for WeChat  [Rizky Benggolo]
+9b8eca6  QCamera2: Set sane default preview sizes  [Rizky Benggolo]
+4c18d8f  QCamera2: Remove small preview sizes not present in CM HAL  [Rizky Benggolo]
+fde9f33  QCamera2: Remove all resolutions smaller than QVGA  [Rizky Benggolo]
+592de6e  QCamera2: Always keep antibanding enabled  [Rizky Benggolo]
+73938a1  QCamera2: Compilation fix for AOSP upgrade  [Rizky Benggolo]
+f3f6da6  QCamera2: Inject modifications before allocating m_pCapability  [Rizky Benggolo]
+c5999a4  QCamera2: Set preview size to 1080p for torch usecase  [Rizky Benggolo]
+da36dcd  QCamera2: Make sure 4k resolutions are always enabled  [Rizky Benggolo]
+56d8551  QCamera2: Add missing preview sizes for back camera  [Rizky Benggolo]
+19bd818  QCamera2: Set preview size to 320x240 for torch mode  [Rizky Benggolo]
+bdf3a56  QCamera2: Disable video HDR for 4k DCI  [Rizky Benggolo]
+7df6178  QCamera2: Adjust preview size tables for both cameras  [Rizky Benggolo]
+978e5b8  QCamera2: Fix slow-shutter feature with CameraNext app  [Rizky Benggolo]
+34bdea8  QCamera2: Add 1440p video support for both front and back cameras  [Rizky Benggolo]
+046843b  QCamera2: Set picture size to the video size  [Rizky Benggolo]
+6ea99e5  QCamera2: Set preview format to yuv420sp for high-framerate recordings  [Rizky Benggolo]
+ffd78c9  QCamera2: Use nv12-venus for 720p+ and always set preview size  [Rizky Benggolo]
+67ff893  QCamera2: Only add HFR @ 90 FPS, and only up to 720p  [Rizky Benggolo]
+db4bb30  QCamera2: Remove 864x480 video resolution  [Rizky Benggolo]
+e257b67  QCamera2: Add support for HFR 1080p @ 120FPS and HFR 90FPS  [Rizky Benggolo]
+ddf4b56  QCamera2: Inject modified video size table for front cam  [Rizky Benggolo]
+7480232  QCamera2: Inject modified livesnapshot-size table  [Rizky Benggolo]
+50a79f5  QCamera2: Fix all 4K-related issues  [Rizky Benggolo]
+3435122  QCamera2: Add support for 4K UHD/DCI recording  [Rizky Benggolo]
+ae00b7c  QCamera2: Inject modified picture size table for back cam  [Rizky Benggolo]
+f781cad  QCamera2: HAL: Move /data/* folder to /data/misc/camera  [Rizky Benggolo]
+01459b8  QCamera2: Remove msm8610 specific code  [Rizky Benggolo]
+c20e6e6  QCamera2: Drop usage of USE_JB_MR1  [Rizky Benggolo]
+4269fb9  QCamera2: Drop usage of USE_KK_CODE  [Rizky Benggolo]
+e916a73  camera: Use direct    * pathmap  [Rizky Benggolo]
+45a5a1c  camera: Remove executable bit from source files  [Rizky Benggolo]
+65f8ec0  camera: Remove tests  [Rizky Benggolo]
+16542d8  QCamera2: Drop usage of TARGET_USE_VENDOR_CAMERA_EXT  [Rizky Benggolo]
+09472ae  camera: harcode focus distances  [Rizky Benggolo]
+e11486f  cancro: Replace LOCAL_PATH with DEVICE_PATH in board config  [Rizky Benggolo]
+   * manifest/
+8b429c9  Track our hardware/interfaces  [Shubham Singh]
+   * system/nfc/
+81b278f  bcm2079x: Hardcode nci_ctrl_size to the Nougat value  [Arne Coucheron]
+
+====================
+     03-25-2018
+====================
+
+   * frameworks/base/
+9bbbfe6  Camera: Expose Aux camera to apps present in the whitelist  [Shubham Singh]
+   * packages/apps/Updates/
+516f11d  Prevent auto flashing on tissot  [Shubham Singh]
