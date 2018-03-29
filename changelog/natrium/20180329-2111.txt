@@ -1,0 +1,5 @@
+AospExtended ROM:
+- Fixed Multitouch bug
+
+Device Specific:
+- Lastest LOS Kernel Patches
