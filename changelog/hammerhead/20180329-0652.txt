@@ -40,3 +40,5 @@ Hammerhead specific changes :-
 
 - Fixed Less Volume issues
 - Various other bugs fixed
+- Fixed RIL Issues
+- Fixed ADB issues
