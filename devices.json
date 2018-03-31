@@ -324,6 +324,15 @@
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7262925",
        "xda_thread": "https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
 	   
+    },
+	{
+        "name": "Moto E",
+        "brand": "Motorola",
+        "codename": "condor",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=261061",
+        "maintainer_name": "Sushant Kumar",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7554460",
+        "xda_thread": "https://forum.xda-developers.com/moto-e/development/rom-aospextended-rom-v5-3-t3765938"
     }
 ]
 
