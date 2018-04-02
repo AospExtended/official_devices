@@ -342,6 +342,24 @@
         "maintainer_name": "Sushant Kumar",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7554460",
         "xda_thread": "https://forum.xda-developers.com/moto-e/development/rom-aospextended-rom-v5-3-t3765938"
+    },
+    {
+       "name": "Galaxy S7",
+       "brand": "Samsung",
+       "codename": "herolte",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=256061",
+       "maintainer_name": "schwabe93",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=4873016",
+       "xda_thread": ""
+    },
+    {
+       "name": "Galaxy S7 EDGE",
+       "brand": "Samsung",
+       "codename": "hero2lte",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=256063",
+       "maintainer_name": "schwabe93",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=4873016",
+       "xda_thread": ""
     }
 ]
 
