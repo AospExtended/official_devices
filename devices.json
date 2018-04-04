@@ -171,6 +171,15 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v4-6-t3757436"
     },
     {
+        "name": "Mi 5s",
+        "brand": "Xiaomi",
+        "codename": "capricorn",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=261820",
+        "maintainer_name": "Henrique Pereira (Hlcpereira)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
+        "xda_thread": "#"
+    },
+    {
         "name": "Mi 5s Plus",
         "brand": "Xiaomi",
         "codename": "natrium",
