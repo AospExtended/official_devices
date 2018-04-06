@@ -35,8 +35,8 @@ AospExtended v5.3 Changelog
 - Imported translations from crowdin
 
 ===========================
-Hammerhead specific changes :-
+Harpia specific changes :-
 ===========================
-
-- Fixed Less Volume issues
-- Various other bugs fixed
+- Added various kernel side optimizations (Check commit history for details)
+- Switched to 64-bit binder
+- Headphones bug fixed

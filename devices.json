@@ -108,6 +108,15 @@
         "xda_thread": "https://forum.xda-developers.com/moto-g/4g-development/rom-aospextended-rom-v5-0-t3693390"
     },
     {
+        "name": "Moto Z",
+        "brand": "Motorola",
+        "codename": "griffin",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=245197",
+        "maintainer_name": "Jakov Gudec (The Marionette)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=4150512",
+        "xda_thread": "https://forum.xda-developers.com/moto-z/development/rom-aospextended-v5-1-t3742683"
+    },
+    {
         "name": "Moto Z Play",
         "brand": "Motorola",
         "codename": "addison",
@@ -151,6 +160,24 @@
         "maintainer_name": "Rizky Benggolo",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=6331651",
         "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-3/development/rom-aospextended-rom-v4-5-t3658884"
+    },
+    {
+        "name": "Mi A1",
+        "brand": "Xiaomi",
+        "codename": "tissot",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=258770",
+        "maintainer_name": "Prajapati PRAViN (Harvey_Spectar), ishubhamsingh",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7722532",
+        "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v4-6-t3757436"
+    },
+    {
+        "name": "Mi 5s",
+        "brand": "Xiaomi",
+        "codename": "capricorn",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=261820",
+        "maintainer_name": "Henrique Pereira (Hlcpereira)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
+        "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-aospextended-v5-x-t3773328"
     },
     {
         "name": "Mi 5s Plus",
@@ -304,5 +331,53 @@
        "maintainer_name": "Isaac Chen (Tingyi Chen)",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7500669",
        "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"
+	   
+    },
+	{
+       "name": "MI 5X",
+       "brand": "Xiaomi",
+       "codename": "tiffany",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=260214",
+       "maintainer_name": "Mika-Pikazo (秋夜莹)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7262925",
+       "xda_thread": "https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
+	   
+    },
+	{
+        "name": "Moto E",
+        "brand": "Motorola",
+        "codename": "condor",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=261061",
+        "maintainer_name": "Sushant Kumar",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7554460",
+        "xda_thread": "https://forum.xda-developers.com/moto-e/development/rom-aospextended-rom-v5-3-t3765938"
+    },
+    {
+       "name": "Galaxy S7",
+       "brand": "Samsung",
+       "codename": "herolte",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=256061",
+       "maintainer_name": "schwabe93",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=4873016",
+       "xda_thread": ""
+    },
+    {
+       "name": "Galaxy S7 EDGE",
+       "brand": "Samsung",
+       "codename": "hero2lte",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=256063",
+       "maintainer_name": "schwabe93",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=4873016",
+       "xda_thread": ""
+    },
+    {
+       "name": "Moto E2 3g",
+       "brand": "Motorola",
+       "codename": "Otus",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=262202",
+       "maintainer_name": "Hamza Badar",
+       "maintainer_url": "https:/github.com/hamza-badar",
+       "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v5-4-t3774115"
     }
 ]
+

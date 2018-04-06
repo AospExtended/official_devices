@@ -1,0 +1,7 @@
+- Switched to oreo source based kernel
+- DT2W is working now (atleast on my panel)
+- Dropped Doze/gestures (temporarily)
+- Cleaned up few stuffs that might be the cause of reboots with Gcam (Let's hope its fixed)
+
+Note:- Don't flash using OTA app, flash it manually using TWRP. You can download the build using OTA app though, 
+       build must be stored in internal memory/AospExtended-Updates .
