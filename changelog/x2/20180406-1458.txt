@@ -1,0 +1,39 @@
+===========================
+AospExtended v5.4 Changelog
+===========================
+
+- Merged April Security Patch(8.1.0_r20)
+- Revamp extensions UI
+- Major improvement in inbuilt themes
+- Theme notifications cards,toast etc support
+- Added Accent picker (DU’s fruity pebbles)
+- Added Theme QS Tile
+- Added Substratum Service commits
+- Merged statusbar battery icon fixes
+- Fixed widgets not loading issue
+- Added screenshot edit option
+- Configure QS panel transparency
+- Added QS tiles animations
+- Disable QS footer warnings
+- Allow QS customizer to use custom rows and columns
+- Improvements in hide QS tile’s title
+- Configure USB default mode
+- Add P animations (Toggleable)
+- Added Ambient display QS tile
+- Added AOD QS tile
+- Added back statusbar center clock
+- Added lockscreen visualizer
+- Option to launch running services from QS footer
+- Various other fixes and upstream patches
+- Updated prebuilt apps
+- Updates in aosp dialer & contact apps
+
+===========================
+x2 specific changes :-
+===========================
+- Rebased trees with lineage
+- Now with @GalaticStryder kernel with some additions thanks for his clean code
+- focus fix module added
+- Now with Marlin Powerhal
+- Slow works now thanks to @ThEMarD for his work
+- And many more things changed
