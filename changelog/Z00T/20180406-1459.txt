@@ -42,4 +42,8 @@
 -    Enforce SELinux
 -    Allow More LED Colors
 -    Fix Few Bugs
+-    Upstream to FireKernel-r2.4
+-    Fix Standby Battery Loss Issues
+-    Enable exFAT and ZRAM Support
+-    Update GPS,Thermal Files
 -    Break Video Recording Support [Use Footej]
