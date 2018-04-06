@@ -1,0 +1,401 @@
+====================
+     04-06-2018
+====================
+
+   * bionic/
+82efcbab5  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * bootable/recovery/
+b5e16a0  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * build/make/
+b2681c7e4  Revert "Install (vendor|system/vendor)/build.prop always"  [Shubham Singh]
+b6b09584b  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+ba9cd1697  Merge "Install (vendor|system/vendor)/build.prop always" into 8.1.x  [Gerrit Code Review]
+   * build/soong/
+6a4e14c  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * development/
+973e03f71  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * external/wpa_supplicant_8/
+e590716  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * frameworks/av/
+6879c519a  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * frameworks/base/
+8c289da66d0  HWKeys: Disable haptic on keyguard  [AmolAmrit]
+762f4c1b6d1  Allow to quickly open Running Services from QS panel [1/2]  [Shubham Singh]
+04e01f44a0e  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * frameworks/native/
+d4f10623f  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * frameworks/opt/telephony/
+5677009c6  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * hardware/interfaces/
+9630a087  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * manifest/
+49de667  manifest: Update readme  [AmolAmrit]
+3fd6180  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/Bluetooth/
+91fa3f88  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/Camera2/
+13b57b2da  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/Contacts/
+eec1e9230  Remove janky elevation on the FAB  [Shubham Singh]
+f9d1358d6  Use white navbar for Dialer and Contacts [2/2]  [Shubham Singh]
+8908c2ed8  Contacts: fix handling non-google accounts in customize view  [Shubham Singh]
+cb2a02a4e  Comment out help & feedback drawer item  [Shubham Singh]
+311ae35a2  Disable launch screen  [Shubham Singh]
+d06e8a9af  Revert "Change AOSP Contacts icon and remove Google logo from launch screen"  [Shubham Singh]
+ddd7c468c  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/DeskClock/
+1568dc5e7  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/Dialer/
+eb8157bb0  Use white navbar for Dialer and Contacts [1/2]  [Shubham Singh]
+e55debc51  Unlink Dialer settings from the framework  [Shubham Singh]
+   * packages/apps/DocumentsUI/
+9445820d  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/Extensions/
+275c716  Another Milestone[2/2]  [Shubham Singh]
+   * packages/apps/Launcher3/
+f9c600d10  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/Messaging/
+5c4fff7  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/PackageInstaller/
+40ae4b2d  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/apps/Settings/
+3bb295feb2  Allow to quickly open Running Services from QS panel [2/2]  [Shubham Singh]
+90017d2ef3  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+bdfc2d6f65  Welcome new guy  [Shubham Singh]
+   * packages/inputmethods/LatinIME/
+19fdd560f  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/providers/DownloadProvider/
+0124b73  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/providers/MediaProvider/
+fc27eab  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/providers/TelephonyProvider/
+0dcca53  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/services/Telecomm/
+06e3ecac  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * packages/services/Telephony/
+e915ea45  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/bt/
+f2f69f78  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/core/
+783880b0f  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/extras/
+83dfdd21  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/hwservicemanager/
+8de3f7f  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/libhidl/
+60e586f  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/media/
+a172cac8  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/netd/
+12b170c  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/sepolicy/
+13740a84  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * system/vold/
+ae5e09f  Merge tag 'android-8.1.0_r20' into HEAD  [Shubham Singh]
+   * vendor/aosp/
+e651619  extract_utils.sh: Fix smali path for AOSP  [AmolAmrit]
+c582e38  extract_utils.sh: Bring in line with LOS 15.1  [AmolAmrit]
+9dfa277  Another Milestone [1/2]  [Shubham Singh]
+e78ed47  Extended UI: Swag  [Shubham Singh]
+80a48f6  Update prebuilt apks  [gaurav]
+
+====================
+     04-05-2018
+====================
+
+   * frameworks/base/
+4c9b964d9ac  SystemUI: Add visualizer feature  [Shubham Singh]
+d9eae3f2938  Make status bar ticker play nice with center clock  [Shubham Singh]
+0840dcd4548  fwb: Statusbar center clock  [Shubham Singh]
+630ea07341d  base: Disable AOD by default [2/2]  [Shubham Singh]
+373e6fd163c  Add Always On Display QS Tile  [Shubham Singh]
+9b93f23930f  SystemUI: Readd AmbientDisplayTile.  [Shubham Singh]
+8b56b2f3cfd  base: audioservice: Set BT_SCO status  [Shubham Singh]
+9e1ed5704f1  Wifi: User notification on wrong Password for PSK Networks  [Shubham Singh]
+4be0979d72d  Fix NPE in updateEmptyShadeView() upon screen rotation  [Shubham Singh]
+cd75bc6cb9c  Fix BatteryManager.getIntProperty returns 0 as invalid value.  [Shubham Singh]
+f9852413ef3  Notification: Fix no icon shown for data limit notification  [Shubham Singh]
+8bf0335e48a  Don't reset audio route if setBluetoothScoOn is called without SCO connection  [Shubham Singh]
+cfc46074d8c  Can not get a thumbnail of Jpeg image of QCIF size.  [Shubham Singh]
+1a2c1df75cf  services: Fix low probability deadlock  [Shubham Singh]
+f507aa2665f  Store package restriction settings at shutdown  [Shubham Singh]
+967a9ac37e7  Remove LOCAL_STATIC_SHARED_LIBRARY usage  [Shubham Singh]
+89977b29d81  Avoid ANR caused by synchronized() of appDiedLocked()  [Shubham Singh]
+7f44f9dcf0a  Workaround to get passed the broken install flow  [Shubham Singh]
+f2ba2c56e5f  Fix persisted task remove operation race issue  [Shubham Singh]
+b5fc1cdc66f  frameworks/base: Fix AudioService JNI leaks  [Shubham Singh]
+81e0c089f79  Remove GCC-specific pragma and disabled Clang warning  [Shubham Singh]
+884992ff7f9  Always send configuration if the boundaries change  [Shubham Singh]
+a0da3415dcb  BackgroundDexOptService: skip low battery check if not present  [Shubham Singh]
+f11a63c7cea  Consider shared libs when precreating WebView classloader  [Shubham Singh]
+87645eccd99  Check if mSurface is valid before create SurfaceSession  [Shubham Singh]
+b07196a49dd  services: Fix double-free error on RemoteFillService  [Shubham Singh]
+886150acf36  PackageManager: Clean up profile step for performDexOptUpgrade  [Shubham Singh]
+a28babce028  Do not force crash for EGL_NO_SURFACE  [Shubham Singh]
+9f7f7ecd258  Ensure the generation is not changed before put value to cache  [Shubham Singh]
+862b4665ffc  Fix for Recents not launching on menu press when date is set in past  [Shubham Singh]
+022d5068961  Avoid needless Integer.valueOf() object allocation.  [Shubham Singh]
+e1e30cab7bc  Fix to avoid UI freeze issue  [Shubham Singh]
+32bc02201bd  Keyguard: Don't listen for fingerprint when prox.sensor is covered  [Shubham Singh]
+291a4d8083c  hwui: Fix Native Crash of EGL_BAD_ALLOC  [Shubham Singh]
+c992ae00447  Accounts: Fix TokenCache maps access  [Shubham Singh]
+344ab80fd64  PackageManager: Avoid null access  [Shubham Singh]
+50f7eef6357  services: Fix starting window not removing issue  [Shubham Singh]
+6b9d2fe1d84  Fix the system_error while calling thread::join() in NativeCallbackThread  [Shubham Singh]
+f556edc3658  Fix the windowtoken index out of bound exception  [Shubham Singh]
+a4bffdea213  frameworks: fix the activity stack ConcurrentModificationException  [Shubham Singh]
+0db47776b97  Fix disabled status bar when pinning app and user switch  [Shubham Singh]
+958e2ad23d8  FATAL EXCEPTION IN SYSTEM PROCESS: android.ui  [Shubham Singh]
+0237911e660  ShutdownThread: Add support to wait for oem subsystem shutdown  [Shubham Singh]
+2e38e42bf72  base: disable warning in StaticLayout  [Shubham Singh]
+43559d2f7be  Skip notification for hidden notifications on first boot  [Shubham Singh]
+8ac71f9e989  Optimize AbsListView to reduce click operation latency  [Shubham Singh]
+abc54c272d3  Fix empty recents view in multi window mode  [Shubham Singh]
+896f48d31fa  Avoid dangerous recursive call on startProcessLocked  [Shubham Singh]
+43ade8528ff  Using BIND_ALLOW_OOM_MANAGEMENT flag for avoid memory pressure when system binding  [Shubham Singh]
+d89333acde1  core: Improve AtomicFile implementation  [Shubham Singh]
+be55dfc5cbf  TelephonyManager: Prevent NPE when registering phone state listener  [Shubham Singh]
+96d8704bff3  frameworks: Fix mLteSignalStrength range check  [Shubham Singh]
+6769ce6aeef  frameworks: Fixed signal strength issue  [Shubham Singh]
+9eae14db5fb  Don't consume all BACK keys in SearchView  [Shubham Singh]
+4f855bfed9d  AudioService: synchronize access to user selected volume ctrl stream  [Shubham Singh]
+0a9749821c6  Bluetooth: Don't remove UUIDs if profile in connected state  [Shubham Singh]
+c6cb18455fc  Should show the lock task mode toast if can not launch the activity not in the locked task.  [Shubham Singh]
+91284044556  PhoneWindowManager: Add missing check for immersive mode  [Shubham Singh]
+1c71067c1c6  SystemUI: QS: keep emergency call only text consistent  [Shubham Singh]
+79b3ffe1b34  SystemUI: guard possible concurrent issue in LocationController  [Shubham Singh]
+84afdb67200  GNSS: fix the null object reference in configManager.getConfig(), judge the null pointer firstly..  [Shubham Singh]
+80ea7730bc5  frameworks: Tweak some values for better transitions  [Shubham Singh]
+1c4b725dbfd  frameworks:more performance  [Shubham Singh]
+acf5fe858b9  SystemUI: fix black scrim when turning screen on from AOD  [Shubham Singh]
+360cffad485  TunerService: Prevent NPE with tunable  [Shubham Singh]
+731bdb3d62b  ViewConfiguration: misc changes (rev)  [Shubham Singh]
+a254b3f07e3  GLSurfaceView: report draw finished after first onDrawFrame in GLThread  [Shubham Singh]
+dda1b285c03  Add toggle to enable Android P system animation [1/2]  [Shubham Singh]
+ea105254cea  Add Android P transition  [Shubham Singh]
+   * packages/apps/Extensions/
+fb5f867  Extensions: Statusbar center clock  [Shubham Singh]
+b624c28  Add toggle to enable Android P system animation [2/2]  [Shubham Singh]
+1c467aa  Extensions: Add lockscreen visualizer toggle  [Shubham Singh]
+   * packages/apps/Settings/
+ab9e2cdc94  ProximityOnWakePreferenceController: implement PreferenceControllerMixin  [Shubham Singh]
+0dbfe60852  Settings: Add toggle for proximity wake  [Shubham Singh]
+a09c394b48  Settings: Disable AOD by default [1/2]  [Shubham Singh]
+729a02bd21  AmbientDisplay: Add custom pref for devices with custom doze packages  [Shubham Singh]
+   * packages/inputmethods/LatinIME/
+aa6b4996d  LatinIME: disable vibration by default  [Shubham Singh]
+
+====================
+     04-04-2018
+====================
+
+   * frameworks/base/
+6edb873757d  [1/2] base: add USB paranoia mode  [Shubham Singh]
+37864183a87  base: fix charging only USB config notification handling  [Shubham Singh]
+0bc51d3edf4  [1/2] base: add USB default config  [Shubham Singh]
+3ad3ab85862  PackageManager: Catch possible NPE from unparsed platform package  [Shubham Singh]
+bc31f771f6f  PackageManager: Don't dereference mPlatfromPackage until available  [Shubham Singh]
+db248975ebd  Add interpolators to qs tiles animation [1/2]  [Shubham Singh]
+d0bd3daebbf  Add animations to qs tiles [1/2]  [Shubham Singh]
+29f4bd7a479  Quick statusbar tiles header: expand panel on longpress for details view  [Shubham Singh]
+0c91ab3bd21  Hide tiles title: longpress will launch detail view  [Shubham Singh]
+8a242539cf0  QS tiles customizer: respect user tiles columns value  [Shubham Singh]
+7eabf4ed1f8  Allow to disable qs footer warnings [1/2]  [Shubham Singh]
+   * hardware/qcom/audio-caf/msm8996/
+14d7df089  Merge tag 'LA.UM.6.5.r1-06700-8x96.0' of caf into lineage-15.1-caf-8996  [Rashed Abdel-Tawab]
+   * hardware/qcom/camera/
+b7eb232  Merge tag 'android-8.1.0_r20' into lineage-15.1  [Dan Pasanen]
+   * hardware/qcom/display-caf/msm8996/
+80f2baf0e  Merge tag 'LA.UM.6.5.r1-06700-8x96.0' of caf into lineage-15.1-caf-8996  [Rashed Abdel-Tawab]
+   * hardware/qcom/media-caf/msm8996/
+020e52b50  Merge tag 'LA.UM.6.5.r1-06700-8x96.0' of caf into lineage-15.1-caf-8996  [Rashed Abdel-Tawab]
+   * packages/apps/Extensions/
+8eb8410  Add interpolators to qs tiles animation [2/2]  [Shubham Singh]
+892a967  Add animations to qs tiles [2/2]  [Shubham Singh]
+52ca00c  Set a text length on the carrier label  [Shubham Singh]
+fcfad8f  Allow to disable qs footer warnings [2/2]  [Shubham Singh]
+e691cb5  Quick settings panel : Set transparency [2/2]  [Shubham Singh]
+2f7ab10  Choose a custom editor app for screenshot notification edit button [2/2]  [Shubham Singh]
+470277b  PackageListAdapter: show more apps in the list  [Shubham Singh]
+   * packages/apps/Settings/
+bfe4d58308  [2/2] Settings: add USB paranoia mode  [Shubham Singh]
+1a2a3cc8b7  [2/2] Setting: add USB default config  [Shubham Singh]
+1bd7f09cd1  ThemeUtils: Cleanup and account for RROs  [Shubham Singh]
+
+====================
+     04-03-2018
+====================
+
+   * frameworks/base/
+8bf8b29df17  Quick settings panel : Set transparency [1/2]  [Shubham Singh]
+39145e505fe  Choose a custom editor app for screenshot notification edit button [1/2]  [Shubham Singh]
+148d97e39ec  Screenshot: add "Markup" edit action support  [Shubham Singh]
+67c6d3ad7e2  Hidden battery keyguard percentage: fix padding, show charging indicator  [Shubham Singh]
+   * manifest/
+8fd5e23  Manifest for Android 8.1.0 Release 20  [The Android Open Source Project]
+d4052a9  Manifest for Android 8.1.0 Release 19  [The Android Open Source Project]
+
+====================
+     04-02-2018
+====================
+
+   * build/make/
+a4eecacf8  Install (vendor|system/vendor)/build.prop always  [davidevinavil]
+   * device/qcom/common/
+6e48da0  Remove QC releasetools and recovery extensions  [Michael Bestas]
+   * frameworks/base/
+ac516c61211  ListView: Fix Widget couldn't find any view  [Shubham Singh]
+3266e7527c3  Portrait battery: improve size for the warning level exclamation mark  [Shubham Singh]
+63ff8e08792  BatteryMeter: some fixes * returned plus symbol to circle in PowerSaving mode * added percentage near icon in PowerSaving mode * made plus symbol smaller by ezio84  [Shubham Singh]
+b360a29f321  Centralize and fix caches broadcast receivers [2/2]  [Shubham Singh]
+8f64f7b52f9  SlimRecents: if a song is playing, set track info as card title and use albumart     color as card color if automatic color is set for cards [2/2]  [Shubham Singh]
+a90279a55b8  Ambient Music: don't trigger it when no media info are available  [Shubham Singh]
+c685030a178  Use  Auto brightness for Ambient Display  [Shubham Singh]
+b2b9ca19205  OMS: Add back overlay modified callback implementation  [Shubham Singh]
+0db2248eaec  Extras: Add dynamic theme fonts support for O  [Shubham Singh]
+e54bef84623  base: Introduce SubstratumService  [Shubham Singh]
+9a0337a0e4d  OMS: StrictMode and files under /data/system/theme/  [Shubham Singh]
+0375983306d  Hold "volume up" during boot to disable all overlays  [Shubham Singh]
+30abae53b3b  ThemeSafety: Introduce App Crash Intent  [Shubham Singh]
+99d52c46d8c  ApplicationsState: add filter for Substratum overlays [2/2]  [Shubham Singh]
+9f810786e23  Extras: Add dynamic theme sound effects support  [Shubham Singh]
+99eb18dfc7f  Extras: Add dynamic theme shutdown and boot animation support  [Shubham Singh]
+eb3621dbbb5  Themes: Fix theming Qs expand/collapse drawable  [Shubham Singh]
+c7a0b7302f8  OMS: Dismantle FLAG_OVERLAY_TRUSTED check in isOverlayPackage  [Shubham Singh]
+9d5815dc4d3  Revert "Revert "OMS: Only allow trusted overlays to be registered.""  [Shubham Singh]
+69946b937e4  Theme tile: Update icon  [Shubham Singh]
+   * hardware/qcom/media-caf/msm8952/
+63c9787cc  Revert "media: Adjust for new header Android.bp requirements"  [Ethan Chen]
+   * packages/apps/Nfc/
+7a040e81  NFC: Adding new vendor specific interface to NFC Service  [Michael Bestas]
+
+====================
+     04-02-2018
+====================
+
+   * frameworks/base/
+ac516c61211  ListView: Fix Widget couldn't find any view  [Shubham Singh]
+3266e7527c3  Portrait battery: improve size for the warning level exclamation mark  [Shubham Singh]
+63ff8e08792  BatteryMeter: some fixes * returned plus symbol to circle in PowerSaving mode * added percentage near icon in PowerSaving mode * made plus symbol smaller by ezio84  [Shubham Singh]
+b360a29f321  Centralize and fix caches broadcast receivers [2/2]  [Shubham Singh]
+8f64f7b52f9  SlimRecents: if a song is playing, set track info as card title and use albumart     color as card color if automatic color is set for cards [2/2]  [Shubham Singh]
+a90279a55b8  Ambient Music: don't trigger it when no media info are available  [Shubham Singh]
+c685030a178  Use  Auto brightness for Ambient Display  [Shubham Singh]
+b2b9ca19205  OMS: Add back overlay modified callback implementation  [Shubham Singh]
+0db2248eaec  Extras: Add dynamic theme fonts support for O  [Shubham Singh]
+e54bef84623  base: Introduce SubstratumService  [Shubham Singh]
+9a0337a0e4d  OMS: StrictMode and files under /data/system/theme/  [Shubham Singh]
+0375983306d  Hold "volume up" during boot to disable all overlays  [Shubham Singh]
+30abae53b3b  ThemeSafety: Introduce App Crash Intent  [Shubham Singh]
+99d52c46d8c  ApplicationsState: add filter for Substratum overlays [2/2]  [Shubham Singh]
+9f810786e23  Extras: Add dynamic theme sound effects support  [Shubham Singh]
+99eb18dfc7f  Extras: Add dynamic theme shutdown and boot animation support  [Shubham Singh]
+eb3621dbbb5  Themes: Fix theming Qs expand/collapse drawable  [Shubham Singh]
+c7a0b7302f8  OMS: Dismantle FLAG_OVERLAY_TRUSTED check in isOverlayPackage  [Shubham Singh]
+9d5815dc4d3  Revert "Revert "OMS: Only allow trusted overlays to be registered.""  [Shubham Singh]
+69946b937e4  Theme tile: Update icon  [Shubham Singh]
+   * hardware/qcom/media-caf/msm8952/
+63c9787cc  Revert "media: Adjust for new header Android.bp requirements"  [Ethan Chen]
+
+====================
+     04-01-2018
+====================
+
+   * build/make/
+83a2d0aa4  build: Introduce SubstratumService  [Shubham Singh]
+   * device/qcom/common/
+6e48da0  Remove QC releasetools and recovery extensions  [Michael Bestas]
+   * frameworks/native/
+a0bee0891  Fix resampling for multiple pointers  [Shubham Singh]
+df9955f4d  Fix broken input tests  [Shubham Singh]
+   * hardware/qcom/media-caf/msm8952/
+b349c61d0  fix circular dependency libnativewindow <-> libui  [Christian Oder]
+15e38737f  media: Adjust for new header Android.bp requirements  [Christian Oder]
+   * packages/apps/Launcher3/
+db74c1c75  Directly update icons of hidden apps in search results  [Shubham Singh]
+a63d1813a  Deobfuscate 8.1 At A Glance string parsing code  [Shubham Singh]
+e2a17e0ea  Enable predictions by default, to match the toggle  [Shubham Singh]
+1fdbdf991  Hide keyboard when pressing search with an empty app search bar  [Shubham Singh]
+47204c187  Make sure all apps view is visible when coming back to the activity  [Shubham Singh]
+80695acea  Don't close the app drawer when pressing home while dragging up  [Shubham Singh]
+fb6199492  Make app predictions less irregular by increasing BOOST_ON_OPEN  [Shubham Singh]
+88ed5bb9e  Don't color extract from zero dimension wallpapers  [Shubham Singh]
+40f037f74  Close folders when the dragger has left the folder with his finger  [Shubham Singh]
+3cfcef0ab  Never scroll overlay when app drawer is open  [Shubham Singh]
+8e8339b71  Clean up WINDOW_OVERLAY Intent and add cv=9 query parameter  [Shubham Singh]
+95ffbcc30  Allow widget resizing for large dimensions  [Shubham Singh]
+a0c3fb6e8  Normalize searches by stripping accents  [Shubham Singh]
+e2d285be5  Prevent crash when no Google App and no browser is installed  [Shubham Singh]
+612e14f06  Add Google Search animation for users without Google App  [Shubham Singh]
+d69dfd8ae  Home screen date/weather: restore month with short weekday  [Shubham Singh]
+040c3c93c  Home screen date/weather: drop the month  [Shubham Singh]
+85be02b8c  Let the user know about iconpack update  [Shubham Singh]
+1541c1bca  IconsHandler: remove unused code  [Shubham Singh]
+1da1ab363  Don't reset icons and labels when an icon pack gets updated  [Shubham Singh]
+   * packages/apps/Settings/
+413dec0fe5  Settings: Introduce Substratum changes.  [Shubham Singh]
+cd298f25e6  Revert "Revert "Update the way OMS records details about overlays""  [Shubham Singh]
+   * packages/apps/SlimRecents/
+3e7d9b5  More panel toggling code cleanup  [Shubham Singh]
+c794b17  Improve slimrecents toggling reliability  [Shubham Singh]
+2674870  Centralize and fix caches broadcast receivers [1/2]  [Shubham Singh]
+b826e51  Clear all action: remove all recents apps, not only the ones showing in the panel  [Shubham Singh]
+73485ac  Use SystemServicesProxy to get recent tasks  [Shubham Singh]
+ee3dc59  If a song is playing, set track info as card title and use albumart color as card color if automatic color is set for cards [1/2]  [Shubham Singh]
+00cbbfd  Preload recents on settings change or dpi change  [Shubham Singh]
+f64d681  Reapply user icon pack after chaning panel size  [Shubham Singh]
+1188850  Fallback to main activity icon if iconpack doesn't provide any specific activity icon  [Shubham Singh]
+   * system/sepolicy/
+48fdeb0f  SELinux: added to the policies without entries into the compatibility mapping file  [Shubham Singh]
+cbfc05f0  Initial sepolicy rules for substratum service  [Shubham Singh]
+6a045926  Introduce sepolicy exceptions for theme assets  [Shubham Singh]
+
+====================
+     03-31-2018
+====================
+
+   * frameworks/base/
+50e204d39aa  Expose and tint settings dashboard icon tint  [Shubham Singh]
+7ada874e3a1  [1/2] base: fix notification overlay config  [Shubham Singh]
+c774182cc66  Reload more assets on overlay change  [Shubham Singh]
+8dbc411e39b  Add support for theming notifications  [Shubham Singh]
+9e5a5c6095e  Revert "Themes: Notification tint: add bool to enable algorithm for dark backgrounds"  [Shubham Singh]
+31b96526b1b  Expose autofill save dialog text color  [Shubham Singh]
+d001687021d  Cleanup: move theme/accent manager stuff out of StatusBar class  [Shubham Singh]
+e27b200774f  Expose power menu items  [Shubham Singh]
+7be2309eb10  Enable/fix airplane mode in power menu  [Shubham Singh]
+e9b8bc5a56b  Revert "Power menu icons color: use theme accent"  [Shubham Singh]
+bdb8576587d  Add a one time QS dialog for the theme tile  [Shubham Singh]
+07a37fb613d  Introduce Theme tile  [Shubham Singh]
+f291167b38f  Allow QS detail view to scroll  [Shubham Singh]
+675fe693813  Fruity pebbles [1/4]  [Shubham Singh]
+   * hardware/qcom/audio-caf/msm8996/
+549e801a2  qahw_api: Ignore missing dependency  [Rashed Abdel-Tawab]
+   * packages/apps/Extensions/
+d4b3ef8  Extensions: Switch to Cardview Preference  [Shubham Singh]
+0c834e0  Extensions: Add Cardview Preference  [Shubham Singh]
+   * packages/apps/Settings/
+0fdb63ed14  Adjust delay to prevent glitches when reloading notifications  [Shubham Singh]
+   * vendor/aosp/
+f99ab45  Ensure that the settings icons are adapting to the accents  [Shubham Singh]
+3383976  Theme Cardview Preference  [Shubham Singh]
+dda978e  Theme dark notifications  [Shubham Singh]
+c964417  [2/2] themes: fix notification overlay config  [Shubham Singh]
+8222c2d  Theme uninstall dialog  [Shubham Singh]
+eae2c6a  Theme Settings shortcuts background  [Shubham Singh]
+5080d02  Theme notification info text color  [Shubham Singh]
+1b0d6a3  Theme power menu items when in dark mode  [Shubham Singh]
+
+====================
+     03-30-2018
+====================
+
+   * hardware/qcom/audio-caf/msm8998/
+56eeef325  audio: add amplifier hooks for stream parameter manipulation  [Daniel Hillenbrand]
+
+====================
+     03-29-2018
+====================
+
+   * packages/apps/Extensions/
+76dbbaa  Fruity pebbles [3/4]  [Shubham Singh]
