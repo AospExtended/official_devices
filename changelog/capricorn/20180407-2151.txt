@@ -1,0 +1,10 @@
+AospExtended ROM:
+
+- Nothing for now
+
+Device Specific:
+
+- Fix headphone bug
+- Fix brightness slider
+- Fix Doze disappeared
+- Fix button remaping disappeared
