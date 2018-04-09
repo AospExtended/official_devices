@@ -1,0 +1,11 @@
+## AospExtended-v 5.4 Changelog for Lenovo ZUK Z1 (ham)
+
+- We have now offline charging working. Yay!!
+- Fixed HDR freezing viewfinder issue while 1st snapshot.
+- Camera changes from recent LineageOS-Bacon tree. So expect better results.
+- Ditch the ZUI firmware images and stick to good old Cyanogen Stock firmware images while we are at it.
+- Added DU based Theme Machine called Fruity Pebbles.
+- Extensions UI revamped, Added back Statusbar centre clock position, Button Backlight Control and more other stuffs.
+- Shifted almost all proprieatry blobs to system/vendor.
+- Performance and UI improvements.
+- Other Bug fixed (including Multi touch)
