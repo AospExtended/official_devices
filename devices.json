@@ -153,7 +153,7 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-aospextended-rom-v5-0-t3679746"
     },
     {
-        "name": "MI 3/4",
+        "name": "Mi 3/4",
         "brand": "Xiaomi",
         "codename": "cancro",
         "afh_folder": "https://www.androidfilehost.com/?w=files&flid=243564",
@@ -187,6 +187,16 @@
         "maintainer_name": "Henrique Pereira (Hlcpereira)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
         "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/8-1-0r11-rom-aospextended-v5-2-2018-02-t3746579"
+    },
+    {
+       "name": "Mi 5X",
+       "brand": "Xiaomi",
+       "codename": "tiffany",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=260214",
+       "maintainer_name": "Mika-Pikazo (秋夜莹)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7262925",
+       "xda_thread": "https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
+	   
     },
     {
         "name": "Z1",
@@ -333,17 +343,7 @@
        "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"
 	   
     },
-	{
-       "name": "MI 5X",
-       "brand": "Xiaomi",
-       "codename": "tiffany",
-       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=260214",
-       "maintainer_name": "Mika-Pikazo (秋夜莹)",
-       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7262925",
-       "xda_thread": "https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
-	   
-    },
-	{
+    {
         "name": "Moto E",
         "brand": "Motorola",
         "codename": "condor",
@@ -362,7 +362,7 @@
        "xda_thread": ""
     },
     {
-       "name": "Galaxy S7 EDGE",
+       "name": "Galaxy S7 Edge",
        "brand": "Samsung",
        "codename": "hero2lte",
        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=256063",
@@ -371,7 +371,7 @@
        "xda_thread": ""
     },
     {
-       "name": "Moto E2 3g",
+       "name": "Moto E2 3G",
        "brand": "Motorola",
        "codename": "Otus",
        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=262202",
