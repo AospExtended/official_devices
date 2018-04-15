@@ -1,0 +1,43 @@
+====================
+     04-15-2018
+====================
+
+
+====================
+     04-14-2018
+====================
+
+
+====================
+     04-13-2018
+====================
+
+
+====================
+     04-12-2018
+====================
+
+   * hardware/qcom/audio-caf/msm8998/
+e043b46  audio: Fixes for VNDK_VERSION=current  [Ethan Chen]
+1a5c4cb  Make libqcomvoiceprocessing build with the VNDK.  [Ethan Chen]
+17fcdfe  Make libqcomvisualizer build with the VNDK.  [Ethan Chen]
+1e3c759  Make libqcompostprocbundle build with the VNDK.  [Ethan Chen]
+3848737  Build audio.primary.* with BOARD_VNDK_VERSION  [Ethan Chen]
+35a5ab5  Add libhardware_headers and libsystem_headers to modules  [Ethan Chen]
+   * hardware/qcom/bt-caf/
+2c5d2c5  Add missing headers to libbt-vendor  [Ethan Chen]
+   * hardware/qcom/display-caf/msm8998/
+e533c79  Add GLESv3 as a dependency.  [Ethan Chen]
+a00dbd8  Fix libcutils private headers  [Ethan Chen]
+ce4ce89  Build libqdMetaData with BOARD_VNDK_VERSION  [Ethan Chen]
+01b92de  Build lights.msm8998 with the VNDK.  [Ethan Chen]
+9008131  Use header lib instead of using global include path  [Ethan Chen]
+7dfb3a7  Mark msm8998 modules LOCAL_VENDOR_MODULE  [Ethan Chen]
+   * hardware/qcom/media-caf/msm8998/
+91db4db  fix circular dependency libnativewindow <-> libui  [Ethan Chen]
+
+====================
+     04-11-2018
+====================
+
+
