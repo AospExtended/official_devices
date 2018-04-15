@@ -199,6 +199,15 @@
 	   
     },
     {
+        "name": "Mi Note 2",
+        "brand": "Xiaomi",
+        "codename": "scorpio",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=264089",
+        "maintainer_name": "Alberto Guanti (Alberto96)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=2386505",
+        "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-aospextended-rom-v5-4-t3777659"
+    },
+    {
         "name": "Z1",
         "brand": "ZUK",
         "codename": "ham",
