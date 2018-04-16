@@ -1,0 +1,3 @@
+Switch from /factory to /vendor partition (new twrp and factory2vendor_plus.zip needed)
+Fixed boring boot up message about mismatch vendor
+Sepolicy denials fixes
