@@ -387,6 +387,42 @@
        "maintainer_name": "Hamza Badar",
        "maintainer_url": "https:/github.com/hamza-badar",
        "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v5-4-t3774115"
-    }
+    },
+    {
+       "name": "Galaxy S5 (KLTE)",
+       "brand": "Samsung",
+       "codename": "Klte",
+       "afh_folder": "https://androidfilehost.com/?w=files&flid=264884",
+       "maintainer_name": "Brunowp8, IKGapirov",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+       "xda_thread":
+    },
+    {
+       "name": "Galaxy S5 (KLTEDV)",
+       "brand": "Samsung",
+       "codename": "Kltedv",
+       "afh_folder": "https://androidfilehost.com/?w=files&flid=264889",
+       "maintainer_name": "Brunowp8, IKGapirov",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+       "xda_thread":
+    },
+    {
+       "name": "Galaxy S5 (KLTEDUOS)",
+       "brand": "Samsung",
+       "codename": "Klteduos",
+       "afh_folder": "https://androidfilehost.com/?w=files&flid=264890",
+       "maintainer_name": "Brunowp8, IKGapirov",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+       "xda_thread":
+    },
+    {
+       "name": "Galaxy S5 (KLTEKOR)",
+       "brand": "Samsung",
+       "codename": "Kltekor",
+       "afh_folder": "https://androidfilehost.com/?w=files&flid=264894",
+       "maintainer_name": "Brunowp8, IKGapirov",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+       "xda_thread":
+    }	    
 ]
 
