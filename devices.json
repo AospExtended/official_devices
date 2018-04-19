@@ -108,6 +108,15 @@
         "xda_thread": "https://forum.xda-developers.com/moto-g/4g-development/rom-aospextended-rom-v5-0-t3693390"
     },
     {
+        "name": "Moto Maxx/Droid Turbo",
+        "brand": "Motorola",
+        "codename": "quark",
+        "afh_folder": "#",
+        "maintainer_name": "Henrique Pereira (Hlcpereira)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
+        "xda_thread": "#"
+    },
+    {
         "name": "Moto Z",
         "brand": "Motorola",
         "codename": "griffin",
