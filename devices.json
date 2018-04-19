@@ -389,7 +389,7 @@
        "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v5-4-t3774115"
     },
     {
-       "name": "Galaxy S5 (KLTE)",
+       "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
        "brand": "Samsung",
        "codename": "klte",
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264884",
@@ -398,7 +398,7 @@
        "xda_thread": ""
     },
     {
-       "name": "Galaxy S5 (KLTEDV)",
+       "name": "Galaxy S5 LTE (G900I/P)",
        "brand": "Samsung",
        "codename": "kltedv",
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264889",
@@ -407,7 +407,7 @@
        "xda_thread": ""
     },
     {
-       "name": "Galaxy S5 (KLTEDUOS)",
+       "name": "Galaxy S5 LTE Duos (G900FD/MD)",
        "brand": "Samsung",
        "codename": "klteduos",
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264890",
@@ -416,7 +416,7 @@
        "xda_thread": ""
     },
     {
-       "name": "Galaxy S5 (KLTEKOR)",
+       "name": "Galaxy S5 LTE (G900K/L/S)",
        "brand": "Samsung",
        "codename": "kltekor",
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264894",
