@@ -391,7 +391,7 @@
     {
        "name": "Galaxy S5 (KLTE)",
        "brand": "Samsung",
-       "codename": "Klte",
+       "codename": "klte",
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264884",
        "maintainer_name": "Brunowp8, IKGapirov",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
@@ -400,7 +400,7 @@
     {
        "name": "Galaxy S5 (KLTEDV)",
        "brand": "Samsung",
-       "codename": "Kltedv",
+       "codename": "kltedv",
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264889",
        "maintainer_name": "Brunowp8, IKGapirov",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
@@ -409,7 +409,7 @@
     {
        "name": "Galaxy S5 (KLTEDUOS)",
        "brand": "Samsung",
-       "codename": "Klteduos",
+       "codename": "klteduos",
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264890",
        "maintainer_name": "Brunowp8, IKGapirov",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
@@ -418,19 +418,10 @@
     {
        "name": "Galaxy S5 (KLTEKOR)",
        "brand": "Samsung",
-       "codename": "Kltekor",
+       "codename": "kltekor",
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264894",
        "maintainer_name": "Brunowp8, IKGapirov",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
-       "xda_thread": ""
-    },	    
-    {
-       "name": "Moto E 2015",
-       "brand": "Motorola",
-       "codename": "surnia",
-       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=262384",
-       "maintainer_name": "Aayush Gupta (theimpulson)",
-       "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
        "xda_thread": ""
     }	    
 ]
