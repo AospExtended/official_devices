@@ -432,6 +432,15 @@
        "maintainer_name": "Aayush Gupta (theimpulson)",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
        "xda_thread": ""
-    }	    
+    },
+    {
+       "name": "Moto G5",
+       "brand": "Motorola",
+       "codename": "cedric",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=264984",
+       "maintainer_name": "Carlos Sanchez (Fedray)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=6252172",
+       "xda_thread": "https://forum.xda-developers.com/g5/development/rom-aospextended-5-0-t3710925"
+    }
 ]
 
