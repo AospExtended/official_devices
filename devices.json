@@ -875,5 +875,14 @@
     "maintainer_name": "Arianoxx",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8529095",
     "xda_thread": ""
+  },
+  {
+    "name": "Mi Note 3",
+    "brand": "Xiaomi",
+    "codename": "jason",
+    "afh_folder": "https://androidfilehost.com/?w=files&flid=264065",
+    "maintainer_name": "Enes Sastim",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7730768",
+    "xda_thread": "https://forum.xda-developers.com/mi-note-3/development/rom-aospextended-v4-6-t3777461"
   }
   ]
