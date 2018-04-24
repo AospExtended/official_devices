@@ -1,0 +1,2 @@
+1. Added Kcal support (in Leeco extras)
+2. Updated Ril Blobs , network much stable now
