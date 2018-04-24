@@ -153,7 +153,7 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-aospextended-rom-v5-0-t3679746"
     },
     {
-        "name": "MI 3/4",
+        "name": "Mi 3/4",
         "brand": "Xiaomi",
         "codename": "cancro",
         "afh_folder": "https://www.androidfilehost.com/?w=files&flid=243564",
@@ -187,6 +187,25 @@
         "maintainer_name": "Henrique Pereira (Hlcpereira)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
         "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/8-1-0r11-rom-aospextended-v5-2-2018-02-t3746579"
+    },
+    {
+       "name": "Mi 5X",
+       "brand": "Xiaomi",
+       "codename": "tiffany",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=260214",
+       "maintainer_name": "Mika-Pikazo (秋夜莹)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7262925",
+       "xda_thread": "https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
+	   
+    },
+    {
+        "name": "Mi Note 2",
+        "brand": "Xiaomi",
+        "codename": "scorpio",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=264089",
+        "maintainer_name": "Alberto Guanti (Alberto96)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=2386505",
+        "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-aospextended-rom-v5-4-t3777659"
     },
     {
         "name": "Z1",
@@ -333,17 +352,7 @@
        "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"
 	   
     },
-	{
-       "name": "MI 5X",
-       "brand": "Xiaomi",
-       "codename": "tiffany",
-       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=260214",
-       "maintainer_name": "Mika-Pikazo (秋夜莹)",
-       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7262925",
-       "xda_thread": "https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
-	   
-    },
-	{
+    {
         "name": "Moto E",
         "brand": "Motorola",
         "codename": "condor",
@@ -362,7 +371,7 @@
        "xda_thread": ""
     },
     {
-       "name": "Galaxy S7 EDGE",
+       "name": "Galaxy S7 Edge",
        "brand": "Samsung",
        "codename": "hero2lte",
        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=256063",
@@ -371,13 +380,67 @@
        "xda_thread": ""
     },
     {
-       "name": "Moto E2 3g",
+       "name": "Moto E2 3G",
        "brand": "Motorola",
        "codename": "Otus",
        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=262202",
        "maintainer_name": "Hamza Badar",
        "maintainer_url": "https:/github.com/hamza-badar",
        "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v5-4-t3774115"
+    },
+    {
+       "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
+       "brand": "Samsung",
+       "codename": "klte",
+       "afh_folder": "https://androidfilehost.com/?w=files&flid=264884",
+       "maintainer_name": "Brunowp8, IKGapirov",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+       "xda_thread": ""
+    },
+    {
+       "name": "Galaxy S5 LTE (G900I/P)",
+       "brand": "Samsung",
+       "codename": "kltedv",
+       "afh_folder": "https://androidfilehost.com/?w=files&flid=264889",
+       "maintainer_name": "Brunowp8, IKGapirov",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+       "xda_thread": ""
+    },
+    {
+       "name": "Galaxy S5 LTE Duos (G900FD/MD)",
+       "brand": "Samsung",
+       "codename": "klteduos",
+       "afh_folder": "https://androidfilehost.com/?w=files&flid=264890",
+       "maintainer_name": "Brunowp8, IKGapirov",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+       "xda_thread": ""
+    },
+    {
+       "name": "Galaxy S5 LTE (G900K/L/S)",
+       "brand": "Samsung",
+       "codename": "kltekor",
+       "afh_folder": "https://androidfilehost.com/?w=files&flid=264894",
+       "maintainer_name": "Brunowp8, IKGapirov",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+       "xda_thread": ""
+    },	    
+    {
+       "name": "Moto E 2015",
+       "brand": "Motorola",
+       "codename": "surnia",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=262384",
+       "maintainer_name": "Aayush Gupta (theimpulson)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
+       "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v5-4-t3780302"
+    },
+    {
+       "name": "Moto G5",
+       "brand": "Motorola",
+       "codename": "cedric",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=264984",
+       "maintainer_name": "Carlos Sanchez (Fedray)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=6252172",
+       "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
     }
 ]
 

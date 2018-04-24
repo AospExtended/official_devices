@@ -1,0 +1,39 @@
+===========================
+AospExtended v5.4 Changelog
+===========================
+*Version Update to 5.4
+*Merged Android 8.1.0_r20
+*Merged April Security Patch 
+*Update all packages
+*Update all translations
+*Disable Quick settings on secure lock screen
+*Add AOKP animations and tweaks
+*Add Scrolling cache
+*Swipe down 3 fingers for screenshot
+*Fruity pebbles from DU!
+*Disable Fruity pebble when substratum overlays are enabled
+*Add Theme QS Tile
+*Re-design Extensions app!
+*Update OMS stuff
+*Add Substratum Service commits (Rootless substratum)
+*Fixed airplane mode on power menu
+*Merge statusbar battery icon fixes
+*Fixed widgets not loading issue
+*Added screenshot edit option
+*Configure QS panel transparency
+*Add QS tiles animations
+*Disable QS footer warnings
+*Allow QS customizer to use custom rows and columns
+*Improvements in hide QS tile’s title
+*Configure USB default mode
+*Android P animations
+*Toggle for P animations
+*Center clock finally!
+*Added Ambient display QS tile
+*AOD tile
+*AOD disabled by default
+*Add lockscreen visualizer
+*Option to launch running services from QS footer
+*Updates in AOSP dialer & Contacts apps
+*Signal strength improvement
+*Performance improvement

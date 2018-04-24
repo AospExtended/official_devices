@@ -1,0 +1,5 @@
+=========================
+Santoni Specified Change
+=========================
+- Kernel Upgrade(EL0 trap fix)
+- VoLTE will be fixed in 1week.

@@ -1,0 +1,8 @@
+Full treble
+Fixed VoLTE
+Fixed sim setting
+New graphics blob
+New Vulkan blobs
+Full update to ZUI 3.5.344
+Neuralnetworks HAL
+Sepolicy denials fixes

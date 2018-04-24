@@ -1,0 +1,9 @@
+* Fixed SafetyNet
+* Switched to Oreo Blobs
+* Fixed all issues with Audio
+* Fixed power profile (for battery capacity)
+* Nuked Snap Camera (AOSP Camera is there instead)
+* Removed some idiotic GPU properties (blame Xiaomi)
+* Minor fixes from the latest stock rom
+* KERNEL: Added KCAL
+* KERNEL: Updated based on the latest msm8996 CAF kernel
