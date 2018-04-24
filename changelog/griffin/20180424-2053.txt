@@ -1,0 +1,114 @@
+====================
+     04-24-2018
+====================
+
+   * device/motorola/griffin/
+8ed1651  griffin: Move sysconfig XMLs to vendor  [TheMarionette]
+0e3d255  griffin: use stock audio hal and configurations  [TheMarionette]
+9cac40e  griffin: update treble configs  [TheMarionette]
+5f43fe4  griffin: Drop USB HAL service  [TheMarionette]
+7c005d0  griffin: Remove legacy lights HAL flag  [TheMarionette]
+46efec8  griffin: Drop useless CNE related flag  [TheMarionette]
+b23be7f  griffin: Increase media volume steps 15 -> 25  [TheMarionette]
+e6879d5  griffin: Build a system version of android.hidl.base@1.0 for imsvt  [TheMarionette]
+28c382a  griffin: update wcnss_filter service  [TheMarionette]
+4d53db0  griffin: enable “fast input” policy for mic  [TheMarionette]
+15a3ca0  griffin: time_daemon: use /persist to store offset to RTC  [TheMarionette]
+f9328c6  griffin: Build SDM livedisplay HAL  [TheMarionette]
+d5f3f8b  griffin: fix ipacm makefile  [TheMarionette]
+1303627  griffin: clean-up rootdir files  [TheMarionette]
+80ff520  griffin: Move sysconfig XMLs to vendor  [TheMarionette]
+013135d  griffin: Move HIDL shims to vendor  [TheMarionette]
+   * kernel/motorola/msm8996/
+b79e42f  Revert "drivers: motomods: remove audio mods support"  [TheMarionette]
+
+====================
+     04-23-2018
+====================
+
+
+====================
+     04-22-2018
+====================
+
+   * build/make/
+301abb4  Revert "Revert "Install (vendor|system/vendor)/build.prop always""  [Shubham Singh]
+   * frameworks/base/
+ab01e5d  NetworkDiagnostics: switch to Cloudflare DNS  [Shubham Singh]
+7671318  Use Cloudflare DNS servers as hints  [Shubham Singh]
+5ca922f  Use Cloudflare DNS servers as defaults for tethering  [Shubham Singh]
+99c256f  Use Cloudflare DNS as the default fallback  [Shubham Singh]
+235d938  Media tickers: fallback to notification text if no metadata available  [Shubham Singh]
+dcfd2fb  Ambient and statusbar media tickers: code fixes and improvements  [Shubham Singh]
+9550ca1  PackageManager: Init known locales at WelcomeActivity in SetupWizard  [Shubham Singh]
+2930fd9  SlimRec. media info: fallback to notification text if no metadata available [2/2]  [Shubham Singh]
+2c87366  Cleanup SlimRecents media info/colors code [2/2]  [Shubham Singh]
+ab17aaa  Protect against possible concurrent mod  [Shubham Singh]
+b027b18  Permissions: Grant Pixel's Wallpaper app access to SD  [Shubham Singh]
+5f57a7f  Statusbar left clock: add start padding  [Shubham Singh]
+ff92c43  Fix text cutting off during shutdown animation  [Shubham Singh]
+a3285e5  Kill net stats logspam  [Shubham Singh]
+55ed8a7  Skip more useless OverlayManager calls on keyguard state changes  [Shubham Singh]
+af5ed5b  Stop ticker on theme changes  [Shubham Singh]
+7324507  Themes: skip useless settings check on keyguard state changes  [Shubham Singh]
+a3744e5  Fix some refresh issues when changing an overlay  [Shubham Singh]
+ba32ad5  Slimrecents media artwork/card color: don't skip navbar blacklisted apps  [Shubham Singh]
+10a463b  Slim recents albumart: fix possible NPE for getOriginalLargeIcon().loadDrawable()  [Shubham Singh]
+28d1642  Slim Recents: albumart as player card icon when playing a song [2/2]  [Shubham Singh]
+   * packages/apps/FMRadio/
+85b83c7  Merge changes Iedb44a07,Ib59aeff4,Ib144a158,Ia465afac into 8.1.x  [Gerrit Code Review]
+   * packages/apps/SlimRecents/
+bcc4c88  SlimRec. media info: fallback to notification text if no metadata available [1/2]  [Shubham Singh]
+   * system/media/
+52a7c3a  Merge changes Ic40890dc,Ic1a3ff56 into 8.1.x  [Gerrit Code Review]
+   * vendor/motorola/griffin/
+1d8d556  griffin: mass blobs update  [Erfan Abdi]
+
+====================
+     04-21-2018
+====================
+
+   * external/DUtils/
+701c643  Smartbar skip track arrows: add remote session compatibility  [Shubham Singh]
+7e206b3  KillApp action: use SystemUI toast theme  [Shubham Singh]
+   * packages/apps/Dialer/
+5a2f7f1  Dialer: InCallUI: Enable Sustained Performance Mode  [Shubham Singh]
+   * packages/apps/Extensions/
+5c3f74e  Ensure SlimRecents respects RTL  [Shubham Singh]
+   * packages/apps/Launcher3/
+c6be9a7  Don't reset icon/label when updating an app  [Shubham Singh]
+   * packages/apps/SlimRecents/
+f971e30  Cleanup SlimRecents media info/colors code [1/2]  [Shubham Singh]
+e2a355f  Cleanup: use existing DUtils UserContentObserver  [Shubham Singh]
+df7e480  Ensure SlimRecents respects RTL [1/2]  [Shubham Singh]
+77c1f22  New clean material icon for favorite (locked) apps  [Shubham Singh]
+f4122a3  Spring cleanup: don't create unused thumbnails cache  [Shubham Singh]
+d83c8c4  Show current playing task after favorites but before other ones  [Shubham Singh]
+5bc0fb4  Track info: show duration before artist and title  [Shubham Singh]
+b5b3d1e  Slim Recents: albumart as player card icon when playing a song [1/2]  [Shubham Singh]
+9a2b1db  Slim recents: don't cancel preload when toggled  [Shubham Singh]
+   * vendor/aosp/
+b4779b7  Fix Miracast on all our devices  [Shubham Singh]
+
+====================
+     04-20-2018
+====================
+
+   * frameworks/base/
+696389f  BoostFramework: Remove debug boost prop dependency  [AmolAmrit]
+5ab4b61  Activity: Improve DragBoost logic  [AmolAmrit]
+0aefb29  Introduce Rotation Boost  [AmolAmrit]
+2fa58d9  Rework AOSPA boosting configuration  [AmolAmrit]
+a7f64ba  UserController: Introduce Bootup Boost  [AmolAmrit]
+dabd73a  Keypress Boost: Improve dispatching logic  [AmolAmrit]
+2b09f88  Keypress Boost: Block multiple Keypress boosts  [AmolAmrit]
+028ac99  Introduce Keypress Boost  [AmolAmrit]
+57f601e  Fix boost issue caused by pre-fling  [AmolAmrit]
+36a57df  boost ahead of current fling boost in scroll  [AmolAmrit]
+158be61  Framework for LaunchBoost v2 and Frequency aggr during launch.  [AmolAmrit]
+24a8bfb  BoostFramework: Implement asynchronous processing of perflocks  [AmolAmrit]
+045e33b  Add synchronized protection in BoostFramework constructor  [AmolAmrit]
+50574fe  frameworks: Add custom boost for scroll/fling  [AmolAmrit]
+68f3286  Perf: Adding hooks for IO prefetcher into framework  [AmolAmrit]
+88e90c3  BoostFramework to enhance performance during critical scenarios  [AmolAmrit]
+
