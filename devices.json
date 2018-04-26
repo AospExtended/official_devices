@@ -196,7 +196,6 @@
        "maintainer_name": "Mika-Pikazo (秋夜莹)",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7262925",
        "xda_thread": "https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
-	   
     },
     {
         "name": "Mi Note 2",
@@ -350,7 +349,6 @@
        "maintainer_name": "Isaac Chen (Tingyi Chen)",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7500669",
        "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"
-	   
     },
     {
         "name": "Moto E",
@@ -423,7 +421,7 @@
        "maintainer_name": "Brunowp8, IKGapirov",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
        "xda_thread": ""
-    },	    
+    },
     {
        "name": "Moto E 2015",
        "brand": "Motorola",
@@ -450,6 +448,14 @@
        "maintainer_name": "Arghya Chanda (arghyac35)",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8037603",
        "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v5-4-t3774641"
+    },
+    {
+       "name": "Sony Xperia SP",
+       "brand": "Sony",
+       "codename": "huashan",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=266805",
+       "maintainer_name": "Aditya Vipin (AdiV1899)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=5824779",
+       "xda_thread": "https://forum.xda-developers.com/xperia-sp/development/rom-aospextended-rom-v4-3-t3627470"
     }
 ]
-
