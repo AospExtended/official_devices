@@ -441,6 +441,15 @@
        "maintainer_name": "Carlos Sanchez (Fedray)",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6252172",
        "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
+    },
+    {
+       "name": "Lenovo P2",
+       "brand": "Lenovo",
+       "codename": "kuntao",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=259646",
+       "maintainer_name": "Arghya Chanda (arghyac35)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=8037603",
+       "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v5-4-t3774641"
     }
 ]
 
