@@ -1,0 +1,2 @@
+1. Now we are with EAS thanks to @DennySPB for his work which made me easy
+2. Rebased kernel on top of latest caf tag and upstreamed
