@@ -1,0 +1,3 @@
+* Removed Always On Display (not safe for our panel)
+* Fixed some memory leaks
+* Some other minor fixes here and there (check Github to know more)
