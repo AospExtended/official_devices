@@ -351,6 +351,15 @@
        "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"
     },
     {
+       "name": "Redmi 4A",
+       "brand": "Xiaomi",
+       "codename": "rolex",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=267974",
+       "maintainer_name": "Erik Garcia (ECr34T1v3)",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=6364365",
+       "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/rom-aospextended-rom-v5-4-redmi-4a-t3784760"
+    },
+    {
         "name": "Moto E",
         "brand": "Motorola",
         "codename": "condor",
