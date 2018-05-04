@@ -1,0 +1,6 @@
+===== rolex: AEX Changes =====
+	
+- Fixed Multicolor in LED
+- Upstreamed kernel to 3.18.107
+- Battery Optimizations in Kernel
+(More battery life, thanks for @MacTavishAO)
