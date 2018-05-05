@@ -1,0 +1,2 @@
+- Set enforcing mode
+- Fix DT2W[双击唤醒]
