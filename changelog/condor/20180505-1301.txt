@@ -1,0 +1,3 @@
+- Camcoder fixed
+- Battery optimization
+- Performance improvement
