@@ -171,6 +171,15 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v4-6-t3757436"
     },
     {
+        "name": "Redmi Note 3",
+        "brand": "Xiaomi",
+        "codename": "kenzo",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=259431",
+        "maintainer_name": "Amol Amrit",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5615686",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v5-4-t3786146"
+    },
+    {
         "name": "Mi 5s",
         "brand": "Xiaomi",
         "codename": "capricorn",
