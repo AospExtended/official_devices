@@ -1,0 +1,7 @@
+===== rolex: AEX Changes =====
+	
+- Fixed Slow Charging
+- Revert: Upstreamed kernel 3.18.107 (Back to 3.18.71)
+- Battery Backup Increased
+
+For more questions, check the F.A.Q in my AEX XDA post
