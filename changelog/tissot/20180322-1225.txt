@@ -1,3 +1,0 @@
-- Initial release
-- Added Xiaomi Doze (pickup,wave,pocket peek gestures)
-

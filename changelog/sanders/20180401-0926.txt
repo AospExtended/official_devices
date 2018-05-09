@@ -1,3 +1,0 @@
-* New Extension UI.
-* Improved ril.
-* More improvements.

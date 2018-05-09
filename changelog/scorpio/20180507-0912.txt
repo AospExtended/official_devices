@@ -1,3 +1,0 @@
-* Fixed Overheating issues
-* Fixed NFC issues
-* Minor improvements here and there

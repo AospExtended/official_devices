@@ -1,8 +1,0 @@
-# AOSP EXTENDED 22nd Jan Update Changelog!
-
-# Device Specific
-
--Added new OTA app
--Fixed Dt2W feature missing in this ROM
--Fixed Trusted Face / Facial Unlock
--Minor GPS & Network improvements

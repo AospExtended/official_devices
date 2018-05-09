@@ -1,6 +1,0 @@
-#changelog 
-> battery styles 
-> 0,90,180,270° rotations 
-> statusbar wheather 
-> device tree related fixes 
-> many more

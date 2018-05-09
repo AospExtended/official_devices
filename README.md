@@ -10,7 +10,7 @@ Our files are hosted on [Android File Host](http://androidfilehost.com/), this m
 The folder must be in **hidden mode**, so our [Download portal](https://downloads.aospextended.com/) can manage statistics correctly.
 
 ### 2. Changelog
-For each new version, you need to upload the changelog to this repository in the device specific folder.
+For each new version, you need to upload the changelog to [this repository](https://github.com/AospExtended-Devices/Changelogs) in the device specific folder.
 
 The file name must be in this format: **yyyyMMdd-Hm.txt**
 

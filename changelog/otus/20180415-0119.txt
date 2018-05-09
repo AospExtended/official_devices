@@ -1,3 +1,0 @@
-Device Changes :-
-1:CMactions/LineageActions are back(gesture in appdrawer)
-2:no more go optimizations

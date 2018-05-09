@@ -1,5 +1,0 @@
-* Initial changelog
-Added feature to swap buttons [ App Recent and Back Key]
-Added aptX and aptX-HD Support
-Added Spectrum Support
-Minor camera improvements

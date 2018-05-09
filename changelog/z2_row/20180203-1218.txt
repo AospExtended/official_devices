@@ -1,5 +1,0 @@
-Fixed encryption
-
-Notification light now turn on during setting
-Upstream kernel to last caf tag
-

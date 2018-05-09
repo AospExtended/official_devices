@@ -1,4 +1,0 @@
-==========================
-Santoni Specified Change
-==========================
-- Import QCOM OMX support(For Google Camera Support)
