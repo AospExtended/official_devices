@@ -1,0 +1,8 @@
+* set default wifi country code and allow resetting
+* libinit: Also override certain vendor build properties
+* init: Handle overriding system and vendor props
+* build libqdMetaData.system
+* build libdisplayconfig
+* sched_upmigrate need to be set first
+* Source Improvements
+* May Security Patch (r26)
