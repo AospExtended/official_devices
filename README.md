@@ -45,6 +45,7 @@ Maintainers should upload their device trees on https://github.com/AospExtended-
 - [Gerrit Code Review](http://gerrit.aospextended.com/) 
 - [Documentation, Official Devices & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template/) 
 - [Apply for Offiical devices](https://github.com/AospExtended/official_devices) 
+- [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs)
 - [Help us translate AospExtended ROM and bring it to the world!](http://translate.aospextended.com/)
 - [Our Blog](https://blog.aospextended.com/)
 - [Telegram Channel](https://telegram.me/aospextended/) 
