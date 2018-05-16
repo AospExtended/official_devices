@@ -493,5 +493,14 @@
        "maintainer_name": "Douglas Gomes (Dougl@s123)",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5535206",
        "xda_thread": ""
-      }
+      }, 
+    {
+        "name": "Oneplus 5",
+        "brand": "Oneplus",
+        "codename": "cheeseburger",
+        "afh_folder": "https://androidfilehost.com/?w=files&flid=256618",
+        "maintainer_name": "rocky183ya (drpradsms)",
+        "Maintainer_url": "https://forum.xda-developers.com/member.php?u=4790166",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-v5-3-t3763133"
+       }
    ]
