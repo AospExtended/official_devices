@@ -468,6 +468,15 @@
        "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
     },
     {
+       "name": "Vibe P1",
+       "brand": "Lenovo",
+       "codename": "passion",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=263808",
+       "maintainer_name": "FireLord",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=6257538",
+       "xda_thread": "https://forum.xda-developers.com/vibe-p1/development/rom-aospextended-rom-v5-5-t3789024"
+    },
+    {
        "name": "P2",
        "brand": "Lenovo",
        "codename": "kuntao",
