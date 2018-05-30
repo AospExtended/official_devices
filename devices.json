@@ -520,5 +520,14 @@
       "maintainer_name":"Atman Shah",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8970650",
       "xda_thread":""
+   },
+   {  
+      "name":"GSI for ARM64 A",
+      "brand":"Generic",
+      "codename":"treble_gsi",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=273282",
+      "maintainer_name":"Isaac Chen (Tingyi Chen)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7500669",
+      "xda_thread":"https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aospextended-rom-v5-5-t3797509"
    }
 ]
