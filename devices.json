@@ -513,6 +513,15 @@
       "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-v5-3-t3763133"
    },
    {  
+      "name":"5T",
+      "brand":"OnePlus",
+      "codename":"dumpling",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=273642",
+      "maintainer_name":"apophis9283",
+      "Maintainer_url":"https://forum.xda-developers.com/member.php?u=4392154",
+      "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-aospextended-rom-v5-5-t3797636"
+   },
+   {  
       "name":"Redmi Note 5 Pro",
       "brand":"Xiaomi",
       "codename":"whyred",
