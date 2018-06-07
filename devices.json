@@ -180,6 +180,15 @@
       "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v5-4-t3786146"
    },
    {  
+      "name":"Mi 5",
+      "brand":"Xiaomi",
+      "codename":"gemini",
+      "afh_folder":"",
+      "maintainer_name":"Henrique Pereira (Hlcpereira)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
+      "xda_thread":""
+   },
+   {  
       "name":"Mi 5s",
       "brand":"Xiaomi",
       "codename":"capricorn",
@@ -198,7 +207,7 @@
       "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/8-1-0r11-rom-aospextended-v5-2-2018-02-t3746579"
    },
    {  
-      "name":"Mi 5X",
+      "name":"Mi 5x",
       "brand":"Xiaomi",
       "codename":"tiffany",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=260214",
