@@ -1,5 +1,5 @@
-[  
-   {  
+[
+   {
       "name":"Nexus 5",
       "brand":"Google",
       "codename":"hammerhead",
@@ -8,7 +8,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8889258",
       "xda_thread":""
    },
-   {  
+   {
       "name":"Nexus 6P",
       "brand":"Google",
       "codename":"angler",
@@ -17,7 +17,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5545311",
       "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-v2-t3530382"
    },
-   {  
+   {
       "name":"Vibe K5/K5 Plus",
       "brand":"Lenovo",
       "codename":"A6020",
@@ -26,7 +26,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6998569",
       "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-aospextended-v5-0-t3688595"
    },
-   {  
+   {
       "name":"A6000 & A6000 Plus",
       "brand":"Lenovo",
       "codename":"a6000",
@@ -35,7 +35,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5835908",
       "xda_thread":""
    },
-   {  
+   {
       "name":"Max2",
       "brand":"Leeco",
       "codename":"x2",
@@ -44,7 +44,16 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
       "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v4-3-progress-t3619109"
    },
-   {  
+   {
+      "name":"Moto G 2014",
+      "brand":"Motorola",
+      "codename":"titan",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=277297",
+      "maintainer_name":"Demetris Ierokipides",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=1149134",
+      "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-aospextended-rom-v5-5-t3801327" # this link Will change in next release
+   },
+   {
       "name":"Moto G 2015",
       "brand":"Motorola",
       "codename":"osprey",
@@ -53,7 +62,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5566914",
       "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
    },
-   {  
+   {
       "name":"Moto G4 Play",
       "brand":"Motorola",
       "codename":"harpia",
@@ -62,7 +71,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6623671",
       "xda_thread":""
    },
-   {  
+   {
       "name":"Moto G Turbo",
       "brand":"Motorola",
       "codename":"merlin",
@@ -71,7 +80,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7560545",
       "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-v5-0-alpha-t3701555"
    },
-   {  
+   {
       "name":"Moto G5S Plus",
       "brand":"Motorola",
       "codename":"sanders",
@@ -80,7 +89,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
       "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-aospextended-rom-v5-1-t3737099"
    },
-   {  
+   {
       "name":"Moto G5 Plus",
       "brand":"Motorola",
       "codename":"potter",
@@ -89,7 +98,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5293805",
       "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-aospextended-rom-v5-0-t3687007"
    },
-   {  
+   {
       "name":"Moto G 2013",
       "brand":"Motorola",
       "codename":"falcon",
@@ -98,7 +107,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7751333",
       "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v5-0-t3692684"
    },
-   {  
+   {
       "name":"Moto G (4G)",
       "brand":"Motorola",
       "codename":"peregrine",
@@ -107,7 +116,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7751333",
       "xda_thread":"https://forum.xda-developers.com/moto-g/4g-development/rom-aospextended-rom-v5-0-t3693390"
    },
-   {  
+   {
       "name":"Moto Z",
       "brand":"Motorola",
       "codename":"griffin",
@@ -116,7 +125,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=4150512",
       "xda_thread":"https://forum.xda-developers.com/moto-z/development/rom-aospextended-v5-1-t3742683"
    },
-   {  
+   {
       "name":"Moto Z Play",
       "brand":"Motorola",
       "codename":"addison",
@@ -125,7 +134,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6409818",
       "xda_thread":"https://forum.xda-developers.com/moto-z-play/development/rom-t3741407"
    },
-   {  
+   {
       "name":"Zenfone 2 Laser/Selfie",
       "brand":"Asus",
       "codename":"Z00T",
@@ -134,7 +143,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6042178",
       "xda_thread":"https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
    },
-   {  
+   {
       "name":"1",
       "brand":"OnePlus",
       "codename":"bacon",
@@ -143,7 +152,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6859839",
       "xda_thread":"https://forum.xda-developers.com/oneplus-one/development/rom-aospextended-rom-t3732194"
    },
-   {  
+   {
       "name":"Redmi Note 4",
       "brand":"Xiaomi",
       "codename":"mido",
@@ -152,7 +161,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7354828",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-aospextended-rom-v5-0-t3679746"
    },
-   {  
+   {
       "name":"Mi 3/4",
       "brand":"Xiaomi",
       "codename":"cancro",
@@ -161,7 +170,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6331651",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-3/development/rom-aospextended-rom-v4-5-t3658884"
    },
-   {  
+   {
       "name":"Mi A1",
       "brand":"Xiaomi",
       "codename":"tissot",
@@ -170,7 +179,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
       "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v4-6-t3757436"
    },
-   {  
+   {
       "name":"Redmi Note 3",
       "brand":"Xiaomi",
       "codename":"kenzo",
@@ -179,7 +188,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5615686",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v5-4-t3786146"
    },
-   {  
+   {
       "name":"Mi 5",
       "brand":"Xiaomi",
       "codename":"gemini",
@@ -188,7 +197,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
       "xda_thread":""
    },
-   {  
+   {
       "name":"Mi 5s",
       "brand":"Xiaomi",
       "codename":"capricorn",
@@ -197,7 +206,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
       "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-aospextended-v5-x-t3773328"
    },
-   {  
+   {
       "name":"Mi 5s Plus",
       "brand":"Xiaomi",
       "codename":"natrium",
@@ -206,7 +215,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
       "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/8-1-0r11-rom-aospextended-v5-2-2018-02-t3746579"
    },
-   {  
+   {
       "name":"Mi 5x",
       "brand":"Xiaomi",
       "codename":"tiffany",
@@ -215,7 +224,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7262925",
       "xda_thread":"https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
    },
-   {  
+   {
       "name":"Mi Note 2",
       "brand":"Xiaomi",
       "codename":"scorpio",
@@ -224,7 +233,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=2386505",
       "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-aospextended-rom-v5-4-t3777659"
    },
-   {  
+   {
       "name":"Z1",
       "brand":"ZUK",
       "codename":"ham",
@@ -233,7 +242,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
       "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-aospextended-rom-v5-0-t3720542"
    },
-   {  
+   {
       "name":"Z2 Plus",
       "brand":"ZUK",
       "codename":"z2_plus",
@@ -242,7 +251,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=2823824",
       "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-aospextended-rom-v5-0-t3683254"
    },
-   {  
+   {
       "name":"Z2 Pro",
       "brand":"ZUK",
       "codename":"z2_row",
@@ -251,7 +260,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=2823824",
       "xda_thread":"https://forum.xda-developers.com/zuk-z2-pro/development/rom-aospextended-rom-v5-0-t3683238"
    },
-   {  
+   {
       "name":"Zenfone 2 Laser",
       "brand":"Asus",
       "codename":"Z00L",
@@ -260,7 +269,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6042178",
       "xda_thread":"https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
    },
-   {  
+   {
       "name":"3/3T",
       "brand":"OnePlus",
       "codename":"oneplus3",
@@ -269,7 +278,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
       "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-aospextended-rom-v3-1-t3557363"
    },
-   {  
+   {
       "name":"2",
       "brand":"OnePlus",
       "codename":"oneplus2",
@@ -278,7 +287,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6763765",
       "xda_thread":"https://forum.xda-developers.com/oneplus-2/development/rom-title-aospextended-rom-v3-1-t3547713"
    },
-   {  
+   {
       "name":"Yureka",
       "brand":"YU",
       "codename":"tomato",
@@ -287,7 +296,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8832639",
       "xda_thread":""
    },
-   {  
+   {
       "name":"Yuphoria",
       "brand":"YU",
       "codename":"lettuce",
@@ -296,7 +305,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7955635",
       "xda_thread":"http://forums.yuplaygod.com/threads/volte-rom-8-1-0_r7-unofficial-aospextended-rom-v5-1-oms-dui-beta-11-01-18.50568"
    },
-   {  
+   {
       "name":"Yunique",
       "brand":"YU",
       "codename":"jalebi",
@@ -305,7 +314,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
       "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-aospextended-rom-v5-2-t3749897"
    },
-   {  
+   {
       "name":"Galaxy S6/S6 Edge",
       "brand":"Samsung",
       "codename":"zerofltexx",
@@ -314,7 +323,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5514501",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s6/orig-development/rom-aospextended-rom-v5-1-t3741378"
    },
-   {  
+   {
       "name":"Le 2",
       "brand":"Leeco",
       "codename":"s2",
@@ -323,7 +332,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
       "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v5-1-t3744470"
    },
-   {  
+   {
       "name":"Android One 2nd",
       "brand":"Google",
       "codename":"seed",
@@ -332,7 +341,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7466529",
       "xda_thread":""
    },
-   {  
+   {
       "name":"K10",
       "brand":"LG",
       "codename":"m216",
@@ -341,7 +350,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7045959",
       "xda_thread":"https://forum.xda-developers.com/lg-k10/development/rom-aospextended-v4-5-t3656879"
    },
-   {  
+   {
       "name":"G4c",
       "brand":"LG",
       "codename":"c90",
@@ -350,7 +359,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7045959",
       "xda_thread":"https://forum.xda-developers.com/g4/development/rom-aospextended-rom-v4-6-t3753300"
    },
-   {  
+   {
       "name":"Redmi 3S",
       "brand":"Xiaomi",
       "codename":"land",
@@ -359,7 +368,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7937159",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v5-1-alpha-t3764128"
    },
-   {  
+   {
       "name":"Redmi 4(X)",
       "brand":"Xiaomi",
       "codename":"santoni",
@@ -368,7 +377,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7500669",
       "xda_thread":"https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"
    },
-   {  
+   {
       "name":"Redmi 4A",
       "brand":"Xiaomi",
       "codename":"rolex",
@@ -377,7 +386,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6364365",
       "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/rom-aospextended-rom-v5-4-redmi-4a-t3784760"
    },
-   {  
+   {
       "name":"Redmi 5 Plus/Note 5",
       "brand":"Xiaomi",
       "codename":"vince",
@@ -386,7 +395,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7500669",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-rom-v4-6-t3752135"
    },
-   {  
+   {
       "name":"Moto E",
       "brand":"Motorola",
       "codename":"condor",
@@ -395,7 +404,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7554460",
       "xda_thread":"https://forum.xda-developers.com/moto-e/development/rom-aospextended-rom-v5-3-t3765938"
    },
-   {  
+   {
       "name":"Galaxy S7",
       "brand":"Samsung",
       "codename":"herolte",
@@ -404,7 +413,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=4873016",
       "xda_thread":""
    },
-   {  
+   {
       "name":"Galaxy S7 Edge",
       "brand":"Samsung",
       "codename":"hero2lte",
@@ -413,7 +422,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=4873016",
       "xda_thread":""
    },
-   {  
+   {
       "name":"Moto E 2015",
       "brand":"Motorola",
       "codename":"otus",
@@ -422,7 +431,7 @@
       "maintainer_url":"https:/github.com/hamza-badar",
       "xda_thread":"https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v5-4-t3774115"
    },
-   {  
+   {
       "name":"Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
       "brand":"Samsung",
       "codename":"klte",
@@ -431,7 +440,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
    },
-   {  
+   {
       "name":"Galaxy S5 LTE (G900I/P)",
       "brand":"Samsung",
       "codename":"kltedv",
@@ -440,7 +449,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
    },
-   {  
+   {
       "name":"Galaxy S5 LTE Duos (G900FD/MD)",
       "brand":"Samsung",
       "codename":"klteduos",
@@ -449,7 +458,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
    },
-   {  
+   {
       "name":"Galaxy S5 LTE (G900K/L/S)",
       "brand":"Samsung",
       "codename":"kltekor",
@@ -458,7 +467,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
       "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
    },
-   {  
+   {
       "name":"Moto E 2015 LTE",
       "brand":"Motorola",
       "codename":"surnia",
@@ -467,7 +476,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6042178",
       "xda_thread":"https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
    },
-   {  
+   {
       "name":"Moto G5",
       "brand":"Motorola",
       "codename":"cedric",
@@ -476,7 +485,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6252172",
       "xda_thread":"https://forum.xda-developers.com/g5/development/rom-aospextended-5-0-t3710925"
    },
-   {  
+   {
       "name":"Vibe P1",
       "brand":"Lenovo",
       "codename":"passion",
@@ -485,7 +494,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6257538",
       "xda_thread":"https://forum.xda-developers.com/vibe-p1/development/rom-aospextended-rom-v5-5-t3789024"
    },
-   {  
+   {
       "name":"P2",
       "brand":"Lenovo",
       "codename":"kuntao",
@@ -494,7 +503,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8037603",
       "xda_thread":"https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v5-4-t3774641"
    },
-   {  
+   {
       "name":"Xperia SP",
       "brand":"Sony",
       "codename":"huashan",
@@ -503,7 +512,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5824779",
       "xda_thread":"https://forum.xda-developers.com/xperia-sp/development/rom-aospextended-rom-v4-3-t3627470"
    },
-   {  
+   {
       "name":"Galaxy J7 Prime",
       "brand":"Samsung",
       "codename":"on7xelte",
@@ -512,7 +521,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5535206",
       "xda_thread":"https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-aospextended-rom-v5-5-t3789882"
    },
-   {  
+   {
       "name":"5",
       "brand":"OnePlus",
       "codename":"cheeseburger",
@@ -521,7 +530,7 @@
       "Maintainer_url":"https://forum.xda-developers.com/member.php?u=4790166",
       "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-v5-3-t3763133"
    },
-   {  
+   {
       "name":"5T",
       "brand":"OnePlus",
       "codename":"dumpling",
@@ -530,7 +539,7 @@
       "Maintainer_url":"https://forum.xda-developers.com/member.php?u=4392154",
       "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-aospextended-rom-v5-5-t3797636"
    },
-   {  
+   {
       "name":"Redmi Note 5 Pro",
       "brand":"Xiaomi",
       "codename":"whyred",
@@ -539,7 +548,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8970650",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v5-5-t3798293"
    },
-   {  
+   {
       "name":"GSI for ARM64 A",
       "brand":"Generic",
       "codename":"treble_gsi",
@@ -548,7 +557,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7500669",
       "xda_thread":"https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aospextended-rom-v5-5-t3797509"
    },
-   {  
+   {
       "name":"Mi Max 2",
       "brand":"Xiaomi",
       "codename":"oxygen",
