@@ -9,15 +9,6 @@
       "xda_thread":""
    },
    {  
-      "name":"Nexus 6P",
-      "brand":"Google",
-      "codename":"angler",
-      "afh_folder":"#",
-      "maintainer_name":"AmyClaraRose/minidude2012",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5545311",
-      "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-v2-t3530382"
-   },
-   {  
       "name":"Vibe K5/K5 Plus",
       "brand":"Lenovo",
       "codename":"A6020",
@@ -322,24 +313,6 @@
       "maintainer_name":"Berkehan Kenan SEKBAN (Quicksilver)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7466529",
       "xda_thread":""
-   },
-   {  
-      "name":"K10",
-      "brand":"LG",
-      "codename":"m216",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=254576",
-      "maintainer_name":"Vineeth Penugonda",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7045959",
-      "xda_thread":"https://forum.xda-developers.com/lg-k10/development/rom-aospextended-v4-5-t3656879"
-   },
-   {  
-      "name":"G4c",
-      "brand":"LG",
-      "codename":"c90",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=254569",
-      "maintainer_name":"Vineeth Penugonda",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7045959",
-      "xda_thread":"https://forum.xda-developers.com/g4/development/rom-aospextended-rom-v4-6-t3753300"
    },
    {  
       "name":"Redmi 3S",
