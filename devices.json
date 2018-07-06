@@ -520,5 +520,14 @@
       "maintainer_name":"John Evans (eva0034)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8727489",
       "xda_thread":"https://forum.xda-developers.com/mi-max-2/development/rom-aospextended-rom-v5-5-t3789215"
+   },
+   {
+      "name":"Mi Note 3",
+      "brand":"Xiaomi",
+      "codename":"jason",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=278517",
+      "maintainer_name":"EnesSastim",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7730768",
+      "xda_thread":""
    }
 ]
