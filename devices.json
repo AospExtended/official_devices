@@ -422,15 +422,6 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
     },
     {
-        "name": "Moto E 2015 LTE",
-        "brand": "Motorola",
-        "codename": "surnia",
-        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=262384",
-        "maintainer_name": "Aayush Gupta (theimpulson)",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
-        "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
-    },
-    {
         "name": "Moto G5",
         "brand": "Motorola",
         "codename": "cedric",
