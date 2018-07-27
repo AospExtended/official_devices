@@ -458,6 +458,15 @@
         "xda_thread": "https://forum.xda-developers.com/xperia-sp/development/rom-aospextended-rom-v4-3-t3627470"
     },
     {
+       "name":"Xperia XA2",
+       "brand":"Sony",
+       "codename":"pioneer",
+       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279705",
+       "maintainer_name":"opendata",
+       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7796065",
+       "xda_thread":"https://forum.xda-developers.com/xperia-xa2/development/gapps-aospextended-rom-v5-6-t3812370"
+    },
+    {
         "name": "Galaxy J7 Prime",
         "brand": "Samsung",
         "codename": "on7xelte",
