@@ -188,6 +188,15 @@
         "xda_thread": "https://forum.xda-developers.com/mi-5x/development/rom-aospextended-rom-v5-3-xiaomi-mi-5x-t3766546"
     },
     {
+        "name": "MI 6X",
+        "brand": "Xiaomi",
+        "codename": "wayne",
+        "afh_folder": "https://androidfilehost.com/?w=files&flid=279652",
+        "maintainer_name": "DMF(Fatesay), Isaac Chen(TingyiChen)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8578210",
+        "xda_thread": ""
+    },
+    {
         "name": "Mi Note 2",
         "brand": "Xiaomi",
         "codename": "scorpio",
