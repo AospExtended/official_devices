@@ -591,5 +591,14 @@
         "maintainer_name": "Alessandro Astone (YoDevil)",
         "maintainer_url": "https://github.com/YoDevil",
         "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v5-6-t3802329"
+    },
+    {
+        "name": "Zenfone Max Pro M1",
+        "brand": "Asus",
+        "codename": "X00TD",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=279801",
+        "maintainer_name": "Sagar Makhar",
+        "maintainer_url": "https://github.com/sagarmakhar",
+        "xda_thread": ""
     }
 ]
