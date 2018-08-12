@@ -431,6 +431,15 @@
         "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
     },
     {
+        "name": "Galaxy S5 LTE Duos (G9006W/8W)",
+        "brand": "Samsung",
+        "codename": "kltechnduo",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=280493",
+        "maintainer_name": "Brunowp8, IKGapirov",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"    
+    },
+    {
         "name": "Moto G5",
         "brand": "Motorola",
         "codename": "cedric",
