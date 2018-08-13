@@ -26,6 +26,15 @@
         "xda_thread": ""
     },
     {
+        "name": "Moto G 2014",
+        "brand": "Motorola",
+        "codename": "titan",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=280543",
+        "maintainer_name": "Gaurav Singh (allstargaurav)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7751333",
+        "xda_thread": ""
+    },
+    {
         "name": "Max2",
         "brand": "Leeco",
         "codename": "x2",
