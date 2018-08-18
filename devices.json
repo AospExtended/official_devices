@@ -618,5 +618,32 @@
         "maintainer_name": "Sagar Makhar",
         "maintainer_url": "https://github.com/sagarmakhar",
         "xda_thread": ""
+    },
+    {
+        "name": "Zenfone 2 Laser/Selfie",
+        "brand": "Asus",
+        "codename": "Z00T",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=240516",
+        "maintainer_name": "Aayush Gupta (theimpulson)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
+        "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
+    },
+    {
+        "name": "Zenfone 2 Laser",
+        "brand": "Asus",
+        "codename": "Z00L",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=276538",
+        "maintainer_name": "Aayush Gupta (theimpulson)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
+        "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
+    },
+    {
+        "name": "Moto E 2015 LTE",
+        "brand": "Motorola",
+        "codename": "surnia",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=262384",
+        "maintainer_name": "Aayush Gupta (theimpulson)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
+        "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
     }
 ]
