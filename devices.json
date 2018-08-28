@@ -26,6 +26,16 @@
         "xda_thread": ""
     },
     {
+        "name": "Lenovo Tab3 8 Plus",
+        "brand": "Lenovo",
+        "codename": "TB-8703",
+        "gsmarena": "https://www.gsmarena.com/lenovo_tab3_8_plus-8559.php",
+        "afh_folder": "https://androidfilehost.com/?w=files&flid=281367",
+        "maintainer_name": "Demetris Ierokipides",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=1149134",
+        "xda_thread": "https://forum.xda-developers.com/thinkpad-tablet/development/rom-aospextended-rom-v5-8-t3833858" # Hopefully we get a dedicated forum soon
+     },
+    {
         "name": "Moto G 2014",
         "brand": "Motorola",
         "codename": "titan",
@@ -446,7 +456,7 @@
         "afh_folder": "https://www.androidfilehost.com/?w=files&flid=280493",
         "maintainer_name": "Brunowp8, IKGapirov",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
-        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"    
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
     },
     {
         "name": "Moto G5",
