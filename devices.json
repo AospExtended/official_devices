@@ -638,6 +638,15 @@
         "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
     },
     {
+        "name": "Zenfone 3",
+        "brand": "Asus",
+        "codename": "Libra",
+        "afh_folder": "https://androidfilehost.com/?w=files&flid=281121",
+        "maintainer_name": "Srinivasaraju (SVR)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=5882847",
+        "xda_thread": "https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v5-8-t3832578"
+    },
+    {
         "name": "Moto E 2015 LTE",
         "brand": "Motorola",
         "codename": "surnia",
