@@ -369,15 +369,6 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-rom-v4-6-t3752135"
     },
     {
-        "name":"Poco F1",
-        "brand":"Xiaomi",
-        "codename":"beryllium",
-        "afh_folder":"https://www.androidfilehost.com/?w=files&flid=282985",
-        "maintainer_name":"shahan_mik3",
-        "maintainer_url":"https://forum.xda-developers.com/member.php?u=5162591",
-        "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-aospextended-rom-v5-8-t3846981"
-    },
-    {
         "name": "Moto E",
         "brand": "Motorola",
         "codename": "condor",
