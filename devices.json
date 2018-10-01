@@ -63,15 +63,6 @@
         "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
     },
     {
-        "name": "Moto G4 Play",
-        "brand": "Motorola",
-        "codename": "harpia",
-        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=145983",
-        "maintainer_name": "SubhrajyotiSen",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6623671",
-        "xda_thread": ""
-    },
-    {
         "name": "Moto G Turbo",
         "brand": "Motorola",
         "codename": "merlin",
