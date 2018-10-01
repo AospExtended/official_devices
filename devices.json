@@ -225,6 +225,15 @@
         "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-aospextended-rom-v5-4-t3777659"
     },
     {
+        "name":"POCO F1",
+        "brand":"Xiaomi",
+        "codename":"beryllium",
+        "afh_folder":"https://androidfilehost.com/?w=files&flid=283218",
+        "maintainer_name":"Karthick C (karthick111)",
+        "maintainer_url":"https://forum.xda-developers.com/member.php?u=5786839",
+        "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-title-aospextended-rom-v5-8-t3848973"
+    },
+    {
         "name": "Z1",
         "brand": "ZUK",
         "codename": "ham",
