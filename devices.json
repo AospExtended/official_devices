@@ -673,5 +673,14 @@
         "maintainer_name": "Sarthak Acharya (sakindia123)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=4060527",
         "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-aospextended-rom-v5-7-t3825642"
+    },
+     {
+        "name": "Galaxy S5 Neo",
+        "brand": "Samsung",
+        "codename": "s5neoltexx",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=282854",
+        "maintainer_name": "James Gatt (PixelBoot)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8086838",
+        "xda_thread": "https://forum.xda-developers.com/galaxy-s5-neo/development/rom-aospextended-rom-v5-8-t3845743"
     }
 ]
