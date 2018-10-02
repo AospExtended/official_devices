@@ -1,21 +1,24 @@
 # AospExtended ROM
 ## Official devices application
 
+Devices repository: https://github.com/AospExtended-Devices
+
 Before opening a pull request to add your device into our list of official devices, you should know a few simple things:
 
 ### 1. Hosting
 
-Our files are hosted on [Android File Host](http://androidfilehost.com/), this means you must have a developer account to host the builds of your device.
-
-The folder must be in **hidden mode**, so our [Download portal](https://downloads.aospextended.com/) can manage statistics correctly.
+Our files are hosted on our FTP server, you will receive the credentials when you join the team.
 
 ### 2. Changelog
-For each new version, you need to upload the changelog to [this repository](https://github.com/AospExtended-Devices/Changelogs) in the device specific folder.
+For each new version, you need to upload the changelog to this repository in the device specific folder.
 
-The file name must be in this format: **yyyyMMdd-Hm.txt**
+The changelog file name must match the **.zip** file name and should end with **.txt**
+Eg: **.zip** is **AospExtended-v5.8-osprey-20180906-0543-OFFICIAL.zip**, changelog file name should be **AospExtended-v5.8-osprey-20180906-0543-OFFICIAL.txt**
 
-### 3. Over-The-Air (OTA) updates
-Our system is automatic, you should not worry about updating some script, just upload the new build to your Android File Host device folder and send a pull request with the changelog in this repository.
+### 3. Over-the-air (OTA) updates
+Our system is automatic, you should not worry about updating some script, just upload the new build to the FTP server and send a pull request with the changelog and also edit your device JSON file (**builds/your_device_codename.json**) in this repository.
+
+Eg: Moto G 2015 is called **osprey**, so the device JSON file is **builds/osprey.json**
 
 **Note:** New builds can take up to 30 minutes to appear on the site and in the OTA application.
 
@@ -25,7 +28,8 @@ Our system is automatic, you should not worry about updating some script, just u
 | name | Device name | Yes |
 | brand | Device manufacturer | Yes |
 | codename | Device codename, eg: falcon | Yes |
-| afh_folder | URL of your hidden AFH folder, eg: https://www.androidfilehost.com/?w=files&flid=240377 | Yes |
+| version_code | Version code, lowercase, eg: oreo | Yes |
+| version_name | Version name, will be shown on download portal, eg: Oreo | Yes |
 | maintainer_name | Your name | Yes |
 | maintainer_url | Your personal URL, eg: https://github.com/ishubhamsingh/ or https://forum.xda-developers.com/member.php?u=5566914 | No  |
 | xda_thread | XDA thread URL, eg: https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v1-0-t3482475 | No |
