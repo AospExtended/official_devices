@@ -98,20 +98,6 @@
         ]
     },
     {
-        "name": "Moto G4 Play",
-        "brand": "Motorola",
-        "codename": "harpia",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "SubhrajyotiSen",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6623671",
-                "xda_thread": ""
-            }
-        ]
-    },
-    {
         "name": "Moto G Turbo",
         "brand": "Motorola",
         "codename": "merlin",
@@ -574,8 +560,8 @@
             {
                 "version_code":"oreo",
                 "version_name":"Oreo",
-                "maintainer_name": "Isaac Chen (Tingyi Chen)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7500669",
+                "maintainer_name": "Amulya Bhardwaj (AmulyaX)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6409818",
                 "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-rom-v4-6-t3752135"
             }
         ]
@@ -1043,5 +1029,34 @@
                 "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-aospextended-rom-v5-7-t3825642"
             }
         ]
+    },
+    {
+        "name": "Galaxy S5 Neo",
+        "brand": "Samsung",
+        "codename": "s5neoltexx",
+        "supported_versions":[
+            {
+                "version_code":"oreo",
+                "version_name":"Oreo",
+                "maintainer_name": "James Gatt (PixelBoot)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8086838",
+                "xda_thread": "https://forum.xda-developers.com/galaxy-s5-neo/development/rom-aospextended-rom-v5-8-t3845743"
+            }
+        ]
+    },
+    {
+        "name": "srtphone",
+        "brand": "Smartron",
+        "codename": "rimo02a",
+        "supported_versions":[
+            {
+                "version_code":"oreo",
+                "version_name":"Oreo",
+                "maintainer_name": "darshan1205",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6620830",
+                "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v5-8-smartron-t3851341"
+            }
+        ]
     }
+    
 ]
