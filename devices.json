@@ -1064,6 +1064,19 @@
                 "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v5-8-smartron-t3851341"
             }
         ]
+    },
+    {
+        "name": "Mi 6",
+        "brand": "Xiaomi",
+        "codename": "sagit",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "ArianK16a",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8746471",
+                "xda_thread": "https://forum.xda-developers.com/mi-6/development/9-0-aospextended-rom-v6-0-alpha-t3842076"
+            }
+        ]
     }
-    
 ]
