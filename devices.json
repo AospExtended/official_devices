@@ -469,20 +469,6 @@
         ]
     },
     {
-        "name": "Galaxy S6/S6 Edge",
-        "brand": "Samsung",
-        "codename": "zerofltexx",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Vidhanth",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=5514501",
-                "xda_thread": "https://forum.xda-developers.com/galaxy-s6/orig-development/rom-aospextended-rom-v5-1-t3741378"
-            }
-        ]
-    },
-    {
         "name": "Le 2",
         "brand": "Leeco",
         "codename": "s2",
@@ -493,20 +479,6 @@
                 "maintainer_name": "Akash Mondal",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=9260323",
                 "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v5-1-t3744470"
-            }
-        ]
-    },
-    {
-        "name": "Android One 2nd",
-        "brand": "Google",
-        "codename": "seed",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Berkehan Kenan SEKBAN (Quicksilver)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7466529",
-                "xda_thread": ""
             }
         ]
     },
@@ -584,34 +556,6 @@
                 "maintainer_name": "Sushant Kumar",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=7554460",
                 "xda_thread": "https://forum.xda-developers.com/moto-e/development/rom-aospextended-rom-v5-3-t3765938"
-            }
-        ]
-    },
-    {
-        "name": "Galaxy S7",
-        "brand": "Samsung",
-        "codename": "herolte",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "schwabe93",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=4873016",
-                "xda_thread": ""
-            }
-        ]
-    },
-    {
-        "name": "Galaxy S7 Edge",
-        "brand": "Samsung",
-        "codename": "hero2lte",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "schwabe93",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=4873016",
-                "xda_thread": ""
             }
         ]
     },
@@ -716,20 +660,6 @@
         ]
     },
     {
-        "name": "Moto G5",
-        "brand": "Motorola",
-        "codename": "cedric",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Carlos Sanchez (Fedray)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6252172",
-                "xda_thread": "https://forum.xda-developers.com/g5/development/rom-aospextended-5-0-t3710925"
-            }
-        ]
-    },
-    {
         "name": "Vibe P1",
         "brand": "Lenovo",
         "codename": "passion",
@@ -754,20 +684,6 @@
                 "maintainer_name": "Arghya Chanda (arghyac35)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=8037603",
                 "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v5-4-t3774641"
-            }
-        ]
-    },
-    {
-        "name": "Xperia SP",
-        "brand": "Sony",
-        "codename": "huashan",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Aditya Vipin (AdiV1899)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=5824779",
-                "xda_thread": "https://forum.xda-developers.com/xperia-sp/development/rom-aospextended-rom-v4-3-t3627470"
             }
         ]
     },
@@ -838,20 +754,6 @@
                 "maintainer_name": "Atman Shah",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=8970650",
                 "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v5-5-t3798293"
-            }
-        ]
-    },
-    {
-        "name": "GSI for ARM64 A",
-        "brand": "Generic",
-        "codename": "treble_gsi",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Isaac Chen (Tingyi Chen)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7500669",
-                "xda_thread": "https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aospextended-rom-v5-5-t3797509"
             }
         ]
     },
@@ -1006,20 +908,6 @@
                 "maintainer_name": "Aayush Gupta (theimpulson)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
                 "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
-            }
-        ]
-    },
-    {
-        "name": "Moto E 2015 LTE",
-        "brand": "Motorola",
-        "codename": "surnia",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Aayush Gupta (theimpulson)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
-                "xda_thread": "https://forum.xda-developers.com/moto-e-2015/development/rom-aospextended-rom-v2-0-t3528360"
             }
         ]
     },
