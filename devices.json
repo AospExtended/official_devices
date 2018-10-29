@@ -133,9 +133,16 @@
             {
                 "version_code":"oreo",
                 "version_name":"Oreo",
-                "maintainer_name": "GtrCraft",
+                "maintainer_name": "Nick van Bokhorst (GtrCraft)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=5293805",
                 "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-aospextended-rom-v5-0-t3687007"
+            },
+            {
+               "version_code":"pie",
+               "version_name":"Pie",
+               "maintainer_name": "Nick van Bokhorst (GtrCraft)",
+               "maintainer_url": "https://forum.xda-developers.com/member.php?u=5293805",
+               "xda_thread": "https://forum.xda-developers.com/g5-plus/development/potter-aospextended-rom-v6-0-t3859963"
             }
         ]
     },
