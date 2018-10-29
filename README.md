@@ -1,4 +1,4 @@
-# AospExtended ROM
+# AospExtended OS
 ## Official devices application
 
 Devices repository: https://github.com/AospExtended-Devices
