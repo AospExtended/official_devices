@@ -887,7 +887,14 @@
                 "version_name":"Oreo",
                 "maintainer_name": "Sagar Makhar",
                 "maintainer_url": "https://github.com/sagarmakhar",
-                "xda_thread": ""
+                "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-aospextended-rom-v5-7-t3822961"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Sagar Makhar",
+                "maintainer_url": "https://github.com/sagarmakhar",
+                "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-aospextended-v6-0-t3842000"
             }
         ]
     },
