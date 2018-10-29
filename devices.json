@@ -721,8 +721,8 @@
         "codename": "cheeseburger",
         "supported_versions":[
             {
-                "version_code":"oreo",
-                "version_name":"Oreo",
+                "version_code":"pie",
+                "version_name":"Pie",
                 "maintainer_name": "drpradsms",
                 "Maintainer_url": "https://forum.xda-developers.com/member.php?u=4790166",
                 "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-v5-3-t3763133"
