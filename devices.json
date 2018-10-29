@@ -472,7 +472,15 @@
                 "maintainer_name": "Akash Mondal",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=9260323",
                 "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v5-1-t3744470"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Akash Mondal (Akash98Sky)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=9260323",
+                "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v6-0-t3841473"
             }
+
         ]
     },
     {
