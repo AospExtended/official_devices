@@ -49,7 +49,7 @@ Maintainers should upload their device trees on https://github.com/AospExtended-
 - [Gerrit Code Review](http://gerrit.aospextended.com/) 
 - [Documentation, Official Devices & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template/) 
 - [Apply for Offiical devices](https://github.com/AospExtended/official_devices) 
-- [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs)
+- [Device official builds & changelog](https://github.com/AospExtended-Devices/official_builds)
 - [Help us translate AospExtended ROM and bring it to the world!](http://translate.aospextended.com/)
 - [Our Blog](https://blog.aospextended.com/)
 - [Telegram Channel](https://telegram.me/aospextended/) 
@@ -60,4 +60,3 @@ Maintainers should upload their device trees on https://github.com/AospExtended-
 - [Gerrit Manual for AospExtended OS](http://gerrit.aospextended.com/Documentation/intro-user.html) 
 - [AospExtended Gallery](https://aospextended.imgur.com/) 
 - [Facebook page!](https://www.facebook.com/aospextended/) 
-
