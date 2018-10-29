@@ -44,7 +44,7 @@
     {
         "name": "Lenovo Tab3 8 Plus",
         "brand": "Lenovo",
-        "codename": "TB-8703",
+        "codename": "TB8703",
         "supported_versions":[
             {
                 "version_code":"oreo",
@@ -220,20 +220,6 @@
                 "maintainer_name": "Tirth Patel (thp@1997)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=7354828",
                 "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-aospextended-rom-v5-0-t3679746"
-            }
-        ]
-    },
-    {
-        "name": "Mi 3/4",
-        "brand": "Xiaomi",
-        "codename": "cancro",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Rizky Benggolo",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6331651",
-                "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-3/development/rom-aospextended-rom-v4-5-t3658884"
             }
         ]
     },
