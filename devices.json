@@ -79,8 +79,15 @@
                 "version_name":"Oreo",
                 "maintainer_name": "Shiva Teja (shivatejapeddi)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=6268432",
-                "xda_thread": "https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v4-3-progress-t3619109"
-            }
+                "xda_thread": "https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v5-4-t3778883"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Shiva Teja (shivatejapeddi)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6268432",
+                "xda_thread": "https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v6-0-t3835552"
+            }            
         ]
     },
     {
