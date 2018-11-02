@@ -1107,5 +1107,20 @@
                 "xda_thread": "https://forum.xda-developers.com/galaxy-note-3/development/rom-aospextended-rom-v6-0-t3855841"
             }
         ]
+    },
+            {
+        "name": "A2017 G Axon7",
+        "brand": "ZTE",
+        "codename": "Axon7",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "kevte89,
+                "maintainer_url": "https://github.com/kevte89",
+                "xda_thread": ""
+            }
+        ]
     }
+]
 ]
