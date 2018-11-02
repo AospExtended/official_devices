@@ -1107,5 +1107,19 @@
                 "xda_thread": "https://forum.xda-developers.com/galaxy-note-3/development/rom-aospextended-rom-v6-0-t3855841"
             }
         ]
+    },
+    {
+        "name": "Pixel 2 XL",
+        "brand": "Google",
+        "codename": "taimen",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Steve Provancal (slothdabski)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6864870",
+                "xda_thread": " "
+            }
+        ]
     }
 ]
