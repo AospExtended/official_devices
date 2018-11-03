@@ -1121,5 +1121,19 @@
                 "xda_thread": " "
             }
         ]
+    },
+    {
+        "name": "A2017 G Axon7",
+        "brand": "ZTE",
+        "codename": "Axon7",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "kevte89",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8843336",
+                "xda_thread": ""
+            }
+        ]
     }
 ]
