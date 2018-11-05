@@ -381,6 +381,13 @@
                 "maintainer_name":"Karthick C (karthick111)",
                 "maintainer_url":"https://forum.xda-developers.com/member.php?u=5786839",
                 "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-title-aospextended-rom-v5-8-t3848973"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name":"Karthick C (karthick111)",
+                "maintainer_url":"https://forum.xda-developers.com/member.php?u=5786839",
+                "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-aospextended-rom-v6-0-poco-f1-t3852335"
             }
         ]
     },
