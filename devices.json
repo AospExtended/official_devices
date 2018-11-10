@@ -164,6 +164,13 @@
                 "maintainer_name": "Gaurav Singh (Allstargaurav)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=7751333",
                 "xda_thread": "https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v5-0-t3692684"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Gaurav Singh (Allstargaurav)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7751333",
+                "xda_thread": "https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v6-0-t3865312"
             }
         ]
     },
