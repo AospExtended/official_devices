@@ -589,7 +589,7 @@
         ]
     },
     {
-        "name": "Redmi 4A",
+        "name": "Redmi 4A/5A",
         "brand": "Xiaomi",
         "codename": "rolex",
         "supported_versions":[
@@ -599,6 +599,13 @@
                 "maintainer_name": "Erik Garcia (ECr34T1v3)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=6364365",
                 "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/rom-aospextended-rom-v5-4-redmi-4a-t3784760"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Erik Garcia (ECr34T1v3)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6364365",
+                "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/rom-aospextended-rom-v6-0-redmi-4a-5a-t3867054"
             }
         ]
     },
