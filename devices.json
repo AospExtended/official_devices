@@ -1219,5 +1219,19 @@
                 "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/bullhead-aospextended-v6-0-t3866734"
             }
         ]
+    },
+    {
+        "name": "GSI",
+        "brand": "Generic",
+        "codename": "treble_gsi",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "EnesSastim",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7730768",
+                "xda_thread": ""
+            }
+        ]
     }
 ]
