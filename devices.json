@@ -1251,21 +1251,7 @@
     {
         "name": "ZenFone 3",
         "brand": "Asus",
-        "codename": "ZE520KL",
-        "supported_versions":[
-            {
-                "version_code":"pie",
-                "version_name":"Pie",
-                "maintainer_name": "Felipe Silva (lipebs)",
-                "maintainer_url": "https://github.com/lipebs",
-                "xda_thread": "https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701"
-            }
-        ]
-    },
-    {
-        "name": "ZenFone 3",
-        "brand": "Asus",
-        "codename": "ZE552KL",
+        "codename": "zenfone3",
         "supported_versions":[
             {
                 "version_code":"pie",
