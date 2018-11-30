@@ -1279,7 +1279,7 @@
     {
         "name": "Nexus 6P",
         "brand": "Google",
-        "codename": "Angler",
+        "codename": "angler",
         "supported_versions":[
             {
                 "version_code":"pie",
