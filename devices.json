@@ -266,6 +266,20 @@
         ]
     },
     {
+        "name": "Mi A2",
+        "brand": "Xiaomi",
+        "codename": "jasmine",
+        "supported_versions":[
+            {
+                "version_code":"oreo",
+                "version_name":"Oreo",
+                "maintainer_name": "Isaac Chen(TingyiChen), DMF (Fatesay)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7500669",
+                "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-aospextended-rom-v5-8-t3875076"
+            },
+        ]
+    },
+    {
         "name": "Redmi Note 3",
         "brand": "Xiaomi",
         "codename": "kenzo",
@@ -338,7 +352,7 @@
                 "version_name":"Oreo",
                 "maintainer_name": "DMF(Fatesay), Isaac Chen(TingyiChen)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=8578210",
-                "xda_thread": ""
+                "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-aospextended-rom-v5-8-t3875083"
             }
         ]
     },
