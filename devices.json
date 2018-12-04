@@ -364,7 +364,7 @@
         ]
     },
     {
-        "name": "MI 6X",
+        "name": "Mi 6X",
         "brand": "Xiaomi",
         "codename": "wayne",
         "supported_versions":[
@@ -374,6 +374,12 @@
                 "maintainer_name": "DMF(Fatesay), Isaac Chen(TingyiChen)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=8578210",
                 "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-aospextended-rom-v5-8-t3875083"
+            },
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "DMF(Fatesay), Isaac Chen(TingyiChen)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8578210",
+                "xda_thread": ""
             }
         ]
     },
