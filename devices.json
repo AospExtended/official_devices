@@ -311,6 +311,13 @@
                 "maintainer_name": "Amol Amrit",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=5615686",
                 "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v5-4-t3786146"
+            },
+            {
+               "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Amol Amrit",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=5615686",
+                "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v6-0-t3878333"
             }
         ]
     },
