@@ -1289,5 +1289,19 @@
                 "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-rom-v6-0-t3873592"
             }
         ]
+    },
+    {
+        "name": "Redmi 5",
+        "brand": "Xiaomi",
+        "codename": "rosy",
+        "supported_versions":[
+            {
+                "version_code":"oreo",
+                "version_name":"Oreo",
+                "maintainer_name": "Shreejoy Dash",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
+                "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-aospextended-rom-v5-8-t387$
+            }
+        ]
     }
 ]
