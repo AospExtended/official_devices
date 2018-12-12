@@ -311,6 +311,13 @@
                 "maintainer_name": "Amol Amrit",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=5615686",
                 "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v5-4-t3786146"
+            },
+            {
+               "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Amol Amrit",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=5615686",
+                "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-aospextended-rom-v6-0-t3878333"
             }
         ]
     },
@@ -339,7 +346,7 @@
                 "maintainer_name": "Henrique Pereira (Hlcpereira)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
                 "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/8-1-0r11-rom-aospextended-v5-2-2018-02-t3746579"
-            }
+            },
         ]
     },
     {
