@@ -599,7 +599,15 @@
                 "maintainer_name": "Tanmay Gupta, Sairam (sairam60)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=7937159",
                 "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v5-1-alpha-t3764128"
-            }
+            },
+          {
+                "version_code":"pie",
+                "version_name":"pie",
+                "maintainer_name": "Tanmay Gupta, Sairam (sairam60)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7937159",
+                "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v5-1-alpha-t3764128"
+            }  
+            
         ]
     },
     {
