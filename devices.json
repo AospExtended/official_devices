@@ -585,6 +585,13 @@
                 "maintainer_name": "Isaac Chen (Tingyi Chen), DMF (Fatesay)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=7500669",
                 "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-5-t3657793"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "PS217(psdashing)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7172096",
+                "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-aospextended-rom-v6-0-t3860268"
             }
         ]
     },
