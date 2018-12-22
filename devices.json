@@ -1139,6 +1139,13 @@
                 "maintainer_name": "Sarthak Acharya (sakindia123)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=4060527",
                 "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-aospextended-rom-v5-7-t3825642"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Akash Srivastava (markakash)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=5970333",
+                "xda_thread": ""
             }
         ]
     },
@@ -1335,20 +1342,6 @@
                 "maintainer_name": "AmyClaraRose (minidude2012)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=5545311",
                 "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-rom-v6-0-t3873592"
-            }
-        ]
-    },
-    {
-        "name": "6",
-        "brand": "Oneplus",
-        "codename": "enchilada",
-        "supported_versions":[
-            {
-                "version_code":"pie",
-                "version_name":"Pie",
-                "maintainer_name": "Akash Srivastava (markakash)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=5970333",
-                "xda_thread": ""
             }
         ]
     }
