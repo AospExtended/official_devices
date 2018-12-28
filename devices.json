@@ -143,6 +143,13 @@
                 "maintainer_name": "Keertesh",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=7686545",
                 "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-aospextended-rom-v5-1-t3737099"
+	    },
+            {
+               "version_code":"pie",
+               "version_name":"Pie",
+               "maintainer_name": "Jorge Lucas (jorgelucasd00)",
+               "maintainer_url": "https://forum.xda-developers.com/member.php?u=9604887",
+               "xda_thread": ""
             }
         ]
     },
