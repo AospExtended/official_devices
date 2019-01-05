@@ -1025,27 +1025,6 @@
     {
         "name": "G2",
         "brand": "LG",
-        "codename": "d803",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Alessandro Astone (YoDevil)",
-                "maintainer_url": "https://github.com/YoDevil",
-                "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v5-6-t3802329"
-            },
-            {
-                "version_code":"pie",
-                "version_name":"Pie",
-                "maintainer_name": "Alessandro Astone (YoDevil)",
-                "maintainer_url": "https://github.com/YoDevil",
-                "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-aospextended-rom-v6-0-t3843049"
-            }
-        ]
-    },
-    {
-        "name": "G2",
-        "brand": "LG",
         "codename": "ls980",
         "supported_versions":[
             {
