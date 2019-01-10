@@ -1323,5 +1323,19 @@
                 "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-rom-v6-0-t3873592"
             }
         ]
+     },
+    {
+      "name":"Moto G5",
+      "brand":"Motorola",
+      "codename":"cedric",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Zilberto Junior (ZJRDroid)",
+            "maintainer_url":"https://t.me/ZJRDroid",
+            "xda_thread": "https://forum.xda-developers.com/g5/development/rom-aospextended-rom-v6-1-t3888615"
+            }
+        ]
     }
 ]
