@@ -1289,5 +1289,19 @@
                 "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-rom-v6-0-t3873592"
             }
         ]
-    }
+    },
+{
+       "name":"Redmi Note 6 Pro",
+       "brand":"Xiaomi",
+       "codename":"tulip",
+       "supported_versions":[
+           {
+               "version_code":"pie",
+               "version_name":"pie",
+	       "maintainer_name":"Aryan Gupta",
+	       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7515368",
+	       "xda_thread":""
+          }
+       ]
+   }
 ]
