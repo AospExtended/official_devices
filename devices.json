@@ -1353,3 +1353,18 @@
         ]
     }
 ]
+{
+        "name": "Redmi 4 Prime",
+        "brand": "Xiaomi",
+        "codename": "markw",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "DarkAngelGR",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8065843",
+                "xda_thread": ""
+            }
+        ]
+    }
+]
