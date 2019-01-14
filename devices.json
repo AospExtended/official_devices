@@ -1094,48 +1094,6 @@
         ]
     },
     {
-        "name": "Zenfone 2 Laser/Selfie",
-        "brand": "Asus",
-        "codename": "Z00T",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Aayush Gupta (theimpulson)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
-                "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
-            },
-            {
-                "version_code":"pie",
-                "version_name":"Pie",
-                "maintainer_name": "Aayush Gupta (theimpulson)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
-                "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v6-0-t3834642"
-            }
-        ]
-    },
-    {
-        "name": "Zenfone 2 Laser",
-        "brand": "Asus",
-        "codename": "Z00L",
-        "supported_versions":[
-            {
-                "version_code":"oreo",
-                "version_name":"Oreo",
-                "maintainer_name": "Aayush Gupta (theimpulson)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
-                "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v5-0-t3682935"
-            },
-            {
-                "version_code":"pie",
-                "version_name":"Pie",
-                "maintainer_name": "Aayush Gupta (theimpulson)",
-                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
-                "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v6-0-t3834642"
-            }
-        ]
-    },
-    {
         "name": "6",
         "brand": "OnePlus",
         "codename": "enchilada",
