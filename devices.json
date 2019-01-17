@@ -610,14 +610,14 @@
         ]
     },
     {
-        "name": "Redmi 4(X)",
+        "name": "Redmi 4X",
         "brand": "Xiaomi",
         "codename": "santoni",
         "supported_versions":[
             {
                 "version_code":"pie",
                 "version_name":"Pie",
-                "maintainer_name": "PS217(psdashing)",
+                "maintainer_name": "PS217 (psdashing)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=7172096",
                 "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-aospextended-rom-v6-0-t3860268"
             }
