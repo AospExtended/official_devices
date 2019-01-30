@@ -7,10 +7,10 @@ Few things you should know before getting started:
 
 ### 1. Hosting
 
-Our files are hosted on [SourceForge](Sourceforge.net), you will receive access when you join the team.
+Our files are hosted on [SourceForge](https://sourceforge.net/projects/aospextended-rom/), you will receive access when you join the team.
 
 ### 2. Over-the-air (OTA) updates
-Our system is automatic, you should not worry about updating some script, just upload the new build to [SourceForge](Sourceforge.net) and send a pull request with the changelog and also edit your device JSON file (**builds/your_device_codename.json**) in [this](https://github.com/AospExtended-Devices/official_builds) repository. Please read the ReadMe file on that repo.
+Our system is automatic, you should not worry about updating some script, just upload the new build to [SourceForge](https://sourceforge.net/projects/aospextended-rom/) and send a pull request with the changelog and also edit your device JSON file (**builds/your_device_codename.json**) in [this](https://github.com/AospExtended-Devices/official_builds) repository. Please read the ReadMe file on that repo.
 
 Eg: Moto G 2015 is called **osprey**, so the device JSON file is **builds/osprey.json**
 
