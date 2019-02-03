@@ -126,6 +126,20 @@
         ]
     },
     {
+        "name": "Moto G4/Plus",
+        "brand": "Motorola",
+        "codename": "athene",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Vinesh Iyappan (theHari08)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=7714521",
+                "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v6-1-moto-g4-g4-t3882129"
+            }
+        ]
+    },
+    {
         "name": "Moto G5S Plus",
         "brand": "Motorola",
         "codename": "sanders",
