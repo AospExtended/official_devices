@@ -1,4 +1,18 @@
-[
+[   
+    {
+        "name": "MI 8lite",
+        "brand": "Xiaomi",
+        "codename": "platina",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "GeorgeYuan,rsyhan",
+                "maintainer_url": "https://forhttps://forum.xda-developers.com/member.php?u=9597221um.xda-developers.com/member.php?u=8578210",
+                "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/unofficialpieromaospextended-v6-2-t3901524"
+            }
+        ]
+    },
     {
         "name": "Nexus 5",
         "brand": "Google",
