@@ -859,6 +859,13 @@
                 "maintainer_name": "Arghya Chanda (arghyac35)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=8037603",
                 "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v5-4-t3774641"
+            },
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Darshan M. (darshan1205)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6620830",
+                "xda_thread": ""
             }
         ]
     },
