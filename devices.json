@@ -1289,5 +1289,19 @@
                 "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-rom-v6-0-t3873592"
             }
         ]
+    },
+    {
+        "name": "MI 8 Lite",
+        "brand": "Xiaomi",
+        "codename": "platina",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "rsyhan (Yuhan), GeorgeYuan233 (Yuan)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=9694624",
+                "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-aospextended-rom-v6-3-mi-8-lite-t3905302"
+            }
+        ]
     }
 ]
