@@ -14,6 +14,20 @@
       ]
    },
    {
+      "name":"Honor View 10",
+      "brand":"Huawei",
+      "codename":"berkeley",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Nick van Bokhorst (GtrCraft)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5293805",
+            "xda_thread":"https://forum.xda-developers.com/honor-view-10/development/rom-aospextended-rom-v6-1-t3882712"
+         }
+      ]
+   },
+   {
       "name":"MI 6X",
       "brand":"Xiaomi",
       "codename":"wayne",
