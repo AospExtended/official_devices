@@ -784,7 +784,7 @@
                 "maintainer_url":"https://forum.xda-developers.com/member.php?u=7796065",
                 "xda_thread":"https://forum.xda-developers.com/xperia-xa2/development/gapps-aospextended-rom-v5-6-t3812370"
            }
-       ]
+        ]
     },
     {
         "name": "Galaxy J7 Prime",
@@ -797,7 +797,14 @@
                 "maintainer_name": "Douglas Gomes (Dougl@s123)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=5535206",
                 "xda_thread": "https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-aospextended-rom-v5-5-t3789882"
-            }
+    },
+    {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Douglas Gomes",
+            "Maintainer_url":"https://forum.xda-developers.com/member.php?u=5535206",
+            "xda_thread":"https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-aospextended-rom-v6-3-t3910900"
+           }
         ]
     },
     {
