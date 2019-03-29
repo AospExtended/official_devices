@@ -296,14 +296,21 @@
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Prajapati PRAViN (Harvey_Spectar), ishubhamsingh",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5566914",
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v4-6-t3757436"
          },
          {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"ishubhamsingh | Agrd1129",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5566914",
+            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v6-0-t3863892"
+         },
+         {
+            "version_code":"pie_gapps",
+            "version_name":"Pie with Gapps",
+            "maintainer_name":"ishubhamsingh | Agrd1129",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5566914",
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v6-0-t3863892"
          }
       ]
