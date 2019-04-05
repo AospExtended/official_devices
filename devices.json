@@ -981,9 +981,16 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Atman Shah (twistloop)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8970650",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/aospextended-rom-v6-0-t3866161"
+            "maintainer_name":"Arghya Chanda (arghyac35)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8037603",
+            "xda_thread":""
+         },
+         {
+            "version_code":"pie_gapps",
+            "version_name":"Pie with Gapps",
+            "maintainer_name":"Arghya Chanda (arghyac35)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8037603",
+            "xda_thread":""
          }
       ]
    },
