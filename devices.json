@@ -1023,6 +1023,20 @@
       ]
    },
    {
+      "name": "Redmi Note 6 Pro",
+      "brand": "Xiaomi",
+      "codename": "tulip",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name": "Naomi Calabretta (AryToNeX)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6094651",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-aospextended-rom-v6-4-t3912527"
+         }
+      ]
+   },
+   {
       "name":"Mi Max 2",
       "brand":"Xiaomi",
       "codename":"oxygen",
