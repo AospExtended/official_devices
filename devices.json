@@ -459,6 +459,13 @@
             "maintainer_name":"Vinesh Iyappan (theHari08)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7714521",
             "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-aospextended-rom-v6-2-t3894356"
+	 },
+         {
+            "version_code":"pie_gapps",
+            "version_name":"Pie with GApps",
+            "maintainer_name":"Vinesh Iyappan (theHari08)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7714521",
+            "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-aospextended-rom-v6-2-t3894356"
          }
       ]
    },
