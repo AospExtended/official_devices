@@ -641,6 +641,13 @@
             "maintainer_name":"Akash Mondal (Akash98Sky)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9260323",
             "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v6-0-t3841473"
+         },
+	 {
+            "version_code":"pie_gapps",
+            "version_name":"Pie with Gapps",
+            "maintainer_name":"Akash Mondal (Akash98Sky)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9260323",
+            "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-aospextended-rom-v6-0-t3841473"
          }
       ]
    },
