@@ -627,6 +627,13 @@
                "maintainer_name": "Amulya Bhardwaj (AmulyaX)",
                "maintainer_url": "https://forum.xda-developers.com/member.php?u=6409818",
                "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-v6-0-t3852954"
+            },
+            {
+               "version_code":"pie_gapps",
+               "version_name":"Pie with GApps",
+               "maintainer_name": "Amulya Bhardwaj (AmulyaX)",
+               "maintainer_url": "https://forum.xda-developers.com/member.php?u=6409818",
+               "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-v6-0-t3852954"
             }
         ]
     },
