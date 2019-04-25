@@ -136,6 +136,20 @@
             "maintainer_name":"ishubhamsingh",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5566914",
             "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
+         },
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"ishubhamsingh",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5566914",
+            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
+         },
+         {
+            "version_code":"pie_gapps",
+            "version_name":"Pie with Gapps",
+            "maintainer_name":"ishubhamsingh",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5566914",
+            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997"
          }
       ]
    },
