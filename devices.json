@@ -1481,15 +1481,8 @@
    {
       "name":"6.1",
       "brand":"Nokia",
-      "codename":"PL2",
+      "codename":"plate2",
       "supported_versions":[
-         {
-            "version_code":"pie_vendor",
-            "version_name":"Pie Vendor",
-            "maintainer_name":"Aayush Gupta (theimpulson)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6042178",
-            "xda_thread":"https://forum.xda-developers.com/nokia-6-2018/development/rom-aospextended-rom-v6-2-t3896258"
-         },
          {
             "version_code":"pie",
             "version_name":"Pie",
