@@ -344,6 +344,20 @@
       ]
    },
    {
+      "name":"Mi A2",
+      "brand":"Xiaomi",
+      "codename":"jasmine_sprout",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Fullbustah",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8490867",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-aospextended-rom-v6-1-t3884898"
+         }
+      ]
+   },
+   {
       "name":"Redmi Note 3",
       "brand":"Xiaomi",
       "codename":"kenzo",
