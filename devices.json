@@ -1451,7 +1451,14 @@
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Felipe Silva (lipebs)",
-            "maintainer_url":"https://github.com/lipebs",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9844127",
+            "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701"
+         },
+         {
+            "version_code":"pie_gapps",
+            "version_name":"Pie with GApps",
+            "maintainer_name":"Felipe Silva (lipebs)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9844127",
             "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701"
          }
       ]
