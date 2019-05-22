@@ -1547,5 +1547,19 @@
             "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v6-2-t3899607"
          }
       ]
+   },
+   {
+      "name":"Redmi Note 7 Pro",
+      "brand":"Xiaomi",
+      "codename":"violet",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Atman",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8970650",
+            "xda_thread":""
+         }
+      ]
    }
 ]
