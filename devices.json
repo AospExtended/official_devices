@@ -280,6 +280,27 @@
         ]
     },
     {
+        "name": "Redmi 5",
+        "brand": "Xiaomi",
+        "codename": "rosy",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Shreejoy Dash",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
+                "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-aospextended-rom-v6-4-t3922237"
+            },
+            {
+               "version_code":"pie",
+               "version_name":"Pie",
+               "maintainer_name": "Shreejoy Dash",
+               "maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
+               "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-aospextended-rom-v6-4-t3922237"
+            }
+        ]
+    },
+    {
         "name": "Redmi Note 3",
         "brand": "Xiaomi",
         "codename": "kenzo",
