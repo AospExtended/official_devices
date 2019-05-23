@@ -1471,28 +1471,6 @@
       ]
    },
    {
-      "name":"ZenFone Max",
-      "brand":"Asus",
-      "codename":"Z010D",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Sakil Mondal (SakilMondal)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6151980",
-            "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max/development/rom-aospextended-rom-v6-0-t3869530"
-		 },
-         {
-            "version_code":"pie_gapps",
-            "version_name":"Pie with gapps",
-            "maintainer_name":"Sakil Mondal (SakilMondal)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6151980",
-            "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max/development/rom-aospextended-rom-v6-0-t3869530"
-
-         }
-      ]
-   },
-   {
       "name":"Nexus 6P",
       "brand":"Google",
       "codename":"angler",
