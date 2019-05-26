@@ -1539,5 +1539,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Redmi 5",
+      "brand":"Xiaomi",
+      "codename":"rosy",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Kelvin [xDoge]",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8298415",
+            "xda_thread":"https://forum.xda-developers.com/redmi-5/development/rom-aospextended-rom-v6-2-t3890201"
+         }
+      ]
    }
 ]
