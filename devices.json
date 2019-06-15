@@ -175,20 +175,6 @@
       ]
    },
    {
-      "name":"Moto G4/Plus",
-      "brand":"Motorola",
-      "codename":"athene",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Vinesh Iyappan (theHari08)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7714521",
-            "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-aospextended-rom-v6-1-moto-g4-g4-t3882129"
-         }
-      ]
-   },
-   {
       "name":"Moto G5S Plus",
       "brand":"Motorola",
       "codename":"sanders",
@@ -654,13 +640,6 @@
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
             "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-aospextended-rom-v5-2-t3749897"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Shaik Jaleel (iamsj7)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-aospextended-rom-v6-0-t3844435"
          }
       ]
    },
@@ -763,20 +742,6 @@
       ]
    },
    {
-      "name":"Redmi 5A",
-      "brand":"Xiaomi",
-      "codename":"riva",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Steve Mathew Joy",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9101947",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-aospextended-rom-v6-5-t3934137"
-         }
-      ]
-   },
-   {
       "name":"Redmi 5 Plus/Note 5",
       "brand":"Xiaomi",
       "codename":"vince",
@@ -795,7 +760,7 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6409818",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-v6-0-t3852954"
          },
-         { 
+         {
             "version_code":"pie_gapps",
             "version_name":"Pie with GApps",
             "maintainer_name":"Amulya Bhardwaj (AmulyaX)",
@@ -843,13 +808,6 @@
             "maintainer_name":"Brunowp8, IKGapirov",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Brunowp8",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v6-1-t3878789"
          }
       ]
    },
@@ -864,13 +822,6 @@
             "maintainer_name":"Brunowp8, IKGapirov",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Brunowp8",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v6-1-t3878789"
          }
       ]
    },
@@ -885,13 +836,6 @@
             "maintainer_name":"Brunowp8, IKGapirov",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Brunowp8",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v6-1-t3878789"
          }
       ]
    },
@@ -906,13 +850,6 @@
             "maintainer_name":"Brunowp8, IKGapirov",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Brunowp8",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v6-1-t3878789"
          }
       ]
    },
@@ -927,13 +864,6 @@
             "maintainer_name":"Brunowp8, IKGapirov",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Brunowp8",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v6-1-t3878789"
          }
       ]
    },
@@ -948,13 +878,6 @@
             "maintainer_name":"Brunowp8, IKGapirov",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7759939",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v5-4-t3779910"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Brunowp8",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7722532",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-aospextended-rom-v6-1-t3878789"
          }
       ]
    },
@@ -1025,13 +948,6 @@
             "maintainer_name":"Douglas Gomes (Dougl@s123)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5535206",
             "xda_thread":"https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-aospextended-rom-v5-5-t3789882"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Douglas Gomes",
-            "Maintainer_url":"https://forum.xda-developers.com/member.php?u=5535206",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-aospextended-rom-v6-3-t3910900"
          }
       ]
    },
@@ -1043,13 +959,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "maintainer_name":"drpradsms",
-            "Maintainer_url":"https://forum.xda-developers.com/member.php?u=4790166",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-v5-3-t3763133"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
             "maintainer_name":"drpradsms",
             "Maintainer_url":"https://forum.xda-developers.com/member.php?u=4790166",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-v5-3-t3763133"
@@ -1351,62 +1260,6 @@
       ]
    },
    {
-      "name":"Galaxy Note 3 LTE",
-      "brand":"Samsung",
-      "codename":"hlte",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Joshua Primero (jprimero15)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-aospextended-rom-v6-0-t3855841"
-         }
-      ]
-   },
-   {
-      "name":"Galaxy Note 3 LTE China",
-      "brand":"Samsung",
-      "codename":"hltechn",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Joshua Primero (jprimero15)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-aospextended-rom-v6-0-t3855841"
-         }
-      ]
-   },
-   {
-      "name":"Galaxy Note 3 LTE Korea",
-      "brand":"Samsung",
-      "codename":"hltekor",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Joshua Primero (jprimero15)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-aospextended-rom-v6-0-t3855841"
-         }
-      ]
-   },
-   {
-      "name":"Galaxy Note 3 LTE T-Mobile",
-      "brand":"Samsung",
-      "codename":"hltetmo",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Joshua Primero (jprimero15)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-aospextended-rom-v6-0-t3855841"
-         }
-      ]
-   },
-   {
       "name":"Pixel 2 XL",
       "brand":"Google",
       "codename":"taimen",
@@ -1459,41 +1312,6 @@
             "maintainer_name":"EnesSastim",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7730768",
             "xda_thread":""
-         }
-      ]
-   },
-   {
-      "name":"ZenFone 3",
-      "brand":"Asus",
-      "codename":"zenfone3",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Felipe Silva (lipebs)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9844127",
-            "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701"
-         },
-         {
-            "version_code":"pie_gapps",
-            "version_name":"Pie with GApps",
-            "maintainer_name":"Felipe Silva (lipebs)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9844127",
-            "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701"
-         }
-      ]
-   },
-   {
-      "name":"Nexus 6P",
-      "brand":"Google",
-      "codename":"angler",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"AmyClaraRose (minidude2012)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5545311",
-            "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-rom-v6-0-t3873592"
          }
       ]
    },
