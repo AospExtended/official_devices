@@ -1447,6 +1447,27 @@
             "xda_thread":"https://forum.xda-developers.com/redmi-5/development/rom-aospextended-rom-v6-2-t3890201"
          }
       ]
+   },
+   {
+      "name":"Redmi Note 7/7S",
+      "brand":"Xiaomi",
+      "codename":"lavender",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name": "Amulya Bhardwaj (AmulyaX)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6409818",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-aospextended-v6-6-t3942193"
+         },
+         {
+            "version_code":"pie_gapps",
+            "version_name":"Pie with Gapps",
+            "maintainer_name": "Amulya Bhardwaj (AmulyaX)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6409818",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-aospextended-v6-6-t3942193"
+         }
+      ]
    }
 ]
 
