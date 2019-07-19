@@ -802,7 +802,7 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6409818",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-v6-0-t3852954"
          },
-         { 
+         {
             "version_code":"pie_gapps",
             "version_name":"Pie with GApps",
             "maintainer_name":"Amulya Bhardwaj (AmulyaX)",
@@ -1454,6 +1454,19 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-aospextended-v6-6-t3942193"
          }
       ]
+   },
+   {
+      "name":"Oneplus 6T",
+      "brand":"Oneplus",
+      "codename":"fajita",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Alexander Gemsa (schwabe93)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4873016",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-6t/development/rom-aospextended-rom-v6-4-fp-fixed-t3919718"
+         }
+      ]
    }
 ]
-
