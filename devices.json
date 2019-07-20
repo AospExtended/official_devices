@@ -1468,5 +1468,19 @@
             "xda_thread":"https://forum.xda-developers.com/oneplus-6t/development/rom-aospextended-rom-v6-4-fp-fixed-t3919718"
          }
       ]
+   },
+   {
+      "name":"Mi 8 Lite",
+      "brand":"Xiaomi",
+      "codename":"platina",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Rique Barros (ricksanchez777)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6728323",
+            "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-aospextended-rom-v6-5-t3936193"
+         }
+      ]
    }
 ]
