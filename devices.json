@@ -203,27 +203,6 @@
       ]
    },
    {
-      "name":"Moto G5S Plus",
-      "brand":"Motorola",
-      "codename":"sanders",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "maintainer_name":"Keertesh",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
-            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-aospextended-rom-v5-1-t3737099"
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Rajesh Kumbhakar (Rajssss)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7176262",
-            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-aospextended-v6-4-t3924064"
-         }
-      ]
-   },
-   {
       "name":"Moto G5 Plus",
       "brand":"Motorola",
       "codename":"potter",
