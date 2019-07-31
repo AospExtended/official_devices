@@ -1461,5 +1461,19 @@
             "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-aospextended-rom-v6-5-t3936193"
          }
       ]
+   },
+   {
+      "name":"Vibe K5/K5 Plus",
+      "brand":"Lenovo",
+      "codename":"A6020",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hrutvik Jagtap (hsj51)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8506258",
+            "xda_thread":""
+         }
+      ]
    }
 ]
