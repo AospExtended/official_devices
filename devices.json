@@ -1391,5 +1391,19 @@
             "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-aospextended-rom-v6-5-t3936193"
          }
       ]
+   },
+   {
+      "name":"Moto G5S Plus",
+      "brand":"Motorola",
+      "codename":"sanders",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"jorg3lucas",
+            "maintainer_url":"https://t.me/jorgelucas",
+            "xda_thread":""
+         }
+      ]
    }
 ]
