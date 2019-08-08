@@ -1405,5 +1405,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Redmi Note 7 Pro",
+      "brand":"Xiaomi",
+      "codename":"violet",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Yashpal Joshi(officialyash007),VenkatesH(Venkie1065)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9993325",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-aospextended-rom-violet-t3955384"
+         }
+      ]
    }
 ]
