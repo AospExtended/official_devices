@@ -1193,16 +1193,16 @@
         ]
     },
     {
-        "name": "Pixel 2 XL",
+        "name": "Pixel 3 XL",
         "brand": "Google",
-        "codename": "taimen",
+        "codename": "crosshatch",
         "supported_versions":[
             {
                 "version_code":"pie",
                 "version_name":"Pie",
                 "maintainer_name": "Steve Provancal (slothdabski)",
                 "maintainer_url": "https://forum.xda-developers.com/member.php?u=6864870",
-                "xda_thread": "https://forum.xda-developers.com/pixel-2-xl/development/rom-aospextended-rom-6-0-t3862376/"
+                "xda_thread": "https://forum.xda-developers.com/pixel-3-xl/development/rom-aospextended-rom-v6-7-t3960339/"
             }
         ]
     },
