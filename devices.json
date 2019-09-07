@@ -1289,5 +1289,19 @@
                 "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-aospextended-rom-v6-0-t3873592"
             }
         ]
+    },
+        {
+        "name": "Moto X 2014",
+        "brand": "Motorola",
+        "codename": "Victara",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Jeferson Oliveira (jro1979oliver)",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8863813",
+                "xda_thread": "https://forum.xda-developers.com/moto-x-2014/development/rom-aosp-extended-6-5-moto-x2-2014-t3926810"
+            }
+        ]
     }
 ]
