@@ -247,7 +247,7 @@
    {
       "name": "Moto X 2014",
       "brand": "Motorola",
-      "codename": "Victara",
+      "codename": "victara",
       "supported_versions":[
          {
             "version_code":"pie",
