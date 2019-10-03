@@ -1426,8 +1426,8 @@
       "codename":"PL2",
       "supported_versions":[
          {
-            "version_code":"q",
-            "version_name":"Q",
+            "version_code":"q_gapps",
+            "version_name":"Ten with GAPPS",
             "maintainer_name":"Aayush Gupta (theimpulson)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6042178",
             "xda_thread":"https://forum.xda-developers.com/nokia-6-2018/development/rom-aospextended-rom-v7-0-t3974509"
