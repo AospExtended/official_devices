@@ -70,6 +70,20 @@
       ]
    },
    {
+      "name":"Moto G7",
+      "brand":"Motorola",
+      "codename":"river",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Barry Allen (@F1a5H)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
+            "xda_thread":"https://forum.xda-developers.com/moto-g7/development/unofficial-aospextended-rom-v6-7-t4008067"
+         }
+      ]
+   },
+   {
       "name":"Max2",
       "brand":"Leeco",
       "codename":"x2",
