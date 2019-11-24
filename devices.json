@@ -84,6 +84,20 @@
       ]
    },
    {
+      "name":"Moto G7 Power",
+      "brand":"Motorola",
+      "codename":"ocean",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Barry Allen (@F1a5H), Jhon Diaz (@Electimon)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
+            "xda_thread":"https://forum.xda-developers.com/g7-power/development/rom-aospextended-rom-v6-7-moto-g7-power-t4009005"
+         }
+      ]
+   },
+   {
       "name":"Max2",
       "brand":"Leeco",
       "codename":"x2",
