@@ -110,6 +110,27 @@
       ]
    },
    {
+      "name":"Moto G7",
+      "brand":"Motorola",
+      "codename":"ocean",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Barry Allen (@F1a5H)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
+            "xda_thread":"https://forum.xda-developers.com/g7-power/development/rom-aospextended-rom-v7-1-moto-g7-power-t4086835"
+         },
+         {
+            "version_code":"q_gapps",
+            "version_name":"Ten with GApps",
+            "maintainer_name":"Barry Allen (@F1a5H)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
+            "xda_thread":"https://forum.xda-developers.com/g7-power/development/rom-aospextended-rom-v7-1-moto-g7-power-t4086835"
+         }
+      ]
+   },
+   {
       "name":"Max2",
       "brand":"Leeco",
       "codename":"x2",
