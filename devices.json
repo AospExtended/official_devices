@@ -88,14 +88,16 @@
             "version_name":"Pie",
             "maintainer_name":"Shiva Teja (shivatejapeddi)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
-            "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v6-0-t3835552"
+            "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v6-0-t3835552",
+            "is_deprecated": true
          },
          {
             "version_code":"pie_gapps",
             "version_name":"Pie with gapps",
             "maintainer_name":"Shiva Teja (shivatejapeddi)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
-            "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v6-0-t3835552"
+            "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-aospextended-rom-v6-0-t3835552",
+            "is_deprecated": true
          }
       ]
    },
@@ -239,14 +241,16 @@
             "version_name":"Pie",
             "maintainer_name":"Fullbustah",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8490867",
-            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-aospextended-rom-v6-1-t3884898"
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-aospextended-rom-v6-1-t3884898",
+            "is_deprecated": true
          },
          {
             "version_code":"pie_gapps",
             "version_name":"Pie with Gapps",
             "maintainer_name":"Fullbustah",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8490867",
-            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-aospextended-rom-v6-1-t3884898"
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-aospextended-rom-v6-1-t3884898",
+            "is_deprecated": true
          }
       ]
    },
@@ -464,14 +468,16 @@
             "version_name":"Pie",
             "maintainer_name":"HarukeyUA",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9360520",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-aospextended-rom-v6-5-t3930703"
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-aospextended-rom-v6-5-t3930703",
+            "is_deprecated": true
          },
          {
             "version_code":"pie_gapps",
             "version_name":"Pie with Gapps",
             "maintainer_name":"HarukeyUA",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9360520",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-aospextended-rom-v6-5-t3930703"
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-aospextended-rom-v6-5-t3930703",
+            "is_deprecated": true
          }
       ]
    },
@@ -493,7 +499,8 @@
             "version_name":"Pie",
             "maintainer_name":"Erik Garcia (ECr34T1v3)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6364365",
-            "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/rom-aospextended-rom-v6-0-redmi-4a-5a-t3867054"
+            "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/rom-aospextended-rom-v6-0-redmi-4a-5a-t3867054",
+            "is_deprecated": true
          }
       ]
    },
@@ -558,14 +565,16 @@
             "version_name":"Pie",
             "maintainer_name":"Darshan M. (darshan1205)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
-            "xda_thread":"https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v6-3-lenovo-p2-t3903454"
+            "xda_thread":"https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v6-3-lenovo-p2-t3903454",
+            "is_deprecated": true
          },
          {
             "version_code":"pie_gapps",
             "version_name":"Pie with GApps",
             "maintainer_name":"Darshan M. (darshan1205)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
-            "xda_thread":"https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v6-3-lenovo-p2-t3903454"
+            "xda_thread":"https://forum.xda-developers.com/lenovo-p2/development/rom-aospextended-rom-v6-3-lenovo-p2-t3903454",
+            "is_deprecated": true
          }
       ]
    },
@@ -769,7 +778,8 @@
             "version_name":"Pie",
             "maintainer_name":"Prasoon Mehra (phantom-1402)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5947980",
-            "xda_thread":""
+            "xda_thread":"",
+            "is_deprecated": true
          }
       ]
    },
@@ -832,28 +842,32 @@
             "version_name":"Pie ARM64 A",
             "maintainer_name":"EnesSastim",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7730768",
-            "xda_thread":""
+            "xda_thread":"",
+            "is_deprecated": true
          },
          {
             "version_code":"pie_arm64_ab",
             "version_name":"Pie ARM64 AB",
             "maintainer_name":"EnesSastim",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7730768",
-            "xda_thread":""
+            "xda_thread":"",
+            "is_deprecated": true
          },
          {
             "version_code":"pie_arm_aonly",
             "version_name":"Pie ARM A",
             "maintainer_name":"EnesSastim",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7730768",
-            "xda_thread":""
+            "xda_thread":"",
+            "is_deprecated": true
          },
          {
             "version_code":"pie_a64_aonly",
             "version_name":"Pie A64 A",
             "maintainer_name":"EnesSastim",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7730768",
-            "xda_thread":""
+            "xda_thread":"",
+            "is_deprecated": true
          }
       ]
    },
@@ -867,14 +881,16 @@
             "version_name":"Pie",
             "maintainer_name":"Felipe Silva (lipebs)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9844127",
-            "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701"
+            "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701",
+            "is_deprecated": true
          },
          {
             "version_code":"pie_gapps",
             "version_name":"Pie with GApps",
             "maintainer_name":"Felipe Silva (lipebs)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9844127",
-            "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701"
+            "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-aospextended-rom-v6-0-alpha-t3856701",
+            "is_deprecated": true
          }
       ]
    },
