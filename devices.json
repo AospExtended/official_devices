@@ -986,5 +986,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Redmi 7",
+      "brand":"Xiaomi",
+      "codename":"onclite",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Dhina_17",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9001136",
+            "xda_thread":"https://forum.xda-developers.com/redmi-7/development/rom-aospextended-rom-v7-0-alpha-t4019251"
+         }
+      ]
    }
 ]
