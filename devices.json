@@ -1000,5 +1000,19 @@
             "xda_thread":"https://forum.xda-developers.com/redmi-7/development/rom-aospextended-rom-v7-0-alpha-t4019251"
          }
       ]
+   },
+   {
+      "name":"Realme X",
+      "brand":"Realme",
+      "codename":"RMX1901",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"SagarMakhar",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
+            "xda_thread":"https://forum.xda-developers.com/realme-x/development/rom-aospextended-rom-v7-0-t4038049"
+         }
+      ]
    }
 ]
