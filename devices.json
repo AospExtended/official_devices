@@ -640,28 +640,32 @@
             "version_name":"Pie",
             "maintainer_name":"Sakil Mondal (SakilMondal)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6151980",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v6-4-t3918557"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v6-4-t3918557",
+            "tg_link":"https://t.me/aex_whyred"
          },
          {
             "version_code":"pie_gapps",
             "version_name":"Pie with Gapps",
             "maintainer_name":"Sakil Mondal (SakilMondal)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6151980",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v6-4-t3918557"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v6-4-t3918557",
+            "tg_link":"https://t.me/aex_whyred"
          },
          {
             "version_code":"q",
             "version_name":"Ten",
             "maintainer_name":"Sakil Mondal (SakilMondal)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6151980",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v7-0-t3974935"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v7-0-t3974935",
+            "tg_link":"https://t.me/aex_whyred"
          },
          {
             "version_code":"q_gapps",
             "version_name":"Ten with gapps",
             "maintainer_name":"Sakil Mondal (SakilMondal)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6151980",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v7-0-t3974935"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v7-0-t3974935",
+            "tg_link":"https://t.me/aex_whyred"
          }
       ]
    },
