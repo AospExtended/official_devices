@@ -1092,5 +1092,26 @@
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891"
          }
       ]
+   },
+   {
+      "name":"3Pro",
+      "brand":"Realme",
+      "codename":"RMX1851",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Darshan M. (darshan1205)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
+            "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v6-7-realme-3pro-t4025411"
+         },
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Darshan M. (darshan1205)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
+            "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
+         }
+      ]
    }
 ]
