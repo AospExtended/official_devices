@@ -1113,5 +1113,19 @@
             "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
          }
       ]
+    },
+    {
+      "name":"Redmi Note 7 Pro",
+      "brand":"Xiaomi",
+      "codename":"violet",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Aritro Roy(kevin8768), Shubham Das(dasshubham762)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=10509489",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-aospextended-rom-v7-0-t4041497"
+         }
+      ]
    }
 ]
