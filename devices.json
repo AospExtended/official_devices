@@ -478,7 +478,7 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "maintainer_name":"Sairam (sairam60), Steve Mathew Joy",
+            "maintainer_name":"Sairam (sairam60)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v5-1-alpha-t3764128",
             "is_deprecated": true
@@ -486,17 +486,25 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Sairam (sairam60), Steve Mathew Joy",
+            "maintainer_name":"Sairam (sairam60)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891"
          },
          {
             "version_code":"pie_gapps",
             "version_name":"Pie with Gapps",
-            "maintainer_name":"Sairam (sairam60), Steve Mathew Joy",
+            "maintainer_name":"Sairam (sairam60)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891"
-         }
+         },
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Sairam (sairam60)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891"
+            "tg_link":"https://t.me/aexland"
+        }
       ]
    },
    {
@@ -1076,20 +1084,6 @@
             "maintainer_name":"SagarMakhar",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
             "xda_thread":"https://forum.xda-developers.com/realme-x/development/rom-aospextended-rom-v7-0-t4038049"
-         }
-      ]
-   },
-   {
-      "name":"Redmi 3S",
-      "brand":"Xiaomi",
-      "codename":"land",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Sairam(sairam60)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891"
          }
       ]
    },
