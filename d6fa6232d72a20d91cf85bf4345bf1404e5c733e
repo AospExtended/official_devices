@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2cb0fb8f_71483e46",
+        "filename": "devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 1039,
+      "author": {
+        "id": 1000044
+      },
+      "writtenOn": "2020-02-27T16:56:57Z",
+      "side": 1,
+      "message": "missed , here",
+      "range": {
+        "startLine": 1039,
+        "startChar": 9,
+        "endLine": 1039,
+        "endChar": 10
+      },
+      "revId": "d6fa6232d72a20d91cf85bf4345bf1404e5c733e",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
+    }
+  ]
+}
