@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "579bae90_be793b94",
+        "filename": "devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 451,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2020-02-27T14:18:05Z",
+      "side": 1,
+      "message": "*Ten",
+      "revId": "7b9b2937efe33e8e571dcdd5e4e0d403c8d4a783",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
+    }
+  ]
+}
