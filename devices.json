@@ -1165,5 +1165,18 @@
             "tg_link":"https://t.me/AospExtended_violet"
          }
       ]
+   },
+   {
+      "name":"OnePlus 6",
+      "brand":"OnePlus",
+      "codename":"enchilada",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Raj Jadeja",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5614198",
+         }
+      ]
    }
 ]
