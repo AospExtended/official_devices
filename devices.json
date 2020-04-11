@@ -419,9 +419,16 @@
    },
    {
       "name":"Zenfone 6",
-      "brand":"ASUS",
+      "brand":"Asus",
       "codename":"I01WD",
       "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Davide Della Maddalena (dmd79)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=2823824",
+            "xda_thread":"https://forum.xda-developers.com/zenfone-6-2019/development/rom-aex-7-dmd79-t4080099"
+         },
          {
             "version_code":"q_gapps",
             "version_name":"Ten with GApps",
