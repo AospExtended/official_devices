@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3404c784_880d65a7",
+        "filename": "devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 351,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2020-04-11T10:53:12Z",
+      "side": 0,
+      "message": "Remove Oreo builds",
+      "revId": "a0dd9988f03106c91b203d76e12b24ed9a31f0e3",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3c3007f6_661b1ba6",
+        "filename": "devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 381,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2020-04-11T10:53:12Z",
+      "side": 0,
+      "message": "Same ^",
+      "revId": "a0dd9988f03106c91b203d76e12b24ed9a31f0e3",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
+    }
+  ]
+}
