@@ -1170,5 +1170,19 @@
             "tg_link":"https://t.me/AospExtended_violet"
          }
       ]
+    },
+    {
+      "name":"Redmi Note 8",
+      "brand":"Xiaomi",
+      "codename":"ginkgo",
+      "supported_versions":[
+         {
+            "version_code":"q_gapps",
+            "version_name":"Ten With Gapps",
+            "maintainer_name":"Mrinal Ghosh(mg712702)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7813190",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-8/development/rom-aospextended-rom-v7-0-t4076841"
+         }
+      ]
    }
 ]
