@@ -1143,7 +1143,7 @@
       ]
    },
    {
-      "name":"3Pro",
+      "name":"3 Pro",
       "brand":"Realme",
       "codename":"RMX1851",
       "supported_versions":[
@@ -1157,6 +1157,13 @@
          {
             "version_code":"q",
             "version_name":"Ten",
+            "maintainer_name":"Darshan M. (darshan1205)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
+            "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
+        },
+        {
+            "version_code":"q_gapps",
+            "version_name":"Ten with GApps",
             "maintainer_name":"Darshan M. (darshan1205)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
             "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
