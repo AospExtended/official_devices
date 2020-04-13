@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ac40947f_4a7929fb",
+        "filename": "devices.json",
+        "patchSetId": 3
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2020-04-13T13:18:37Z",
+      "side": 1,
+      "message": "Pie or Q?",
+      "revId": "0140e3fa79f2603458801d14786d416531129eb5",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "53099805_dea69312",
+        "filename": "devices.json",
+        "patchSetId": 3
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2020-04-13T13:18:37Z",
+      "side": 1,
+      "message": "Same ^",
+      "revId": "0140e3fa79f2603458801d14786d416531129eb5",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
+    }
+  ]
+}
