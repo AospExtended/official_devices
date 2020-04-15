@@ -1206,5 +1206,19 @@
             "tg_link":"https://t.me/AospExtended_violet"
          }
       ]
+   },
+    {
+      "name":"POCO X2/Redmi K30 4G",
+      "brand":"Xiaomi",
+      "codename":"phoenix",
+      "supported_versions":[
+         {
+            "version_code":"q_gapps",
+            "version_name":"Ten with GApps",
+            "maintainer_name":"Darshan M. (darshan1205)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
+            "xda_thread":"https://forum.xda-developers.com/poco-x2/development/rom-aospextended-rom-v7-1-poco-x2-t4083023"
+         }
+      ]
    }
 ]
