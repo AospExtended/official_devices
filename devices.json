@@ -1038,16 +1038,32 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"M.H.K.JAHROMI",
+            "maintainer_name":"iKeramat",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
             "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v6-2-t3899607"
          },
          {
             "version_code":"pie_gapps",
             "version_name":"Pie with Gapps",
-            "maintainer_name":"M.H.K.JAHROMI",
+            "maintainer_name":"iKeramat",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
             "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v6-2-t3899607"
+         },
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"iKeramat",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
+            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v7-0-t4032357",
+            "tg_link":"https://t.me/aex_gemini"
+         },
+         {
+            "version_code":"q_gapps",
+            "version_name":"Ten with GApps",
+            "maintainer_name":"iKeramat",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
+            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v7-0-t4032357",
+            "tg_link":"https://t.me/aex_gemini"
          }
       ]
    },
