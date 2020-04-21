@@ -628,14 +628,14 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8065232",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-v6-0-t3852954"
          },
-	 {
+         {
             "version_code":"q",
             "version_name":"Ten",
             "maintainer_name":"AndroBuddy007",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8065232",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-v7-0-t3994885"
          },
-	 {
+         {
             "version_code":"q_gapps",
             "version_name":"Ten with GApps",
             "maintainer_name":"AndroBuddy007",
@@ -1183,8 +1183,31 @@
             "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
          }
       ]
-    },
-    {
+   },
+   {
+      "name":"2 Pro",
+      "brand":"Realme",
+      "codename":"RMX1801",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"ShubhamB (sb6596)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+            "xda_thread":"",
+            "tg_link":"https://t.me/realme2proXDA"
+        },
+        {
+            "version_code":"q_gapps",
+            "version_name":"Ten with GApps",
+            "maintainer_name":"ShubhamB (sb6596)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+            "xda_thread":"",
+            "tg_link":"https://t.me/realme2proXDA"
+         }
+      ]
+   },
+   {
       "name":"Redmi Note 7 Pro",
       "brand":"Xiaomi",
       "codename":"violet",
@@ -1206,7 +1229,7 @@
             "tg_link":"https://t.me/AospExtended_violet"
          }
       ]
-   },
+    },
     {
       "name":"POCO X2/Redmi K30 4G",
       "brand":"Xiaomi",
