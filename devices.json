@@ -75,6 +75,20 @@
       ]
    },
    {
+      "name":"Moto E5 Play",
+      "brand":"Motorola",
+      "codename":"james",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Barry Allen (@F1a5H), Karthick C (karthick111)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
+            "xda_thread":"https://forum.xda-developers.com/moto-e5/development/rom-aospextended-rom-v6-7-moto-e5-play-t4096167"
+         }
+      ]
+   },
+   {
       "name":"Moto E5 Plus",
       "brand":"Motorola",
       "codename":"hannah",
