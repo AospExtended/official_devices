@@ -1324,5 +1324,19 @@
             "tg_link":"https://t.me/A2LiteOfficial"
          }
       ]
+   },
+   {
+      "name":"Redmi Note 8/8T",
+      "brand":"Xiaomi",
+      "codename":"ginkgo/willow",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Introdructor",
+            "maintainer_url":"https://t.me/Introdructor",
+            "tg_link":"https://t.me/GinkgoOfficial"
+         }
+      ]
    }
 ]
