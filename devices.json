@@ -1326,9 +1326,9 @@
       ]
    },
    {
-      "name":"Redmi Note 8/8T",
+      "name":"Redmi Note 8",
       "brand":"Xiaomi",
-      "codename":"ginkgo/willow",
+      "codename":"ginkgo",
       "supported_versions":[
          {
             "version_code":"q",
