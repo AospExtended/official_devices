@@ -1324,5 +1324,20 @@
             "tg_link":"https://t.me/A2LiteOfficial"
          }
       ]
+   },
+   {
+      "name":"Redmi Note 8/8T",
+      "brand":"Xiaomi",
+      "codename":"ginkgo",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"Ten",
+            "maintainer_name":"Introdructor",
+            "maintainer_url":"https://t.me/Introdructor",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-8/development/rom-aospextended-rom-v7-2-t4129961",
+            "tg_link":"https://t.me/GinkgoOfficial"
+         }
+      ]
    }
 ]
