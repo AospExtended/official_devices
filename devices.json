@@ -442,35 +442,6 @@
       ]
    },
    {
-      "name":"2",
-      "brand":"OnePlus",
-      "codename":"oneplus2",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "maintainer_name":"Shreyansh Lodha",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6763765",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-2/development/rom-title-aospextended-rom-v3-1-t3547713",
-            "is_deprecated": true
-         },
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Mukul Dhir (_undead)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4867044",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-2/development/rom-aospextended-rom-v6-1-t3884588"
-         },
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Mukul Dhir (_undead)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4867044",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-2/development/rom-aospextended-rom-v7-0-t4058691"
-         }
-      ]
-   },
-   {
       "name":"Le 2",
       "brand":"Leeco",
       "codename":"s2",
