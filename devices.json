@@ -1,5 +1,19 @@
 [
    {
+      "name":"Pro1",
+      "brand":"FxTec",
+      "codename":"pro1",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Tom Marshall (tdm)",
+            "maintainer_url":"https://community.fxtec.com/profile/6853-tdm/",
+            "xda_thread":"https://community.fxtec.com/topic/3037-lineageos-160-official-builds-discussion/"
+         }
+      ]
+   },
+   {
       "name":"Honor View 10",
       "brand":"Huawei",
       "codename":"berkeley",
