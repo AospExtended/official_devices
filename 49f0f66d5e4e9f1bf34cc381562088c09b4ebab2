@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "593704d7_41c1e234",
+        "filename": "devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2020-08-13T04:04:28Z",
+      "side": 1,
+      "message": "This is supposed to be linked to an XDA thread not that I mind but the thread seems to be a LineageOS specific thread",
+      "revId": "49f0f66d5e4e9f1bf34cc381562088c09b4ebab2",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
+    }
+  ]
+}
