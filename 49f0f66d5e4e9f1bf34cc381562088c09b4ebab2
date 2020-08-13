@@ -16,6 +16,24 @@
       "revId": "49f0f66d5e4e9f1bf34cc381562088c09b4ebab2",
       "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "63fa1ca7_b9c4954b",
+        "filename": "devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000104
+      },
+      "writtenOn": "2020-08-13T04:17:49Z",
+      "side": 1,
+      "message": "Ah, right, my bad.  I\u0027ll fix that and update.",
+      "parentUuid": "593704d7_41c1e234",
+      "revId": "49f0f66d5e4e9f1bf34cc381562088c09b4ebab2",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
     }
   ]
 }
