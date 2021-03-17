@@ -354,7 +354,15 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
             "xda_thread":"https://forum.xda-developers.com/realme-2-pro/development/rom-aospextended-rom-v7-1-t4087407",
             "tg_link":"https://t.me/realme2proXDA"
-         }
+         },
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"ShubhamB (sb6596)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+            "xda_thread":"",
+            "tg_link":"https://t.me/realme2proXDA"
+        }
       ]
    },
    {
