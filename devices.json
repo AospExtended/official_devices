@@ -66,6 +66,14 @@
             "maintainer_name":"Murtaza Piplod",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5913672",
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v7-0-t4063957"
+         },
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"Murtaza Piplod",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5913672",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r20-aospextended-rom-v8-0-unofficial.4200597",
+            "tg_link":"https://t.me/aextissot"
          }
       ]
    },
@@ -80,7 +88,15 @@
             "maintainer_name":"Shiva Teja(shivatejapeddi), Vinesh Iyappan (theHari08)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
             "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-t4044579"
-         }
+         },
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"Shiva Teja(shivatejapeddi), Vinesh Iyappan (theHari08)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
+            "xda_thread":"",
+            "tg_link":"https://t.me/aex_beryllium"
+         }         
       ]
    },
    {
@@ -152,6 +168,14 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891",
             "tg_link":"https://t.me/aexland"
+         },
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"Sairam (Sairam60)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-10-0-0_r40-treble-official-aospextended-rom-v7-3-oms-dui-20-11-2020.3890891/",
+            "tg_link":"https://t.me/aexland"
         }
       ]
    },
@@ -184,17 +208,24 @@
          {
             "version_code":"q",
             "version_name":"Ten",
-            "maintainer_name":"Sakil Mondal (SakilMondal)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6151980",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v7-0-t3974935",
+            "maintainer_name":"SakilMondal",
+            "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-10-0-0_r40-whyred-aospextended-rom-v7-3-official-18-07-2020.3974935",
             "tg_link":"https://t.me/aex_whyred"
          },
          {
             "version_code":"q_gapps",
             "version_name":"Ten with gapps",
-            "maintainer_name":"Sakil Mondal (SakilMondal)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6151980",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v7-0-t3974935",
+            "maintainer_name":"SakilMondal",
+            "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-10-0-0_r40-whyred-aospextended-rom-v7-3-official-18-07-2020.3974935",
+            "tg_link":"https://t.me/aex_whyred"
+         },
+         {  "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"SakilMondal",
+            "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
+            "xda_thread":"",
             "tg_link":"https://t.me/aex_whyred"
          }
       ]
@@ -210,6 +241,21 @@
             "maintainer_name": "Naomi Calabretta (AryToNeX)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6094651",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-aospextended-rom-v6-4-t3912527"
+         }
+      ]
+   },
+   {
+      "name":"Xiaomi Redmi Note 9S/9 Pro/9 Pro Max/Poco M2 Pro",
+      "brand":"Xiaomi/Poco",
+      "codename":"miatoll",
+      "supported_versions":[
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"Sairam (sairam60)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
+            "xda_thread":"",
+            "tg_link":"https://t.me/aexmiatoll"
          }
       ]
    },
@@ -268,7 +314,15 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
             "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v7-1-t4087745",
             "tg_link":"https://t.me/aex_gemini"
-         }
+         },
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"iKeramat",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r32-aospextended-rom-v8-0-unofficial.4245907/",
+            "tg_link":"https://t.me/aex_gemini"
+        }
       ]
    },
    {
@@ -354,7 +408,15 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
             "xda_thread":"https://forum.xda-developers.com/realme-2-pro/development/rom-aospextended-rom-v7-1-t4087407",
             "tg_link":"https://t.me/realme2proXDA"
-         }
+         },
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"ShubhamB (sb6596)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+            "xda_thread":"",
+            "tg_link":"https://t.me/realme2proXDA"
+        }
       ]
    },
    {
