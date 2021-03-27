@@ -448,7 +448,7 @@
             "version_code":"q",
             "version_name":"Ten",
             "maintainer_name":"Arpon Sarkar(Arpon5691), Shubham Das(dasshubham762)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=10509489",
+            "maintainer_url":"https://forum.xda-developers.com/m/dasshubham762.8330494/",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-aospextended-rom-v7-0-t4041497",
             "tg_link":"https://t.me/AospExtended_violet"
          },
@@ -456,8 +456,22 @@
             "version_code":"q_gapps",
             "version_name":"Ten with GApps",
             "maintainer_name":"Arpon Sarkar(Arpon5691), Shubham Das(dasshubham762)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=10509489",
+            "maintainer_url":"https://forum.xda-developers.com/m/dasshubham762.8330494/",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-aospextended-rom-v7-0-t4041497",
+            "tg_link":"https://t.me/AospExtended_violet"
+         },
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"Shoury Sharma(galanteria01), Shubham Das(dasshubham762)",
+            "maintainer_url":"https://forum.xda-developers.com/m/dasshubham762.8330494/",
+            "tg_link":"https://t.me/AospExtended_violet"
+         },
+         {
+            "version_code":"r_gapps",
+            "version_name":"Eleven with GApps",
+            "maintainer_name":"Shoury Sharma(galanteria01), Shubham Das(dasshubham762)",
+            "maintainer_url":"https://forum.xda-developers.com/m/dasshubham762.8330494/",
             "tg_link":"https://t.me/AospExtended_violet"
          }
       ]
