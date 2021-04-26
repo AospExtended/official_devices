@@ -374,6 +374,14 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
             "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r32-aospextended-rom-v8-0-unofficial.4245907/",
             "tg_link":"https://t.me/aex_gemini"
+        },
+        {
+         "version_code":"r_gapps",
+         "version_name":"Eleven with GApps",
+         "maintainer_name":"iKeramat",
+         "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
+         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r32-aospextended-rom-v8-0-unofficial.4245907/",
+         "tg_link":"https://t.me/aex_gemini"
         }
       ]
    },
