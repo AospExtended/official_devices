@@ -445,6 +445,20 @@
             "maintainer_name":"Darshan M. (darshan1205)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
             "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
+         },
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"Ahmed Moselhi(kanged99)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6388219",
+            "xda_thread":""
+        },
+        {
+            "version_code":"r_gapps",
+            "version_name":"Eleven with GApps",
+            "maintainer_name":"Ahmed Moselhi(kanged99)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6388219",
+            "xda_thread":""
          }
       ]
    },
