@@ -546,5 +546,28 @@
             "tg_link":"https://t.me/A2LiteOfficial"
          }
       ]
+   },
+   {
+      "name":"Redmi Note 7",
+      "brand":"Xiaomi",
+      "codename":"lavender",
+      "supported_versions":[
+         {
+            "version_code":"r",
+            "version_name":"Eleven",
+            "maintainer_name":"Hari (makhk)",
+            "maintainer_url":"https://forum.xda-developers.com/m/hk96.5897613/",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r37-aospextended-rom-v8-1-unofficial-15-05-2021.4266787/",
+            "tg_link":"https://t.me/aexlavender"
+         },
+         {
+            "version_code":"r_gapps",
+            "version_name":"Eleven with GApps",
+            "maintainer_name":"Hari (makhk)",
+            "maintainer_url":"https://forum.xda-developers.com/m/hk96.5897613/",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r37-aospextended-rom-v8-1-unofficial-15-05-2021.4266787/",
+            "tg_link":"https://t.me/aexlavender"
+        }
+      ]
    }
 ]
