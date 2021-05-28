@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "534ce8a4_67d6d876",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000007
+      },
+      "writtenOn": "2021-05-28T16:37:47Z",
+      "side": 1,
+      "message": "DT- https://github.com/makhk/device_xiaomeme_lavender/tree/aex\nVT- https://github.com/makhk/vendor_xiaomeme_lavender/tree/eleven\nXDA Post- https://forum.xda-developers.com/t/rom-11-0-0_r37-aospextended-rom-v8-1-unofficial-15-05-2021.4266787",
+      "revId": "83489a8301296928c675c39798f7180045cc1a95",
+      "serverId": "692a3d4a-6cfc-41d4-b12b-cb9542eed61e"
+    }
+  ]
+}
