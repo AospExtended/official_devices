@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe3bc85f_ba107fd0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2021-05-30T11:10:40Z",
+      "side": 1,
+      "message": "Device Tree: https://github.com/aospsurya/device_xiaomi_surya\nDevice Common Tree: https://github.com/aospsurya/device_xiaomi_sm6150-common\nKernel Tree: https://github.com/aospsurya/kernel_xiaomi_surya\nVendor Tree: https://github.com/aospsurya/vendor_xiaomi",
+      "revId": "3517c859f0943baa030fe8386fbdec9bc673b98e",
+      "serverId": "692a3d4a-6cfc-41d4-b12b-cb9542eed61e"
+    }
+  ]
+}
