@@ -552,6 +552,20 @@
          }
       ]
    },
+       {
+      "name":"Mi Note 3",
+      "brand":"Xiaomi",
+      "codename":"jason",
+      "supported_versions":[
+         {
+            "version_code":"r_gapps",
+            "version_name":"Eleven with GApps",
+            "maintainer_name":"EnweazuDaniel (Danny)",
+            "maintainer_url":"https://forum.xda-developers.com/m/enweazudaniel.7555130/",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-aospextended-rom-v8-1-unofficial.4247939/"
+         }
+      ]
+   },
    {
       "name":"Mi A2 Lite",
       "brand":"Xiaomi",
