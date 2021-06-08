@@ -33,6 +33,24 @@
       "message": "Check spaces here",
       "revId": "ddb3a16738d24c796fabf7ddcd68c65306dc452e",
       "serverId": "692a3d4a-6cfc-41d4-b12b-cb9542eed61e"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "23b11592_e30488e6",
+        "filename": "devices.json",
+        "patchSetId": 3
+      },
+      "lineNbr": 561,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2021-06-08T15:12:38Z",
+      "side": 1,
+      "message": "Done\n\nFixed! Straight up copied a different device this time instead of typing!",
+      "parentUuid": "5cce8416_775d661a",
+      "revId": "ddb3a16738d24c796fabf7ddcd68c65306dc452e",
+      "serverId": "692a3d4a-6cfc-41d4-b12b-cb9542eed61e"
     }
   ]
 }
