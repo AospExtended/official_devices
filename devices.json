@@ -70,6 +70,20 @@
       ]
    },
    {
+      "name":"7 Pro",
+      "brand":"OnePlus",
+      "codename":"guacamole",
+      "supported_versions":[
+        {
+           "version_code":"r_gapps",
+           "version_name":"Eleven with GApps",
+           "maintainer_name":"Shubham Singh(ishubhamsingh)",
+           "maintainer_url":"https://forum.xda-developers.com/m/ishubhamsingh.5566914/",
+           "xda_thread":""
+        }
+      ]
+   },
+   {
       "name":"POCO F1",
       "brand":"Xiaomi",
       "codename":"beryllium",
