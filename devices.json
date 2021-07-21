@@ -77,6 +77,7 @@
         {
            "version_code":"r",
            "version_name":"Eleven",
+           "supportsCustomAvb":true,
            "maintainer_name":"Shubham Singh(ishubhamsingh)",
            "maintainer_url":"https://forum.xda-developers.com/m/ishubhamsingh.5566914/",
            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r38-aospextended-rom-v8-3-official-14th-june.4292117/"
@@ -84,6 +85,7 @@
         {
            "version_code":"r_gapps",
            "version_name":"Eleven with GApps",
+           "supportsCustomAvb":true,
            "maintainer_name":"Shubham Singh(ishubhamsingh)",
            "maintainer_url":"https://forum.xda-developers.com/m/ishubhamsingh.5566914/",
            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r38-aospextended-rom-v8-3-official-14th-june.4292117/"
