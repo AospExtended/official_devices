@@ -540,6 +540,21 @@
       ]
    },
    {
+      "name":"7 Pro",
+      "brand":"Realme",
+      "codename":"RMX2170",
+      "supported_versions":[
+         {
+            "version_code":"r_gapps",
+            "version_name":"Eleven with GApps",
+            "maintainer_name":"SagarMakhar",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
+            "xda_thread":"",
+            "tg_link":"https://t.me/realme7ProOfficial"
+         }
+      ]
+   },
+   {
       "name":"Redmi Note 7 Pro",
       "brand":"Xiaomi",
       "codename":"violet",
