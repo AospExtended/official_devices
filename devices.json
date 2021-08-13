@@ -622,6 +622,21 @@
       ]
    },
    {
+      "name":"Redmi Note 10 Pro",
+      "brand":"Xiaomi",
+      "codename":"sweet",
+      "supported_versions":[
+        {
+           "version_code":"r_gapps",
+           "version_name":"Eleven with GApps",
+           "maintainer_name":"Hari (makhk)",
+           "maintainer_url":"https://forum.xda-developers.com/m/hk96.5897613/",
+           "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r40-sweet-sweetin-aospextended-rom-v8-5-unofficial.4310777/"
+           "tg_link":"https://t.me/hk_sweetbuilds"
+        }
+      ]
+   },
+   {
       "name":"Redmi Note 7",
       "brand":"Xiaomi",
       "codename":"lavender",
