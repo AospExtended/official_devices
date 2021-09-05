@@ -104,6 +104,14 @@
            "maintainer_name":"Amol Amrit (AmolAmrit)",
            "maintainer_url":"https://forum.xda-developers.com/m/amolamrit.5615686/",
            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r39-aospextended-rom-v8-4-official.4298141/"
+        },
+        {
+           "version_code":"r_gapps",
+           "version_name":"Eleven with GApps",
+           "supportsCustomAvb":true,
+           "maintainer_name":"Amol Amrit (AmolAmrit)",
+           "maintainer_url":"https://forum.xda-developers.com/m/amolamrit.5615686/",
+           "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r39-aospextended-rom-v8-4-official.4298141/"
         }
       ]
    },
