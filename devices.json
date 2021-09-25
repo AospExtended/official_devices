@@ -644,6 +644,29 @@
          }
       ]
    },
+    {
+      "name":"Redmi Note 10",
+      "brand":"Xiaomi",
+      "codename":"mojito",
+      "supported_versions":[
+        {
+           "version_code":"r",
+           "version_name":"Eleven",
+           "maintainer_name":"Royal King",
+           "maintainer_url":"https://forum.xda-developers.com/m/jaydeep_kumar.11713779/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/Aex_Mojito"
+        },
+        {
+           "version_code":"r_gapps",
+           "version_name":"Eleven with GApps",
+           "maintainer_name":"Royal King",
+           "maintainer_url":"https://forum.xda-developers.com/m/jaydeep_kumar.11713779/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/Aex_Mojito"
+        }
+      ]
+   },
    {
       "name":"Redmi Note 10 Pro",
       "brand":"Xiaomi",
