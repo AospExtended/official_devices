@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "78a4d5fb_804b678b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2021-10-05T09:55:21Z",
+      "side": 1,
+      "message": "Will be merged in weeks time. If you really wish to drop this, review this patch or else if anyone wants maintain please suggest us their name.",
+      "revId": "c37d031a41d68634564f35a3a211b4c3561b2952",
+      "serverId": "692a3d4a-6cfc-41d4-b12b-cb9542eed61e"
+    }
+  ]
+}
