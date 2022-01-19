@@ -505,6 +505,20 @@
             "maintainer_name":"Ahmed Moselhi(kanged99)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6388219",
             "xda_thread":""
+         },
+         {
+            "version_code":"s",
+            "version_name":"Twelve",
+            "maintainer_name":"Ahmed Moselhi(kanged99)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6388219",
+            "xda_thread":""
+        },
+        {
+            "version_code":"s_gapps",
+            "version_name":"Twelve with GApps",
+            "maintainer_name":"Ahmed Moselhi(kanged99)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6388219",
+            "xda_thread":""
          }
       ]
    },
