@@ -1,75 +1,5 @@
 [
    {
-      "name":"Moto G7",
-      "brand":"Motorola",
-      "codename":"river",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Barry Allen (@F1a5H)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
-            "xda_thread":"https://forum.xda-developers.com/moto-g7/development/rom-aospextended-rom-v7-0-moto-g7-river-t4082187"
-         },
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"Barry Allen (@F1a5H)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
-            "xda_thread":"https://forum.xda-developers.com/moto-g7/development/rom-aospextended-rom-v7-0-moto-g7-river-t4082187"
-         }
-      ]
-   },
-   {
-      "name":"Moto G7",
-      "brand":"Motorola",
-      "codename":"ocean",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Barry Allen (@F1a5H)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
-            "xda_thread":"https://forum.xda-developers.com/g7-power/development/rom-aospextended-rom-v7-1-moto-g7-power-t4086835"
-         },
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"Barry Allen (@F1a5H)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4064345",
-            "xda_thread":"https://forum.xda-developers.com/g7-power/development/rom-aospextended-rom-v7-1-moto-g7-power-t4086835"
-         }
-      ]
-   },
-   {
-      "name": "Moto X 2014",
-      "brand": "Motorola",
-      "codename": "victara",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name": "Jeferson Oliveira (jro1979oliver)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8863813",
-            "xda_thread": "https://forum.xda-developers.com/moto-x-2014/development/rom-aosp-extended-6-5-moto-x2-2014-t3926810"
-         }
-      ]
-   },
-   {
-      "name":"Mi A1",
-      "brand":"Xiaomi",
-      "codename":"tissot",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Murtaza Piplod",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5913672",
-            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v7-0-t4063957"
-         }
-      ]
-   },
-   {
       "name":"7 Pro",
       "brand":"OnePlus",
       "codename":"guacamole",
@@ -121,13 +51,6 @@
       "codename":"beryllium",
       "supported_versions":[
          {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Shiva Teja(shivatejapeddi)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
-            "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-t4044579"
-         },
-         {
             "version_code":"r",
             "version_name":"Eleven",
             "maintainer_name":"Shiva Teja(shivatejapeddi)",
@@ -151,14 +74,6 @@
       "codename":"z2_plus",
       "supported_versions":[
          {
-            "version_code":"q",
-            "version_name":"ten",
-            "maintainer_name":"Davide Della Maddalena (dmd79)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=2823824",
-            "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-aospextended-rom-v7-0-t3969757",
-            "tg_link":"https://t.me/ZukCustomGoodies"
-         },
-         {
             "version_code":"r",
             "version_name":"Eleven",
             "maintainer_name":"Davide Della Maddalena (dmd79)",
@@ -174,14 +89,6 @@
       "codename":"z2_row",
       "supported_versions":[
          {
-            "version_code":"q",
-            "version_name":"ten",
-            "maintainer_name":"Davide Della Maddalena (dmd79)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=2823824",
-            "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-aospextended-rom-v7-0-t3969757",
-            "tg_link":"https://t.me/ZukCustomGoodies"
-         },
-         {
             "version_code":"r",
             "version_name":"Eleven",
             "maintainer_name":"Davide Della Maddalena (dmd79)",
@@ -196,22 +103,6 @@
       "brand":"Asus",
       "codename":"I01WD",
       "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Davide Della Maddalena (dmd79)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=2823824",
-            "xda_thread":"https://forum.xda-developers.com/zenfone-6-2019/development/rom-aex-7-dmd79-t4080099",
-            "tg_link":"https://t.me/aexzf6"
-         },
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"Davide Della Maddalena (dmd79)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=2823824",
-            "xda_thread":"https://forum.xda-developers.com/zenfone-6-2019/development/rom-aex-7-dmd79-t4080099",
-            "tg_link":"https://t.me/aexzf6"
-         },
          {
             "version_code":"r",
             "version_name":"Eleven",
@@ -236,22 +127,6 @@
       "codename":"land",
       "supported_versions":[
          {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Sairam (sairam60)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891",
-            "tg_link":"https://t.me/aexland"
-        },
-        {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"Sairam (sairam60)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7111945",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891",
-            "tg_link":"https://t.me/aexland"
-         },
-         {
             "version_code":"r",
             "version_name":"Eleven",
             "maintainer_name":"Sairam (Sairam60)",
@@ -262,47 +137,10 @@
       ]
    },
    {
-      "name":"Redmi 5 Plus/Note 5",
-      "brand":"Xiaomi",
-      "codename":"vince",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"AndroBuddy007",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8065232",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-v7-0-t3994885"
-         },
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"AndroBuddy007",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8065232",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-aospextended-v7-0-t3994885"
-         }
-      ]
-   },
-   {
       "name":"Redmi Note 5 Pro",
       "brand":"Xiaomi",
       "codename":"whyred",
       "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"SakilMondal",
-            "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
-            "xda_thread":"https://forum.xda-developers.com/t/rom-10-0-0_r40-whyred-aospextended-rom-v7-3-official-18-07-2020.3974935",
-            "tg_link":"https://t.me/aex_whyred"
-         },
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with gapps",
-            "maintainer_name":"SakilMondal",
-            "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
-            "xda_thread":"https://forum.xda-developers.com/t/rom-10-0-0_r40-whyred-aospextended-rom-v7-3-official-18-07-2020.3974935",
-            "tg_link":"https://t.me/aex_whyred"
-         },
          {  "version_code":"r",
             "version_name":"Eleven",
             "maintainer_name":"SakilMondal",
@@ -317,20 +155,6 @@
             "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
             "xda_thread":"",
             "tg_link":"https://t.me/aex_whyred"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 6 Pro",
-      "brand": "Xiaomi",
-      "codename": "tulip",
-      "supported_versions":[
-         {
-            "version_code": "q",
-            "version_name": "10",
-            "maintainer_name": "Naomi Calabretta (AryToNeX)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6094651",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-aospextended-rom-v6-4-t3912527"
          }
       ]
    },
@@ -358,34 +182,6 @@
       ]
    },
    {
-      "name":"Zenfone Max Pro M1",
-      "brand":"Asus",
-      "codename":"X00TD",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"SagarMakhar",
-            "maintainer_url":"https://github.com/sagarmakhar",
-            "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-aospextended-v7-0-t4038203"
-         }
-      ]
-   },
-   {
-      "name":"6",
-      "brand":"OnePlus",
-      "codename":"enchilada",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Raj Jadeja (raj_jdja)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5614198",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-6/development/rom-aospextended-rom-v7-2-t4099491"
-         }
-      ]
-   },
-   {
       "name":"GSI",
       "brand":"Generic",
       "codename":"treble_gsi",
@@ -397,22 +193,6 @@
       "brand":"Xiaomi",
       "codename":"gemini",
       "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"iKeramat",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
-            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v7-1-t4087745",
-            "tg_link":"https://t.me/aex_gemini"
-         },
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"iKeramat",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6540480",
-            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-aospextended-rom-v7-1-t4087745",
-            "tg_link":"https://t.me/aex_gemini"
-         },
          {
             "version_code":"r",
             "version_name":"Eleven",
@@ -432,66 +212,10 @@
       ]
    },
    {
-      "name":"Redmi 5",
-      "brand":"Xiaomi",
-      "codename":"rosy",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Kelvin [xDoge]",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8298415",
-            "xda_thread":"https://forum.xda-developers.com/redmi-5/development/aospextended-7-t4053067"
-         }
-      ]
-   },
-   {
-      "name":"Vibe K5/K5 Plus",
-      "brand":"Lenovo",
-      "codename":"A6020",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Hrutvik Jagtap (hsj51)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8506258",
-            "tg_link":"https://t.me/vibe_k5"
-         }
-      ]
-   },
-   {
-      "name":"X",
-      "brand":"Realme",
-      "codename":"RMX1901",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"SagarMakhar",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
-            "xda_thread":"https://forum.xda-developers.com/realme-x/development/rom-aospextended-rom-v7-0-t4038049"
-         }
-      ]
-   },
-   {
       "name":"3 Pro",
       "brand":"Realme",
       "codename":"RMX1851",
       "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Darshan M. (darshan1205)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
-            "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
-        },
-        {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"Darshan M. (darshan1205)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
-            "xda_thread":"https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
-         },
          {
             "version_code":"r",
             "version_name":"Eleven",
@@ -513,22 +237,6 @@
       "brand":"Realme",
       "codename":"RMX1801",
       "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"ShubhamB (sb6596)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
-            "xda_thread":"https://forum.xda-developers.com/realme-2-pro/development/rom-aospextended-rom-v7-1-t4087407",
-            "tg_link":"https://t.me/realme2proXDA"
-        },
-        {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"ShubhamB (sb6596)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
-            "xda_thread":"https://forum.xda-developers.com/realme-2-pro/development/rom-aospextended-rom-v7-1-t4087407",
-            "tg_link":"https://t.me/realme2proXDA"
-         },
          {
             "version_code":"r",
             "version_name":"Eleven",
@@ -583,22 +291,6 @@
       "codename":"violet",
       "supported_versions":[
          {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"Arpon Sarkar(Arpon5691), Shubham Das(dasshubham762)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=10509489",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-aospextended-rom-v7-0-t4041497",
-            "tg_link":"https://t.me/AospExtended_violet"
-         },
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"Arpon Sarkar(Arpon5691), Shubham Das(dasshubham762)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=10509489",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-aospextended-rom-v7-0-t4041497",
-            "tg_link":"https://t.me/AospExtended_violet"
-         },
-         {
             "version_code":"r",
             "version_name":"Eleven",
             "maintainer_name":"Shubham Das(dasshubham762)",
@@ -608,55 +300,18 @@
       ]
     },
     {
-      "name":"POCO X2/Redmi K30 4G",
-      "brand":"Xiaomi",
-      "codename":"phoenix",
-      "supported_versions":[
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"Darshan M. (darshan1205)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6620830",
-            "xda_thread":"https://forum.xda-developers.com/poco-x2/development/rom-aospextended-rom-v7-1-poco-x2-t4083023"
-         }
-      ]
-   },
-   {
-      "name":"Mi A2 Lite",
-      "brand":"Xiaomi",
-      "codename":"daisy",
-      "supported_versions":[
-         {
-            "version_code":"q",
-            "version_name":"Ten",
-            "maintainer_name":"acras",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5583941",
-            "xda_thread":"https://forum.xda-developers.com/mi-a2-lite/development/rom-aospextended-rom-v7-0-t4051329",
-            "tg_link":"https://t.me/A2LiteOfficial"
-         },
-         {
-            "version_code":"q_gapps",
-            "version_name":"Ten with GApps",
-            "maintainer_name":"acras",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5583941",
-            "xda_thread":"https://forum.xda-developers.com/mi-a2-lite/development/rom-aospextended-rom-v7-0-t4051329",
-            "tg_link":"https://t.me/A2LiteOfficial"
-         }
-      ]
-   },
-   {
       "name":"Redmi Note 10 Pro",
       "brand":"Xiaomi",
       "codename":"sweet",
       "supported_versions":[
-        {
+         {
            "version_code":"r_gapps",
            "version_name":"Eleven with GApps",
            "maintainer_name":"Hari (makhk)",
            "maintainer_url":"https://forum.xda-developers.com/m/hk96.5897613/",
            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r40-sweet-sweetin-aospextended-rom-v8-5-unofficial.4310777/",
            "tg_link":"https://t.me/hk_sweetbuilds"
-        }
+         }
       ]
-   }
+    }
 ]
