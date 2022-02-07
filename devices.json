@@ -70,6 +70,52 @@
       ]
    },
    {
+      "name":"Xiaomi Mi A3",
+      "brand":"Xiaomi",
+      "codename":"laurel_sprout",
+      "supported_versions":[
+        {
+           "version_code":"s",
+           "version_name":"Twelve",
+           "maintainer_name":"Anirudh Kosgi (anirudhkosgi)",
+           "maintainer_url":"https://forum.xda-developers.com/m/anirudh-kosgi.9294895/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/RumUniverseA3"
+        },
+        {
+           "version_code":"s_gapps",
+           "version_name":"Twelve with GApps",
+           "maintainer_name":"Anirudh Kosgi (anirudhkosgi)",
+           "maintainer_url":"https://forum.xda-developers.com/m/anirudh-kosgi.9294895/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/RumUniverseA3"
+        }
+      ]
+   },
+   {
+      "name":"7",
+      "brand":"OnePlus",
+      "codename":"guacamoleb",
+      "supported_versions":[
+        {
+           "version_code":"s",
+           "version_name":"Twelve",
+           "maintainer_name":"Shantanu Sarkar (shantanusarkar)",
+           "maintainer_url":"https://forum.xda-developers.com/m/shantanusarkar.11700663/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/OnePlus7Development"
+        },
+        {
+           "version_code":"s_gapps",
+           "version_name":"Twelve with GApps",
+           "maintainer_name":"Shantanu Sarkar (shantanusarkar)",
+           "maintainer_url":"https://forum.xda-developers.com/m/shantanusarkar.11700663/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/OnePlus7Development"
+        }
+      ]
+   },
+   {
       "name":"7 Pro",
       "brand":"OnePlus",
       "codename":"guacamole",
@@ -116,6 +162,29 @@
       ]
    },
    {
+      "name":"8T/9R",
+      "brand":"OnePlus",
+      "codename":"lemonkebab",
+      "supported_versions":[
+        {
+           "version_code":"s",
+           "version_name":"Twelve",
+           "maintainer_name":"Kunal Shah (KunalShah)",
+           "maintainer_url":"https://forum.xda-developers.com/m/kunalshah912.4171555/",
+           "xda_thread":"https://forum.xda-developers.com/t/rom-aex-aospextended-v9-0-12-beta-22-01-22.4351627/",
+           "tg_link":"https://t.me/aex9R"
+        },
+        {
+           "version_code":"s_gapps",
+           "version_name":"Twelve with GApps",
+           "maintainer_name":"Kunal Shah (KunalShah)",
+           "maintainer_url":"https://forum.xda-developers.com/m/kunalshah912.4171555/",
+           "xda_thread":"https://forum.xda-developers.com/t/rom-aex-aospextended-v9-0-12-beta-22-01-22.4351627/",
+           "tg_link":"https://t.me/aex9R"
+        }
+      ]
+   },
+   {
       "name":"POCO F1",
       "brand":"Xiaomi",
       "codename":"beryllium",
@@ -142,7 +211,7 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
             "xda_thread":"",
             "tg_link":"https://t.me/aex_beryllium"
-         }         
+         }
       ]
    },
    {
@@ -317,6 +386,21 @@
             "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
             "xda_thread":"",
             "tg_link":"https://t.me/aex_whyred"
+         },
+         {  "version_code":"s",
+            "version_name":"Twelve",
+            "maintainer_name":"SakilMondal",
+            "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
+            "xda_thread":"",
+            "tg_link":"https://t.me/SakilMondalsChat"
+         },
+         {
+            "version_code":"s_gapps",
+            "version_name":"Twelve with GApps",
+            "maintainer_name":"SakilMondal",
+            "maintainer_url":"https://forum.xda-developers.com/m/sakilmondal.6151980",
+            "xda_thread":"",
+            "tg_link":"https://t.me/SakilMondalsChat"
          }
       ]
    },
@@ -505,7 +589,23 @@
             "maintainer_name":"Ahmed Moselhi(kanged99)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6388219",
             "xda_thread":""
-         }
+         },
+         {
+            "version_code":"s",
+            "version_name":"Twelve",
+            "maintainer_name":"Ahmed Moselhi(kanged99)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6388219",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-12-0-0_r18-aospextended-rom-v9-0-rmx1851-official.4399405/"
+            "tg_link":"https://t.me/realme3pros"
+        },
+        {
+            "version_code":"s_gapps",
+            "version_name":"Twelve with GApps",
+            "maintainer_name":"Ahmed Moselhi(kanged99)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6388219",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-12-0-0_r18-aospextended-rom-v9-0-rmx1851-official.4399405/"
+            "tg_link":"https://t.me/realme3pros"
+        }
       ]
    },
    {
@@ -534,15 +634,31 @@
             "version_name":"Eleven",
             "maintainer_name":"ShubhamB (sb6596)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
-            "xda_thread":"",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r38-aospextended-rom-v8-3-official.4292129/",
             "tg_link":"https://t.me/realme2proXDA"
         },
-         {
+        {
             "version_code":"r_gapps",
             "version_name":"Eleven with GApps",
             "maintainer_name":"ShubhamB (sb6596)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
-            "xda_thread":"",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r38-aospextended-rom-v8-3-official.4292129/",
+            "tg_link":"https://t.me/realme2proXDA"
+        },
+        {
+            "version_code":"s",
+            "version_name":"Twelve",
+            "maintainer_name":"ShubhamB (sb6596)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-12-0-0_r20-aospextended-rom-v9-0-unofficial.4350691/",
+            "tg_link":"https://t.me/realme2proXDA"
+        },
+        {
+            "version_code":"s_gapps",
+            "version_name":"Twelve with GApps",
+            "maintainer_name":"ShubhamB (sb6596)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-12-0-0_r20-aospextended-rom-v9-0-unofficial.4350691/",
             "tg_link":"https://t.me/realme2proXDA"
         }
       ]
@@ -575,6 +691,52 @@
             "xda_thread":"",
             "tg_link":"https://t.me/Realme6Pro_Official"
          }
+      ]
+   },
+   {
+      "name":"5 Pro",
+      "brand":"Realme",
+      "codename":"RMX1971",
+      "supported_versions":[
+        {
+           "version_code":"s",
+           "version_name":"Twelve",
+           "maintainer_name":"MadhavSaladi(BabluS)",
+           "maintainer_url":"https://forum.xda-developers.com/m/bablus.8482987/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/Realme5Pro_Global"
+        },
+        {
+           "version_code":"s_gapps",
+           "version_name":"Twelve with GApps",
+           "maintainer_name":"MadhavSaladi(BabluS)",
+           "maintainer_url":"https://forum.xda-developers.com/m/bablus.8482987/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/Realme5Pro_Global"
+        }
+      ]
+   },
+   {
+      "name":"5 Series",
+      "brand":"Realme",
+      "codename":"r5x",
+      "supported_versions":[
+        {
+           "version_code":"s",
+           "version_name":"Twelve",
+           "maintainer_name":"MadhavSaladi(BabluS)",
+           "maintainer_url":"https://forum.xda-developers.com/m/bablus.8482987/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/Realme5Dev"
+        },
+        {
+           "version_code":"s_gapps",
+           "version_name":"Twelve with GApps",
+           "maintainer_name":"MadhavSaladi(BabluS)",
+           "maintainer_url":"https://forum.xda-developers.com/m/bablus.8482987/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/Realme5Dev"
+        }
       ]
    },
    {
@@ -657,6 +819,44 @@
            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r40-sweet-sweetin-aospextended-rom-v8-5-unofficial.4310777/",
            "tg_link":"https://t.me/hk_sweetbuilds"
         }
+      ]
+   },
+   {
+      "name":"Poco X3 NFC",
+      "brand":"Xiaomi",
+      "codename":"surya",
+      "supported_versions":[
+	{
+            "version_code":"s",
+            "version_name":"Twelve",
+            "maintainer_name":"TheStrechh (Carlos Arriaga)",
+            "maintainer_url":"https://forum.xda-developers.com/m/carlos-arriaga.6331811/",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-12-0-0_r18-aospextended-rom-v9-0-for-poco-x3-nfc-w-i-p-unified-13-01-2022.4366591",
+            "tg_link":"https://t.me/TheStrechh"
+         },
+         {
+            "version_code":"s_gapps",
+            "version_name":"Twelve with GApps",
+            "maintainer_name":"TheStrechh (Carlos Arriaga)",
+            "maintainer_url":"https://forum.xda-developers.com/m/carlos-arriaga.6331811/",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-12-0-0_r18-aospextended-rom-v9-0-for-poco-x3-nfc-w-i-p-unified-13-01-2022.4366591",
+            "tg_link":"https://t.me/TheStrechh"
+         }
+      ]
+   },
+   {
+      "name":"OnePlus 7T",
+      "brand":"OnePlus",
+      "codename":"hotdogb",
+      "supported_versions":[
+         {
+            "version_code":"s_gapps",
+            "version_name":"Twelve with GApps",
+            "maintainer_name":"Czarsuperstar",
+            "maintainer_url":"https://forum.xda-developers.com/m/czarsuperstar-gmail-com.2892269/",
+            "xda_thread":"",
+            "tg_link":"https://t.me/aex4hotdogb"
+         }
       ]
    }
 ]
