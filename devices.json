@@ -70,6 +70,29 @@
       ]
    },
    {
+      "name":"7",
+      "brand":"OnePlus",
+      "codename":"guacamoleb",
+      "supported_versions":[
+        {
+           "version_code":"s",
+           "version_name":"Twelve",
+           "maintainer_name":"Shantanu Sarkar (shantanusarkar)",
+           "maintainer_url":"https://forum.xda-developers.com/m/shantanusarkar.11700663/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/OnePlus7Development"
+        },
+        {
+           "version_code":"s_gapps",
+           "version_name":"Twelve with GApps",
+           "maintainer_name":"Shantanu Sarkar (shantanusarkar)",
+           "maintainer_url":"https://forum.xda-developers.com/m/shantanusarkar.11700663/",
+           "xda_thread":"",
+           "tg_link":"https://t.me/OnePlus7Development"
+        }
+      ]
+   },
+   {
       "name":"7 Pro",
       "brand":"OnePlus",
       "codename":"guacamole",
