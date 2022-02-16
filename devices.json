@@ -1,6 +1,6 @@
 [
     {
-        "name":"Xiaomi Mi A3",
+        "name":"Mi A3",
         "brand":"Xiaomi",
         "codename":"laurel_sprout",
         "supported_versions":[
@@ -10,7 +10,7 @@
                 "maintainer_name":"Anirudh Kosgi (anirudhkosgi)",
                 "maintainer_url":"https://forum.xda-developers.com/m/anirudh-kosgi.9294895/",
                 "xda_thread":"",
-                "tg_link":"https://t.me/RumUniverseA3"
+                "tg_link":"https://t.me/aexlaurel"
             },
             {
                 "version_code":"s_gapps",
@@ -18,7 +18,7 @@
                 "maintainer_name":"Anirudh Kosgi (anirudhkosgi)",
                 "maintainer_url":"https://forum.xda-developers.com/m/anirudh-kosgi.9294895/",
                 "xda_thread":"",
-                "tg_link":"https://t.me/RumUniverseA3"
+                "tg_link":"https://t.me/aexlaurel"
             }
         ]
     },
