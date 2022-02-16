@@ -261,6 +261,29 @@
         ]
     },
     {
+	"name":"Redmi Note 7/7S",
+	"brand":"Xiaomi",
+	"codename":"lavender",
+	"supported_versions":[
+	    {
+		"version_code":"s",
+		"version_name":"Twelve",
+		"maintainer_name":"Aaradhay Vijay",
+		"maintainer_url":"https://forum.xda-developers.com/m/aaradhayvijay.11824373/",
+		"xda_thread":"",
+		"tg_link":"https://t.me/infernobuilds"
+	    },
+	    {
+		"version_code":"s_gapps",
+		"version_name":"Twelve with Gapps",
+		"maintainer_name":"Aaradhay Vijay",
+		"maintainer_url":"https://forum.xda-developers.com/m/aaradhayvijay.11824373/",
+		"xda_thread":"",
+		"tg_link":"https://t.me/infernobuilds"
+	    }
+	]
+    },
+    {
         "name":"Xiaomi Redmi Note 9S/9 Pro/9 Pro Max/Poco M2 Pro",
         "brand":"Xiaomi/Poco",
         "codename":"miatoll",
