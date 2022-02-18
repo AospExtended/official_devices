@@ -449,6 +449,22 @@
                 "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
                 "xda_thread":"",
                 "tg_link":"https://t.me/realme7ProOfficial"
+            },
+            {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"SagarMakhar",
+                "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
+                "xda_thread":"",
+                "tg_link":"https://t.me/realme7ProOfficial"
+            },
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"SagarMakhar",
+                "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
+                "xda_thread":"",
+                "tg_link":"https://t.me/realme7ProOfficial"
             }
         ]
     },
@@ -460,6 +476,22 @@
             {
                 "version_code":"r",
                 "version_name":"Eleven with GApps",
+                "maintainer_name":"SagarMakhar",
+                "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
+                "xda_thread":"",
+                "tg_link":"https://t.me/Realme6Pro_Official"
+            },
+            {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"SagarMakhar",
+                "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
+                "xda_thread":"",
+                "tg_link":"https://t.me/Realme6Pro_Official"
+            },
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
                 "maintainer_name":"SagarMakhar",
                 "maintainer_url":"https://forum.xda-developers.com/member.php?u=7638319",
                 "xda_thread":"",
