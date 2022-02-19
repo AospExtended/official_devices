@@ -628,5 +628,20 @@
                 "tg_link":"https://t.me/aex4hotdogb"
             }
         ]
+    },
+    {
+        "name":"POCO X2/Redmi K30",
+        "brand":"Xiaomi/Poco",
+        "codename":"phoenix",
+        "supported_versions":[
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"Chiranth A J (chiru2000)",
+                "maintainer_url":"https://forum.xda-developers.com/m/chiru2000.10100968/",
+                "xda_thread":"",
+                "tg_link":"https://t.me/aospextendedphoenix"
+            }
+        ]
     }
 ]
