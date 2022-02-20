@@ -335,7 +335,7 @@
         "brand":"Generic",
         "codename":"treble_gsi",
         "supported_versions":[
-            
+
         ]
     },
     {
@@ -641,6 +641,21 @@
                 "maintainer_url":"https://forum.xda-developers.com/m/chiru2000.10100968/",
                 "xda_thread":"https://forum.xda-developers.com/t/rom-12-phoenix-official-aospextended-9-0-20-02-22.4405257/",
                 "tg_link":"https://t.me/aospextendedphoenix"
+            }
+        ]
+    },
+    {
+        "name":"Xiaomi Redmi K20 Pro",
+        "brand":"Xiaomi",
+        "codename":"raphael",
+        "supported_versions":[
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"Szymon Er Estymaowiec",
+                "maintainer_url":"https://t.me/kolektywowiec",
+                "xda_thread":"",
+                "tg_link":"https://t.me/kolektywowiec"
             }
         ]
     }
