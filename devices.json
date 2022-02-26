@@ -189,6 +189,14 @@
         "codename":"I006D",
         "supported_versions":[
             {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"Davide Della Maddalena (dmd79)",
+                "maintainer_url":"https://forum.xda-developers.com/member.php?u=2823824",
+                "xda_thread":"",
+                "tg_link":"https://t.me/aexzf8"
+            },
+            {
                 "version_code":"s_gapps",
                 "version_name":"Twelve with GApps",
                 "maintainer_name":"Davide Della Maddalena (dmd79)",
