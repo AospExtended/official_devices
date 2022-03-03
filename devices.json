@@ -658,6 +658,14 @@
         "codename":"raphael",
         "supported_versions":[
             {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"Szymon Er Estymaowiec",
+                "maintainer_url":"https://t.me/kolektywowiec",
+                "xda_thread":"",
+                "tg_link":"https://t.me/kolektywowiec"
+            },
+            {
                 "version_code":"s_gapps",
                 "version_name":"Twelve with GApps",
                 "maintainer_name":"Szymon Er Estymaowiec",
