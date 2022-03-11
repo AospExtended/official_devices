@@ -674,5 +674,20 @@
                 "tg_link":"https://t.me/kolektywowiec"
             }
         ]
-    }
+    },
+    {
+        "name":"Nord 2 5G",
+        "brand":"OnePlus",
+        "codename":"denniz",
+        "supported_versions":[
+            {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"SakilMondal",
+                "maintainer_url":"https://t.me/SakilMondal",
+                "xda_thread":"",
+                "tg_link":""
+            }
+        ]
+	}
 ]
