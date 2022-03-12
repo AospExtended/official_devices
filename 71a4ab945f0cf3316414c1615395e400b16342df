@@ -34,6 +34,24 @@
       "parentUuid": "28e8148d_f42fdcf9",
       "revId": "71a4ab945f0cf3316414c1615395e400b16342df",
       "serverId": "692a3d4a-6cfc-41d4-b12b-cb9542eed61e"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5c2eda2b_8361bbb2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2022-03-12T04:28:59Z",
+      "side": 1,
+      "message": "platform_frameworks_opt_net_ims - Done\nplatform_frameworks_opt_telephony - Done\nplatform_packages_modules_Wifi -Done\nplatform_external_selinux - Done\n\nPush changes to gerrit for this repos, Meanwhile I will rebase NFC repos",
+      "parentUuid": "3f3750d9_f7482de4",
+      "revId": "71a4ab945f0cf3316414c1615395e400b16342df",
+      "serverId": "692a3d4a-6cfc-41d4-b12b-cb9542eed61e"
     }
   ]
 }
