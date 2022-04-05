@@ -675,4 +675,27 @@
             }
         ]
     }
+{
+        "name":"Redmi Note 10",
+        "brand":"Xiaomi",
+        "codename":"mojito/sunny",
+        "supported_versions":[
+            {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"Rom Bahadur Gharti",
+                "maintainer_url":"https://forum.xda-developers.com/m/romgharti.5589615/",
+                "xda_thread":"https://forum.xda-developers.com/t/aospextended-v9-0-mojito-unofficial-android-12-mojito-sunny.4401705/",
+                "tg_link":"https://t.me/Romgharti"
+            },
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"Rom Bahadur Gharti",
+                "maintainer_url":"https://forum.xda-developers.com/m/romgharti.5589615/",
+                "xda_thread":"https://forum.xda-developers.com/t/aospextended-v9-0-mojito-unofficial-android-12-mojito-sunny.4401705/",
+                "tg_link":"https://t.me/Romgharti"
+            }
+        ]
+    }
 ]
