@@ -675,4 +675,27 @@
             }
         ]
     }
+{
+        "name":"Redmi Note 5/Redmi 5 Plus",
+        "brand":"Xiaomi",
+        "codename":"vince",
+        "supported_versions":[
+            {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"rk134 (Rahul K)",
+                "maintainer_url":"https://forum.xda-developers.com/m/rk134.9436905/",
+                "xda_thread":"",
+                "tg_link":"https://t.me/aexvince"
+            },
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"rk134 (Rahul K)",
+                "maintainer_url":"https://forum.xda-developers.com/m/rk134.9436905/",
+                "xda_thread":"",
+                "tg_link":"https://t.me/aexvince"
+            }
+        ]
+    }
 ]
