@@ -735,5 +735,20 @@
                 "tg_link":"https://t.me/aexvince"
             }
         ]
+    },
+    {
+        "name":"Poco F3/Mi 11X/Redmi K40",
+        "brand":"Xiaomi",
+        "codename":"alioth",
+        "supported_versions":[
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"cristianvaz",
+                "maintainer_url":"https://forum.xda-developers.com/m/cristianvaz.11729943/",
+                "xda_thread":"",
+                "tg_link":"https://t.me/cristianvazsupport"
+            }
+        ]
     }
 ]
