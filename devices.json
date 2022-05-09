@@ -735,5 +735,28 @@
                 "tg_link":"https://t.me/aexvince"
             }
         ]
+    },
+    {
+        "name":"Poco X3 Pro",
+        "brand":"Xiaomi",
+        "codename":"vayu/bhima",
+        "supported_versions":[
+            {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"Lambada10",
+                "maintainer_url":"https://forum.xda-developers.com/m/lambada10.9831344/",
+                "xda_thread":"",
+                "tg_link":"https://t.me/LambadaOT"
+            },
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"Lambada10",
+                "maintainer_url":"https://forum.xda-developers.com/m/lambada10.9831344/",
+                "xda_thread":"",
+                "tg_link":"https://t.me/LambadaOT"
+            }
+        ]
     }
 ]
