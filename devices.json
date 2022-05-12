@@ -735,5 +735,28 @@
                 "tg_link":"https://t.me/aexvince"
             }
         ]
+    },
+    {
+        "name":"Motorola One Power",
+        "brand":"Motorola",
+        "codename":"chef",
+        "supported_versions":[
+            {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"Rushi Ranpise (rushi24)",
+                "maintainer_url":"https://forum.xda-developers.com/m/rushiranpise.8323951/",
+                "xda_thread":"https://forum.xda-developers.com/t/rom-12-x-aospextended-rom-v9-x-unofficial-chef.4438721/",
+                "tg_link":"https://t.me/saucefinder"
+            },
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"Rushi Ranpise (rushi24)",
+                "maintainer_url":"https://forum.xda-developers.com/m/rushiranpise.8323951/",
+                "xda_thread":"https://forum.xda-developers.com/t/rom-12-x-aospextended-rom-v9-x-unofficial-chef.4438721/",
+                "tg_link":"https://t.me/saucefinder"
+            }
+        ]
     }
 ]
