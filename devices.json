@@ -1,5 +1,28 @@
 [
     {
+        "name":"Mi A2",
+        "brand":"Xiaomi",
+        "codename":"jasmine_sprout",
+        "supported_versions":[
+            {
+                "version_code":"s",
+                "version_name":"Twelve",
+                "maintainer_name":"Mohammad Hasan Keramat J (ikeramat)",
+                "maintainer_url":"https://forum.xda-developers.com/m/ikeramat.6540480/",
+                "xda_thread":"https://forum.xda-developers.com/t/rom-12-1-0_r5-aospextended-rom-v9-1-unofficial.4469485/",
+                "tg_link":"https://t.me/A26XOfficial"
+            },
+            {
+                "version_code":"s_gapps",
+                "version_name":"Twelve with GApps",
+                "maintainer_name":"Mohammad Hasan Keramat J (ikeramat)",
+                "maintainer_url":"https://forum.xda-developers.com/m/ikeramat.6540480/",
+                "xda_thread":"https://forum.xda-developers.com/t/rom-12-1-0_r5-aospextended-rom-v9-1-unofficial.4469485/",
+                "tg_link":"https://t.me/A26XOfficial"
+            }
+        ]
+    },
+    {
         "name":"Mi A3",
         "brand":"Xiaomi",
         "codename":"laurel_sprout",
